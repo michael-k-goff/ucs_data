@@ -1,0 +1,49 @@
+[
+	{
+		"content":[
+			"Organic farming is a system that avoids synthetic fertilizers and pesticides, genetically modified organisms, growth hormones, and antibiotics, and encourages the use of local seeds, measures to improve soil fertility, pasture, and other tools to support natural animal behavior [organic_review]. Following, we review some of the advantages and disadvantages of organic farming relative to conventional farming. It may be more sensible to adopt the best aspects of organic agriculture but to avoid dogmatic adherance [org_env]."
+		]
+	},
+	{
+		"name":"Economics",
+		"content":[
+			"As of 2015, organic farming comprised 51 million hectares of cropland, about 1% of the world total, and constituted $82 billion of sales [organic_review]. Organic products command a significant price premium, reflecting both consumer preference and higher production cost.",
+			"-organic_premium.jpg-60",
+			"!Premium for organic products in the United States, expressed a percentage premium over the conventional equivalent, as of 2010. Data is reported by Carlson and Jaenicke [org_premium]. The above figures are the average premium over all products in a given category, with categories given as in Carlson [org_premium_blog].",
+			"The organic price premium tends to fluctuate and has generally declined in the late 2010s [org_premium2]."
+		]
+	},
+	{
+		"name":"Yields",
+		"content":[
+			"Yields of organic agriculture, compared to conventional agriculture, vary but are typically lower, as shown by the following sample of studies.",
+			"-organic_yield.jpg-65",
+			"!Yields of organic agriculture relative to conventional agriculture. Studies cited: [meat_land_use][org_yield4][org_yield2][org_yield7][org_yield3][org_yield6][org_yield_nature][org_yield5][org_env].",
+			"The Rodale Institute's demonstration project, after showing an initial decline for a few years, eventually provided the same yields as the parallel conventional farm, and outperformed it during drought years [rodale].",
+			"Although organic farming does not use synthetic fertilizers directly, it often uses manure as fertilizer. The nutrients in manure are generally provided from the synthetic fertilizers that were applied to animal feed [nesme]. This effect may limit the share of world agriculture that can be produced organically. Crop residues could provide up to 30% of needed nitrogen [organic_scale]."
+		]
+	},
+	{
+		"name":"Energy",
+		"content":[
+			"By reducing synthetic fertilizers and pesticides, organic farming tends to save energy relative to conventional farming.",
+			"-organic_energy.jpg",
+			"!Energy requirements of organic agriculture relative to conventional agriculture. Studies cited: [org_uk][meat_land_use][org_yield7][fess][org_switz][org_energy2][organic_energy][reganold][org_env][glenlea][ziesemer]. Another recent meta-study confirms that organic farming is generally more energy efficient [org_energy3]."
+		]
+	},
+	{
+		"name":"Other Environmental Impacts",
+		"content": [
+			"On other environmental metrics, organic agriculture often performs worse or similar to conventional agriculture on a per-product basis. However, performance also depends highly on local conditions [org_env].",
+			"-organic_impact.jpg-60",
+			"!Comparitive impact of organic farming, relative to conventional equivalents, on a per-product basis, across several metrics. Data sources: [meat_land_use][pimentel05][org_env]."
+		]
+	},
+	{
+		"name":"Health and Social Impacts",
+		"content":[
+			"A review of medical literature did not find strong evidence that organic foods are more nutritious that non-organic foods, though it did find a 30% lower risk of pesticide residue exposure and a lower risk of exposure to antibiotic-resistant bacteria [org_health].",
+			"Perceived social benefits include the desire to support agrarian lifestyles and local food production."
+		]
+	}
+]

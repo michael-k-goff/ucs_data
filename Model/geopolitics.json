@@ -1,0 +1,28 @@
+[
+	{
+		"content":[
+			"Energy, and oil in particular, are strategic resources that have been associated with armed conflict [mansson]. Additionally, availability of oil and other forms of energy is necessary to conduct modern warfare."
+		]
+	},
+	{
+		"name":"Military Energy Consumption",
+		"content":[
+			"Most energy consumption by the United States federal government is by the Department of Defense, most of which in turn is for military vehicles and operations. In the United States, the military is responsible for about 1% of national energy consumption.",
+			"-dod_energy.jpg",
+			"!Energy consumed by the United States military and federal government. Operational energy, reported by the Department of Defense [dod_operational], is that used for tactical vehicles and military operations. Installation energy, also reported by the DoD [dod_energy], is that used to power permanent facilities, such as bases and offices. The Department of Energy report other federal energy consumption [federal_energy].",
+			"If world military energy consumption, per dollar spent [sipri], is the same as the United States, then world annual military energy consumption is about 2 exajoules, or about 0.5% of final energy consumption [iea_sankey].",
+			"The military has required much greater shares of national energy consumption during periods of major warfare.",
+			"-war_energy.jpg",
+			"!Energy consumed by the United States military during World War I, World War II, the Vietnam War, and today. Historically data from Smil [smil_war] and current data as shown above.",
+			"The logistics of warfare greatly increase the cost of supplying energy. The cost of delivering a gallon of gasoline to the battlefield in Iraq and Afghanistan was estimated to range from $9 to $45 per gallon, compared to $2-3 per gallon for civilian supply [energy_mil]. High cost and the vulnerability imposed by supply chains stimulates military interest in energy efficiency and onsite energy production options such as solar microgrids [energy_mil]."
+		]
+	},
+	{
+		"name":"Oil Dependency",
+		"content":[
+			"Dependency on imported natural resources, particularly oil, carries risk separately from environmental impacts. Figures are disputed and uncertain; one estimate of the externalized security and economic risks of imported oil, relative to domestic oil, is as follows.",
+			"-import_cost.jpg",
+			"!Security and economic risk premium of important oil, relative to domestic oil. Estimates were made in the context of marginal United States imports in 2013 and 2014, presented in 2010 dollars. The magnitude of these costs, and whether they are properly considered external costs, is debated. In particular, Hall [halld] estimates a defense spending premium of $13.16 (2010 dollars). Source: Brown and Kennelly [oil_security]."
+		]
+	}
+]

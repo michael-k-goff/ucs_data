@@ -1,0 +1,25 @@
+[
+	{
+		"content":[
+			"Food production is the main source of nitrogen pollution. See our discussion of <a href=\"/solution/habitat/nutrient_socio\">nutrient pollution</a> for information on broader causes and ecological impacts of them."
+		]
+	},
+	{
+		"name":"Food and Eutrophication",
+		"content":[
+			"Agriculture is the main source of nitrogen and phosphorous runoff, which leads to eutrophication. Generally, meat and animal products lead to much greater eutrophication over their lifetime than plant-based foods.",
+			"-eutrophication_by_food.jpg-60",
+			"!Sources: FAO [nutritive], Poore and Nemecek [poore].",
+			"In addition to adopting <a href=\"/solution/foodwater/diet_fw\">plant-based diets</a>, fertilizer runoff and eutrophication can be reduced through <a href=\"/topic/foodwater/practices\">farming practices</a> such as no-till and precision farming, and <a href=\"/topic/foodwater/practices\">intensive farming methods</a> such as greenhouses."
+		]
+	},
+	{
+		"content": [
+			"World economical reserves of phosphate rock, the main source of the critical element phosphorous in fertilizers, are between 60 [ifdc] and 69 billion [usgs2016] tons, or about 270-310 years of production at 2014 levels [usgs2016]. However, most known reserves are in Morocco [usgs2016], posing a risk to security of supply, and reserve estimates are in doubt [phosphate_critique]. There is not a clear reason to worry, but a thorough audit of reserves from an organization such as the Food and Agriculture Organization of the United Nations would be of value.",
+			"The following phosphorous conservation opportunities have been estimated.",
+			"-phosphorous_conservation.jpg-60",
+			"!Sources: Gilmour et al. [muni_p_recovery], Satorious et al. [muni_p], Udawatta et al. [pasture_p]."
+		],
+		"name": "Nutrient Availability"
+	}
+]

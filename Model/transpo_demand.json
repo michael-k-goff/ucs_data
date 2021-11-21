@@ -1,0 +1,39 @@
+[
+	{
+		"content":[
+			"As transportation becomes easier, faster, and less expensive, people tend to do more of it. Furthermore, different modes of transportation are not necessarily substitutes in the way one might expect. In some cases, they can be complements, in that growth in one mode will lead to growth in another.",
+			"Induced demand is not necessarily a bad thing, as allowing people to get around is why we build transportation systems in the first place. However, induced demand and complementarity effects must be taken into account when mitigating the negative externalities of transportation, such as pollution and congestion."
+		]
+	},
+	{
+		"name":"Induced Demand for Driving",
+		"content":[
+			"The principle of induced demand is well-established in the context of roads and driving: when more roads are built, more driving can be expected as a result. Following are estimates of the magnitude of the effect.",
+			"-vmt_lane.jpg",
+			"!Estimated elasticities of vehicle miles traveled (VMT) from road construction: the percentage incrase in VMT that should be expected from a 1% increase in road capacity. Esimates sourced from Cervero [vmt_lanes4], Graham et al.[vmt_lanes5], Handy and Boarnet [vmt_lanes6], Hanson and Huang [vmt_lanes2], Hymel et al. [vmt_lanes1], Kockelman [vmt_lanes7], Noland [vmt_lanes3], and Schiffer et al. [vmt_lanes8]. Additional useful surveys include Hymel et al. [vmt_lanes1] and Litman [vtpi_induced_demand].",
+			"As driving becomes faster and cheaper, more of it should be expected as a result.",
+			"-vmt_speed.jpg",
+			"!Increase in VMT expected from an increase in driving speed. Estimates sourced from Goodwin [vmt_speed2], Lee et al. [vmt_speed4], National Highways Institute [vmt_speed3], and SACTRA [vmt_speed1]. See also, Litman [vtpi_induced_demand] for a survey.",
+			"New vehicle technology, particularly self-driving cars, is likely to result in induced demand.",
+			"-vmt_av.jpg",
+			"!Sources: Childress et al. [vmt_av2], Gucwa [vmt_av3], Sokolov and Stevens [vmt_av], and Wadud et al. [vmt_av1]."
+		]
+	},
+	{
+		"name":"Induced Demand for Other Modes",
+		"content":[
+			"Induced demand and complementarity effects have been observed for other modes of transportation and alternatives to transportation.",
+			"Without accompanying urban design, mass transit will not necessarily reduce driving or increase density. Subways, in and of themselves, generally cause cities to decentralize [subways_decent]. San Francisco's Bay Area Rapid Transit (BART) was intended to reduce sprawl and concentrate development in already built-out areas, but failed to do so in significant part due to the failure of Bay Area cities to upzone near BART stations [bart]. In Japan, areas that gained access to high speed rail showed more loss of population density than those without [shinkansen]. Expansion of public transit does not, in general, cause a decrease in driving in the long run and may even increase driving in some cases [bus_induced_demand].",
+			"Over longer distances, induced demand for intercity travel from high speed rail has been observed [hsr_induced_demand]. In China, the development of the high speed rail network substituted for short haul flights (less than 1000 km), but stimulated demand for long haul flights by increasing the catchment area of airports [china_hsr]. Within the European Union, high speed rail tends to substitute for flights within countries but not between countries [clewlow].",
+			"While mixed use developments tend to decrease total driving, a portion of the internal trips in a mixed use development are induced, rather than captured from the external network [sperry]."
+		]
+	},
+	{
+		"name":"Impact of Telecommunications",
+		"content":[
+			"The impact of advancing telecommunications technology on total travel demand is complex. There there are both substition and complementary effects observed, but the evidence, both historical [salomon2][salomon] and contemporary [mokhtarian2][mokhtarian], suggests that telecommunications stimulate travel on net.",
+			"Evidence suggests that telecommuting reduces total miles driven overall [telework1][telework2][telework3], but causes a rebound in the form of additional non-work driving [telework2][telework3].",
+			"In the United States, about 29% of air travel [business_travel] and 23% of driving [vmt_purpose] is for work commuting and business purposes, representing the most promising opportunities for substitution with telecommunications."
+		]
+	}
+]

@@ -1,0 +1,8 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,     328,"[MJ] Electricity, AC, consumption mix, at consumer [Intermediate flows]",
+1,Input,,     100,[kg] Wheat White Flour [Intermediate flows],
+2,Input,,     140,[kg] freshwater (CAS 007732-18-5) [Renewable material resources from water],
+3,Output,,     6.5,[kg] Organic waste [Intermediate flows],
+4,Output,,      63,"[kg] Water (waste water, untreated), industrial waste water according to the Directive 91/271/EEC concerning urban waste water treatment, at waste water treatment plant, organic contaminated (CAS 007732-18-5) [Intermediate flows]",
+5,Output,X,    13.5,[kg] wheat gluten [Intermediate flows],
+6,Output,X,      80,[kg] wheat starch [Intermediate flows],

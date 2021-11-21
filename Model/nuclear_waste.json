@@ -1,0 +1,29 @@
+[
+	{
+		"content":[
+			"In this section, we consider several aspects of generating and disposing of nuclear waste."
+		]
+	},
+	{
+		"name":"Composition and Danger",
+		"content":[
+			"Most nuclear waste, by volume, is low-level waste, such as contimated clothing. By radioactivity, most is high-level waste: spent fuel, fission products, and the transuranic elements that result from neutron bombardment of uranium.",
+			"-nwaste_compo.jpg",
+			"!Source: [wn_waste].",
+			"Low- and intermediate- level waste, possibly after being stored on-site for a time to allow the most radioactive products to decay, is disposed of at a low-level waste disposal site, of which there are eight in the United States [nrc_waste]. High-level waste is stored in spent fuel pools, typically for five years, and then dry casks onsite while the most radioactive products decay [nrc_waste]. The United States lacks a permanent solution to high-level waste, such as the geologic disposal that was proposed at Yucca Mountain.",
+			"The most dangerous components of high level waste decay within decades, but the material remains dangerously radioactive for tens of thousands of years, necessitating a long-term disposal solution.",
+			"-lhw_lifetime.jpg",
+			"!Source: [hlw_lifetime].",
+			"-hlw_composition.jpg",
+			"!Source: [hlw_products]. Isotopes with longer half-lives tend to release less radiation per unit mass and are less dangerous over a given time."
+		]
+	},
+	{
+		"name":"Disposal Options",
+		"content":[
+			"The nuclear industry needs to develop long-term solutions for waste management. There are several inexpensive options available relative to the cost of electricity.",
+			"-nuclear_waste_options.jpg-60",
+			"!Sources: deep borehole disposal from Brady et al. [waste1], sub-seabed disposal from porter [waste4], reprocessing from Recktenwald and Deinert [reprocessing], and other options from the National Research Council [waste2] and the NEA and OECD [waste3]. While more expensive, partioning and transmutation is the only option that (partially) destroys radioactive isotopes, rather than sequestering them, though residual waste would still need to be managed by another method [waste2]. For most of the world, sub-seabed disposal would require revisions to international law [waste5]. Reprocessing would save money on the fuel cycle by reducing the need for uranium mining, but is unlikely to be economically sound at today's uranium prices [reprocessing2]. Some other options, such as geological injection of liquified waste, or launching waste into the Sun, are probably infeasible [waste2]."
+		]
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"content":[
+			"In this section, we review the ecological aspects of climate change. See <a href=\"/solution/energy/climate_se\">our discussion</a> under Energy for major sources of emissions and adaptation and geoengineering responses, and our broader <a href=\"/site/energy\">Energy</a> discussion of solutions for emissions reductions."
+		]
+	},
+	{
+		"content": [
+			"Industrial activity has emitted about 2200 billion tons (Gt) of carbon dioxide (CO<sub>2</sub>) into the atmosphere. Meeting internationally agreed goals of 2 &deg;C or 1.5 &deg;C of global warming over preindustrial levels would require that no more than 1500 or 580 Gt additional CO<sub>2</sub> respectively, which would require a sharp reversal of the trend of growing emissions [ipcc_synthesis].",
+			"-Emission Targets.jpg-60",
+			"!Figures are CO<sub>2</sub> only; comparable rates of reductions in other greenhouse gases would also be required. Source: IPCC [ipcc_synthesis]."
+		],
+		"name": "The Climate Budget"
+	},
+	{
+		"name":"Current Impact of Climate Chamge",
+		"content":[
+			"As of 2020, the world has warmed about a degree Celcius from the 1850-1900 average.",
+			"-warming_by_decade.jpg",
+			"!Source: IPCC [ipcc2021].",
+			"Emissions from human activity are responsible for most of the warming. Aside from warmer temperatures, consequences of climate change include glacial retreat, sea level rise, likely increase heat waves and droughts, and possibly increased wildfires and flooding [ipcc2021].",
+			"A 2021 study estimates that climate change will be responsible for 83 million deaths from 2020 to 2100 under the baseline scenario. This translates to one death for every 4,434 tons of CO<sub>2</sub>, or the lifetime emissions of 3.5 Americans, an a carbon cost of $37-258 from only mortality [carbon_mortality]. An estimated 37% of heat-related deaths, or about 60,000 of the 166 thousand total deaths, have been attributed to climate change [climate_heat_wave]."
+		]
+	},
+	{
+		"name":"Future Impact of Climate Change",
+		"content":[
+			"The International Panel on Climate Change has identified four future scenarios, based on how much global warming occurs. A brief summary of their impacts is as follows.",
+			"-rcp.jpg-60",
+			"!Summary of the IPCC's Representative Concentration Pathway (RCP) scenarios. Radiative forcing, which gives rise to scenario names, refers to the amount of additional energy per square meter that will be captured by the greenhouse effect.",
+			"!The IPCC [rcp] estimates warming levels and sea level rise. Lafakis et al. [moodys] report estimated atmospheric CO<sub>2</sub> concentration; as of 2020, concentration is about 410 parts per million and was about 250 ppm in pre-industrial times. Estimates on GDP impact are drawn from Kompas et al. [kompas], Kahn et al. [kahn], and Burke et al. [burke]. Wiebe et al. [wiebe] estimate impacts on crop yields. Their estimates may be pessimistic, as they do not account for CO<sub>2</sub> fertilization.",
+			"The most likely scenario, based on current trends, is between RCP4.5 and RCP6. RCP8.5 is an unlikely worst case scenario and should not be presented as \"business as usual\" [rcp85].",
+			"Under current policies, total warming should be around 3 &deg;C, though with considerable uncertainty.",
+			"-expected_warming.jpg",
+			"!Source: Hausfather [bti_climate].",
+			"The World Health Organization estimates that climate change will be responsible for about 250,000 deaths per year in 2030.",
+			"-climate_deaths.jpg-60",
+			"!Source: World Health Organization [who_cc].",
+			"Climate change is also expected to cause deaths through coastal flooding and storms, but precise estimates of the number of deaths are lacking [who_cc].",
+			"There are a number of potentially catastrophic outcomes from climate change whose likelihoods are unknown, including collapse of the West Antarctica Ice Sheet [wais], release of large quantities of methane from the Arctic permafrost [turetsky] or submerged methane hydrates [maslin], induced seismic events [mcguire], and risks that are themselves unknown [defries]. The presence of unknown \"fat tail\" risks justifies a stronger response to climate change than consideration of only median or expected outcomes [fattail]."
+		]
+	},
+	{
+		"name":"Impact of Emissions on Ecosystems",
+		"content":[
+			"Over thousands of years, the oceans will absorb most excess carbon emissions; see our work on <a href=\"/solution/oceans/ocean_acid\">ocean acidification</a> for more on this topic. In the short term, carbon emissions travel as follows.",
+			"-emissions_dest.jpg",
+			"!Source: Peters et al. [emissions_dest].",
+			"A main effect of soil uptake of CO<sub>2</sub> is fertilization of plant growth. Based on satellite data, world vegetation growth may have increased 1.3-4.3% from 1982 to 2011, mostly as a result of CO<sub>2</sub> fertilization. The following crop yield increases have been observed.",
+			"-crop_fert.jpg-60",
+			"!Yield increases of major crops from CO<sub>2</sub> fertilization, given an increase of 100 parts per million increase in atmospheric concentration. Figures are fertilization only and do not account for the impact of climate change. Source: McGrath and Lobell [co2fert]."
+		]
+	},
+	{
+		"name":"The Carbon Cycle",
+		"content":[
+			"Most near-surface carbon is stored in the oceans.",
+			"-c_storage.jpg",
+			"!Storage of carbon near the Earth's surface. Far larger reserves of carbon are in the Earth's mantle, and this carbon is exchanged with the surface over geologic time via plate tectonics and volcanoes. Source: NASA [carbon_storage]."
+		]
+	}
+]

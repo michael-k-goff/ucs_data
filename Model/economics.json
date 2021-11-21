@@ -1,0 +1,25 @@
+[
+	{
+		"content": [
+			"The availabilty of affordable, abundant energy plays a key role in economic growth."
+		]
+	},
+	{
+		"content": [
+			"The demand for energy tends to be relatively inelastic, meaning that a large price increase will have only a small effect on overall demand.",
+			"-elasticity.jpg",
+			"!Estimates of how the demand for energy decreases with a 10% increase in price. Technically, this is the price elasticity of demand for energy. Sources: International Monetary Fund [imf2011], Hamilton [hamilton_elasticity], Bernstein and Griffin [rand_elasticity].",
+			"The converse can hold as well. The IMF estimates that a 17% shortfall in oil production over 20 years would cause a 200% increase in price and 3% reduction in world GDP, compared to the baseline [imf2011]. Historically, high energy prices are well correlated with economic recessions [oilshocks].",
+			"Energy consumption also tends to increase with incomes.",
+			"-income_elasticity.jpg",
+			"!Estimated increase in energy consumption with a 10% increase in income. Source: IMF [imf2011]."
+		],
+		"name": "Economic Impact of Energy Prices"
+	},
+	{
+		"content": [
+			"Energy plays an important role in long-term economic growth. Ayres and Warr [ayres_warr] demonstrated that, as of 1998 (their last year of data), a 1% increase in available exergy (the capacity of energy to do useful work), correlates with a nearly 0.7% increase in GDP. It is not clear, however, whether exergy drives economic growth, or whether economic growth drives an increase in exergy, or both. Stern argues [stern] that, up to a point, energy is a strong constraint on economic growth. Beyond that point, an expansion of the energy supply does not generate much more growth."
+		],
+		"name": "Energy and Economic Growth"
+	}
+]

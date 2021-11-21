@@ -1,0 +1,43 @@
+[
+	{
+		"content":[
+			"In this section, we review major environmental impacts of agriculture, including land use, energy consumption, and greenhouse gases. We review farming's <a href=\"/solution/energy/water_consumption\">water</a> needs separately."
+		]
+	},
+	{
+		"content": [
+			"Agriculture is the largest land use impact that humans exert [owid_landuse].",
+			"-land_use.jpg-60",
+			"!See our <a href=\"/solution/habitat/land_use_socio\">land use analysis</a> for more information on data sources.",
+			"Since 1961, world cropland area has been steadily growing, while pasture land may have peaked [peak_farmland].",
+			"-ag_land_trends.jpg-60",
+			"!Source: FAOSTAT [faostat].",
+			"Following are estimates of land use required by particular crops.",
+			"-area_by_crop.jpg-60",
+			"!Area needs of plant-based crops are taken from FAOSTAT [faostat], with their Nutritive Factors database [nutritive] to convert to a calorie basis. Area needs for meat is taken from Clark and Tilman [meat_land_use]. Fish are assumed to be produced through aquaculture, using the area estimates to grow feedstock for the United States, as reported by Froehlich et al. [aq_land_use]."
+		],
+		"name": "Agricultural Land Use"
+	},
+	{
+		"content": [
+			"Agriculture, including upstream energy to manufacture equipment, fertilizers, and pesticides, accounts for about 4% of world energy consumption.",
+			"-energy_in_ag.jpg",
+			"!Sources: Audsley et al. [audsley], Bennetzen et al. [bennetzen], Building Energy Codes Program [energycode], FAOSTAT [faostat], IRRI [irri].",
+			"Wealthier countries tend to have higher crop yields and higher energy inputs, suggesting a tradeoff between land use and energy consumption in agriculture [schneider_smith]. In 2011, energy accounted for over 30% of corn, sorghum, and rice production costs [ag_energy_demand], underscoring the importance of energy as a factor in food affordability.",
+			"The growing of crops is just a portion of energy consumption in the <a href=\"/solution/energy/ag_dist\">larger food system</a>."
+		],
+		"name": "Energy in Agriculture"
+	},
+	{
+		"content": [
+			"Agriculture is responsible for about 20% of world greenhouse gas emissions.",
+			"-ghg_ag.jpg-60",
+			"!Sources of greenhouse gases worldwide, with warming potential assessed by carbon dioxide equivalency. Source: FAOSTAT [faostat].",
+			"Other aspects of the world food system, such as packaging and transportation, contribute 15-25% of the emissions detailed above [world_ag_emissions].",
+			"Following are estimates of greenhouse gas emissions from select foods.",
+			"-ghg_by_crop.jpg-60",
+			"!Source: Clark and Tilman [meat_land_use]."
+		],
+		"name": "Greenhouse Gas Emissions"
+	}
+]

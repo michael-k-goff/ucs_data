@@ -1,0 +1,52 @@
+[
+	{
+		"content": [
+			"Most methane used today comes from natural gas. In this section, we examine and compare this and several other pathways for producing methane."
+		]
+	},
+	{
+		"content": [
+			"Following are estimates of the greenhouse gas impacts of three methane production pathways.",
+			"-methane_emissions.jpg-60",
+			"!Biomethane and natural gas are reported by the Union of Concerned Scientists [ucs_biomethane], and electromethane, or methane produced from electrolyzed hydrogen, from Malins [electromethane]. Electromethane reduces emissions relative to natural gas only if the electricity comes from a low carbon source.",
+			"About two megajoules of electricity are needed to create one megajoule of electromethane [electromethane].",
+			"The environmental benefits of biomethane are greatest when captured methane, a potent greenhouse gas, is prevented from being released into the atmosphere."
+		],
+		"name": "Environmental Impacts"
+	},
+	{
+		"name":"Economics",
+		"content":[
+			"Due to the current low price of natural gas in the United States, alternative methods of producing methane are not cost competitive.",
+			"-methane_price.jpg-60",
+			"!Price of methane from several pathways. Sources: Jalalzadeh-Azar [biomethane_cost] for biomethane, Malins [electromethane] for electromethane, and Nasdaq [natgas_price] for natural gas as of September 2019.",
+			"Following are estimates of the cost and the cost of carbon abatement for two types of synthetic methane plants in the United States. Due to the low price of natural gas, the economics of such plants are very challenging.",
+			"-methane_cost.jpg",
+			"!Cost of biomethane and electromethane plants relative to natural gas and cost of carbon abatement. These calculations are based on a plant that produces 54 billion cubic feet of natural gas each year, as does the Great Plains Synfuels Plant [doe_methane]."
+		]
+	},
+	{
+		"name":"Biomethane",
+		"content":[
+			"Biomethane is produced primarily from waste products: wastewater, landfills, manure, and other organic wastes; additional production would be possible from dedicated crops but would be more expensive. World potential is estimated as follows.",
+			"-biomethane_potential.jpg-60",
+			"!Biomethane production potential, compared to world natural gas. Source: IEA [iea_biomethane], with total natural gas production from BP [bp2019].",
+			"From waste products, the biomethane potential in the United States is almost 8 million tons per year [nrel_biomethane], less than 1% of total natural gas production [eia_gas_2019]."
+		]
+	},
+	{
+		"name":"Coal-to-Gas",
+		"content":[
+			"There is a single coal-to-gas plant, the Great Plains Synfuels Plant, operating in the United States. In addition to synthetic natural gas, the plant produces CO<sub>2</sub> for enhanced oil recovery and gas-derived products. Although the plant operates profitably, another probably would not be built due to the low cost of natural gas [doe_methane].",
+			"In East Asia, where natural gas is more expensive, gasifiers are of increasing popularity. Coal is the technology most commonly used [gasifier_stats]."
+		]
+	},
+	{
+		"name":"Methane as Shipping Fuel",
+		"content":[
+			"Liquified natural gas (LNG) comprises a small but growing share of the shipping fuel market [shipping_paper]. LNG eliminates most SOx, NOx, and particulate pollution relative to diesel fuels [lng_pollution], but it may have higher life cycle greenhouse gas emissions.",
+			"-lng_emissions.jpg",
+			"!LNG has higher lifecycle greenhouse gas emissions, or at best slightly lower emissions, than more common diesel fuels when methane leakage is taken into account. The <a href=\"/solution/energy/gas\">standard scenario</a> assumes a leakage rate of 1.4%, and the high leakage scenario assumes a rate of 2.3%. Several other studies give somewhat lower emissions for LNG but do not take leakage into account or do so to a smaller degree [lng_emissions]. Source: [lng_icct]."
+		]
+	}
+]

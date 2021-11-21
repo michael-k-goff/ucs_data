@@ -1,0 +1,43 @@
+[
+	{
+		"content":[
+			"In this section, we review both fuels and methods for cooking."
+		]
+	},
+	{
+		"name":"Cookstoves",
+		"content":[
+			"Nearly 3 billion people around the world use solid fuel, mostly biomass, for cooking [cookstoves2]. The resulting indoor air pollution is estimated to kill at least 370,000 to 500,000 people per year [cookstoves1], and as many as 3-4 million [cookstoves2]. We estimate the following impacts of cooking fuel.",
+			"-cookstove_impact.jpg",
+			"-cookstove_impact2.jpg",
+			"-cookstove_impact3.jpg",
+			"-cookstove_impact4.jpg",
+			"-cookstove_impact5.jpg",
+			"-cookstove_impact6.jpg",
+			"-cookstove_impact7.jpg",
+			"!The above figures are the ranges across the following countries: China, India, Bangladesh, Guatemala, Nigeria, Ghana, Kenya, Uganda. Differences are due to differences in how fuel is procured and household size. These figures are total emissions and obscure the fact that, in the case of electric stoves, emissions are primarily at the power plant instead of the stovetop. Source: [cookstoves3].",
+			"Across the world, the time that a female head of household spent gathering fuel has been estimated as follows.",
+			"-cooking_time.jpg",
+			"!Sources: [cookstove_time4], [cookstove_time3], [cookstove_time2], [cookstove_time1], [cookstove_time5]. See also the review of Simkovich et al. [cookstove_time6].",
+			"Additionally, time spent actually cooking, independent of fuel gathering time, is estimated at 1241 hours per year [cookstove_time4]. More modern cooking fuels should drastically reduce these times [cookstove_time4][cookstove_time5]."
+		]
+	},
+	{
+		"name":"Modern Cooking",
+		"content":[
+			"Several cities have, or are considering, banning gas-powered appliances, including stoves, in new construction in favor of electric appliances. Individuals who use natural gas stoves tend to be exposed to greater air pollution as a result [cookstoves4]. Electric ovens tend to be safer, more convenient, but have a longer heating time [cookstoves5]. Electric ovens are comparatively better for preparing crisp, dry food, while gas ovens are better with moist food [cookstoves5].",
+			"-korea_cooking.jpg",
+			"!In Korea, which has a roughly average electricity mix by greenhouse gas intensity, electric cooking has both lower primary energy demand and fewer greenhouse gas emissions due to the higher efficiency of electric stoves. Source [korea_cooking].",
+			"Banning natural gas, in favor of electricity, has been found to carry a carbon mitigation cost of $572-806/ton in the United States [aga_electrification]."
+		]
+	},
+	{
+		"name":"Cooking Methods",
+		"content":[
+			"The method of cooking makes a difference on life cycle impacts, along with the fuel used.",
+			"-cooking_method.jpg",
+			"!Source: Hager and Morawicki [modern_cooking].",
+			"Microwave ovens generally save energy relative to ovens or stovetops, but it depends greatly on the specific food [modern_cooking]."
+		]
+	}
+]

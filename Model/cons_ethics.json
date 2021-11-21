@@ -1,0 +1,28 @@
+[
+	{
+		"content":[
+			"In this section, we consider several issues around the ethics of conservation. See also our analysis of broader <a href=\"/solution/habitat/ethics\">environmental ethics</a> and discussion of <a href=\"/solution/space/planetary_protection\">planetary protection</a> for conservation away from Earth."
+		]
+	},
+	{
+		"name":"Instrumental Versus Intrinsic Value",
+		"content":[
+			"Since at least as far back as the Muir/Pinchot debate [muir_pinchot], conservation has had an instrumental branch--which seeks to conserve nature for resources and other human uses--and an intrinsic branch--which seeks to preserve nature for its own sake. The two sides have much in common, but they differ in some areas, such as what activities are permitted on conserved lands [conservation3]. Few conservationists fall strictly into only one category.",
+			"-conservation_ethics.jpg",
+			"!Sources: [conservation2][conservation1][conservation3][conservation5]."
+		]
+	},
+	{
+		"name":"Naturalism",
+		"content":[
+			"In this context, naturalism is the idea that nature should be conserved in a way that is as close to its state, before any human intervention, as possible. Exponents of this views include Plumwood [plumwood]. Naturalism is an element of several debates in conservation, such as whether to use assisted evolution in marine conservation [marine_evolution], the use of genetic engineering or gene drives (such as the eradication of a harmful mosquito species via genetic manipulation) of invasive species [gene_drive], or the relocation of animal and plant populations in response to climate change [minteer].",
+			"The distinction between human civilization and non-human nature itself may be an inappropriate dualism [conservation4]."
+		]
+	},
+	{
+		"name":"Trophy Hunting",
+		"content":[
+			"Trophy hunting is the hunting of species, typically endangered in the wild, for some trophy that can be a mark of pride. The practice is controversial and elicits some negative reactions, but many conservationists have supported trophy hunting from a consequentiallist perspective: that trophy hunting provides a revenue stream for conservation that might otherwise be lacking [trophy3][trophy2][trophy1][trophy4]. Trophy hunting is harder to justify from a biocentric perspective [trophy5]."
+		]
+	}
+]

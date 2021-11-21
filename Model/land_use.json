@@ -1,0 +1,43 @@
+[
+	{
+		"name":"Land Use",
+		"content": [
+			"Agriculture is by far the largest human demand on the world's surface, taking up about half of all arable land [owid_landuse]. The land area of cities, though currently small, is projected to <a href=\"/solution/urban_trends\">grow rapidly</a> in the coming decades.",
+			"-land_use.jpg",
+			"!Data on barren land, glaciers, grass and shrubs, forests, aquatic and flooded land, crops, and pasture is reported in [faostat]. Data on managed forests is reported in [fao_fra]. Data on roads, rail, reservoirs, mining, and quarrying is reported in [gsa_land]. Urban land area is estimated from [newgeography], with adjustments to 2018 urban population from [wb_pop] and [wb_pop_urban]. Rural land area is estimated from urban land area, using the urban-to-rural population density ratio as in [gsa_land]. See also [owid_landuse].<br><br>Total of all categories is not exactly equal to the area of the Earth due to the use of independent estimates. Urban land area in particular is highly uncertain, with estimates from FAOSTAT [faostat] and GRUMP [grump] much lower and higher respectively.",
+			"Land use is evolving as follows.",
+			"-biome_change.jpg",
+			"!World surface area by biome, 1997 and 2011. Source: Costanza et al. [costanza].",
+			"The main causes of desertification and land degradation are <a href=\"/solution/ag_env\">farming and grazing practices</a>, and desertification is exacerbated by <a href=\"/solution/climate\">climate change</a> [ipbes].",
+			"Monetizing the costs of land and ocean usage is difficult and controversial, but the costs may be substantial.",
+			"-ecosystem_damages.jpg",
+			"!Estimates of worldwide monetized costs from conversion and degradation of land and mismanagement of oceans. Figures are 2020 US Dollars. Sources: Costanza et al. [costanza], the ELD Initiative [eld], and UNDP and GEF [ocean_finance], with OECD [oecd_biodiversity] providing an overall summary. The cost of services from forests and wetlands is offset by a gain of $255 billion to $4.8 trillion of services from grassland, cropland, and cities [costanza]."
+		]
+	},
+	{
+		"name":"Biodiversity",
+		"content":[
+			"There are over 1.8 million known living species on Earth of animals, plants, fungi, protozoa, chromista (algae), bacteria, archaea, and viruses [catalogue_of_life] and additional species that are not known. The current rate of extinction is debated [pearce] but generally believed to be substantially higher than the \"background rate\" before the development of human civilization.",
+			"-species_loss.jpg",
+			"!Documented rates of species loss from 1900 to 2014, together with expected loss under an estimated background rate (i.e. the natural rate absent human activity) of 0.02% per century. Source: Ceballos et al. [extinction_rate].",
+			"The rate of extinction in the current geological era, officially known as the Holocene and informally as the Anthropocene, is not likely to reach the levels of the five greatest mass extinctions since the Cambrian Explosion but is nevertheless geologically significant.",
+			"-mass_extinction.jpg",
+			"!The five greatest mass extinctions since the Cambrian Explosion, when most modern animal phyla appears, and the potential extinction resulting from human activity. Sources: Barash [barash], Blackburn et al. [triassic], Encyclopedia Britannica [triassic2], Gong et al. [ordavician_cause], Holland [ordavician], House [devonian], IPBES [ipbes_assessment], Nowak et al. [nowak], Raup and Sepkoski [kpg], Román-Palacios and Wiens [pnas_extinction], Schulte et al. [chicxulub], Sheldon [sheldon].",
+			"Earth's biodiversity is at risk from a wide range of human activities, with agricultural land use leading.",
+			"-species_threat.jpg",
+			"!Number of species threatened or extinct by threat factor, determined by a Red List Category rating of Vulnerable, Endangered, Critically Endangered, Extinct in the Wild, or Extinct given by the International Union for Conservation of Nature. Many species are threatened by multiple factors. Species are mostly plants and animals, and include some fungi and chromista (algae). Only species assessed by the IUCN are included, and thus there are likely more threatened species not counted. Source: IUCN [iucn]."
+		]
+	},
+	{
+		"name":"Biomass",
+		"content":[
+			"Species diversity and count is an important metric, but only one metric, of ecosystem health. By raw biomass, Earth is a planet of plants. Among large animals, humans and livestock dominate.",
+			"-earth_biomass.jpg",
+			"!Life on Earth, as measured by tons of carbon incorporated as biomass. Source: Bar-On et al. [biomass_earth].",
+			"Since the Paleolithic, human activity has led to a dramatic shift of Earth's biomass composition.",
+			"-biomass_change.jpg",
+			"!Change in overall biomass on Earth over the past 50,000 years. Source: Bar-On et al. [biomass_earth].",
+			"Human modification of the biosphere predates industrialization and agriculture. Hunting, and perhaps competition with other animals for food and habitat modification, are the major factors behind the Quaternary extinction event, or the loss of a large fraction of the world's large animal species, starting 50,000 years ago [quaternary]."
+		]
+	}
+]

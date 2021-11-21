@@ -1,0 +1,74 @@
+[
+	{
+		"content":[
+			"In this section we review the main causes and effects of climate change. Key solutions are reductions in greenhouse gas emissions from <a href=\"/topic/energy_production\">energy</a> and <a href=\"/topic/foodwater\">agriculture</a>, as well as <a href=\"/solution/ccs\">capture or removal</a> of carbon dioxide from industrial sources or the atmosphere, all of which may be spurred forward by <a href=\"/solution/valuation\">carbon pricing</a>. In this section we discuss adaptation and potential geoengineering solutions."
+		]
+	},
+	{
+		"content": [
+			"Industrial activity has emitted about 2200 billion tons (Gt) of carbon dioxide (CO<sub>2</sub>) into the atmosphere. Meeting internationally agreed goals of 2 &deg;C or 1.5 &deg;C of global warming over preindustrial levels would require that no more than 1500 or 580 Gt additional CO<sub>2</sub> respectively, which would require a sharp reversal of the trend of growing emissions [ipcc_synthesis].",
+			"-Emission Targets.jpg-60",
+			"!CO<sub>2</sub> emissions required to achieve a total warming of 2 &deg;C or 1.5 &deg;C. Figures are CO<sub>2</sub> only; comparable rates of reductions in other greenhouse gases would also be reqired. Source: IPCC [ipcc_synthesis]."
+		],
+		"name": "The Climate Budget"
+	},
+	{
+		"content": [
+			"By sector, world greenhouse gas emissions are as follows as of 2016.",
+			"-emissions_by_sector.jpg",
+			"!World greenhouse gas emissions as of 2016 by sector. Source: World Resources Institute [cait].",
+			"Following are major sources of greenhouse gas emissions from human activities.",
+			"-Global Warming Potential.jpg-65",
+			"!Sources: overall: IPCC [ipcc_synthesis], carbon dioxide: Le Quéré et al. [carbon_budget], methane: Global Methane Initiative [methane], nitrous oxide: Davidson and Kanter [n2o1] and Winiwarter [n2o2], and fluorinated gases: Purohit and Höglund-Isaksson [fgas].",
+			"Addressing the major sources of emissions requires replacing most of the world's current energy <a href=\"/topic/energy_production\">production</a> with low carbon sources; reforming <a href=\"/topic/foodwater\">agriculture</a> to reduce CO<sub>2</sub> emissions from land use, methane from enteric fermentation, and nitrous oxide emissions; preventing the release of methane from decomposing organic matter in <a href=\"/solution/recycling\">landfills</a>, and phasing out the use of F-gases in refrigeration and <a href=\"/solution/heating\">air conditioning</a> [epa_ghg]."
+		],
+		"name": "Source of Emissions"
+	},
+	{
+		"name":"Impact of Climate Change",
+		"content":[
+			"The International Panel on Climate Change has identified four future scenarios, based on how much global warming occurs. A brief summary of their impacts is as follows.",
+			"-rcp.jpg",
+			"!Summary of the IPCC's Representative Concentration Pathway (RCP) scenarios. The IPCC [rcp] estimates warming levels and sea level rise. Lafakis et al. [moodys] report estimated atmospheric CO<sub>2</sub> concentration; as of 2020, concentration is about 410 parts per million and was about 250 ppm in pre-industrial times. Estimates on GDP impact are drawn from Kompas et al. [kompas], Kahn et al. [kahn], and Burke et al. [burke]. Wiebe et al. [wiebe] estimate impacts on crop yields. Their estimates may be pessimistic, as they do not account for CO<sub>2</sub> fertilization.",
+			"The World Health Organization estimates that climate change will be responsible for about 250,000 deaths per year in 2030.",
+			"-climate_deaths.jpg",
+			"!Estimated deaths from climate change in 2030. Source: World Health Organization [who_cc].",
+			"Climate change is also expected to cause deaths through coastal flooding and storms, but precise estimates of the number of deaths are lacking [who_cc].",
+			"There are a number of potentially catastrophic outcomes from climate change whose likelihoods are unknown, including collapse of the West Antarctica Ice Sheet [wais], release of large quantities of methane from the Arctic permafrost [turetsky] or submerged methane hydrates [maslin], induced seismic events [mcguire], and risks that are themselves unknown [defries]. The presence of unknown \"fat tail\" risks justifies a stronger response to climate change than consideration of only median or expected outcomes [fattail]."
+		]
+	},
+	{
+		"name":"Impact of Emissions on Ecosystems",
+		"content":[
+			"Over thousands of years, the oceans will absorb most excess carbon emissions. In the short term, carbon emissions travel as follows.",
+			"-emissions_dest.jpg",
+			"!Destination of anthropogenic carbon emissions. Source: Peters et al. [emissions_dest].",
+			"Update of carbon is the main cause of ocean acidification, or the long-term trend of falling ocean pH. Ocean acidification poses a threat to marine ecosystems.",
+			"-acidification_impact.jpg",
+			"!Projected impacts from ocean acidification on marine ecosystems, resulting from the carbon emissions that would cause 2-3 &#8451; warming. Source: Kroeker et al.",
+			"Ocean acidification has negative impacts of fisheries, the ocean as a carbon sink, and the tourism, scentific, and cultural value of biodiversity [navrud]. Losses has been estimated to reach $1 trillion per year by 2100 under projected CO<sub>2</sub> emissions [cbd_acidification].",
+			"A main effect of soil uptake of CO<sub>2</sub> is fertilization of plant growth. Based on satellite data, world vegetation growth may have increased 1.3-4.3% from 1982 to 2011, mostly as a result of CO<sub>2</sub> fertilization. The following crop yield increases have been observed.",
+			"-crop_fert.jpg",
+			"!Yield increases of major crops from CO<sub>2</sub> fertilization, given an increase of 100 parts per million increase in atmospheric concentration. Figures are fertilization only and do not account for the impact of climate change. Source: McGrath and Lobell [co2fert]."
+		]
+	},
+	{
+		"name":"Adaptation",
+		"content":[
+			"Climate adaptation refers to efforts intended to reduce harms from climate change, as opposed to mitigation, which is intended to reduce climate change itself. Worldwide, adaptation spending is a fraction of mitigation spending.",
+			"-climate_funding.jpg",
+			"!Major purposes of world business, government, and non-profit spending on climate change. Figures are averages of 2017 and 2018 totals and represent all spending the Climate Policy Initiative is able to track, which may not be all climate spending. Source: Buchner et al. [climate_fund].",
+			"The Global Commission on Adaptation has found $1.8 trillion of adaptation projects expected to have net benefits [adaptation14]."
+		]
+	},
+	{
+		"name":"Geoengineering",
+		"content":[
+			"Geoengineering can refer to any method of deliberately altering the Earth's climate or atmospheric composition. While direct air capture of CO<sub>2</sub> from the atmosphere and bioenergy and carbon capture and sequestration (BECCS) are often considered froms of geoengineering, we consider them in our analysis of <a href=\"/solution/ccs\">carbon capture and sequestration</a>. Following is a summary of commonly considered geoengineering methods, estimates costs and carbon removal or mitigation potential, limitations, and risks and drawbacks.",
+			"-geoengineering.jpg",
+			"!Summary of most notable proposed geoengineering strategies. Sources: Bastin et al. [bastin], Boyd [boyd], Busch et al. [busch], Halstead [halstead], Lewis et al. [lewis], National Research Council [srm], N‘Yeurt et al. [ocean_afforestation], Robock et al. [sai_risk], Royal Society [ras_ghg_removal], Smith and Irvine [sai2], Smith and Wagner [sai], Strong et al. [oif], NOAA [congress_oif], Veldman et al. [veldman].",
+			"All proposed methods of geoengineering come with severe risk, limitation, and/or cost, though there is no reason to rule them out <i>a priori</i>.",
+			"There are several other methods sometimes discussed but not included above. The use of mirrors in orbit to reflect sunlight is at present impractical [srm], as is irrigation of the Sahara Desert [desert_flooding]. Efforts to increase Earth's surface albedo, such as by painting roofs white, would make insignificant contribution [desert_flooding]. There are several methods under development that could directly remove greenhouse gases other than CO<sub>2</sub>, but data on their prospects is limited [ras_ghg_removal]."
+		]
+	}
+]

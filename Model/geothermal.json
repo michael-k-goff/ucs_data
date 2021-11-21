@@ -1,0 +1,41 @@
+[
+	{
+		"content": [
+			"Geothermal is the extraction of heat from below the Earth's surface for energy. Hot reservoirs can be used for electricity production, while warm reservoirs can be harvested directly for heat for <a href=\"/solution/energy/industrial_heat\">industrial processes</a> or <a href=\"/solution/energy/heating\">district heating</a>.",
+			"We recommend a <a href=\"/solution/energy/rd\">research and development</a> program into enhanced geothermal systems, but not into hydrothermal sea vents. These geothermal methods are detailed below, with hydrothermal sea vents discussed in the context of <a href=\"/topic/oceans/ocean_energy\">ocean energy</a>."
+		]
+	},
+	{
+		"content": [
+			"Geothermal power has the following current and future project costs.",
+			"-Cost of Geothermal Power.jpg-65",
+			"!Sources: Beckers et al. [beckers], IEA et al. [lcoe2015], International Renewable Energy Agency [irena], Lazard [lazard], Logan et al. [nrel_lcoe], OpenEI [openei], Salvatore et al. [wec_lcoe], Shnell et al. [hydrothermal_lcoe], Energy Information Administration [eia_lcoe]. Note that costs are highly site-specific.",
+			"The current high costs for enhanced geothermal reflects the fact that it is still an emerging technology, and mature EGS technology has the potential to be competitive with mainstream power generation.",
+			"Recovery of valuable minerals from geothermal brine, such as gold, cesium, rubidium, lithium, and silicates, could further improve the economics, though this is not done presently [geo_minerals]. Recovery of rare earth elements does not appear to be economically feasible [geo_ree]."
+		],
+		"name": "Potential Cost"
+	},
+	{
+		"content": [
+			"The following shows potential annual production from several forms of geothermal energy.",
+			"-geothermal_potential.jpg-60",
+			"!Sources: Hiriart et al. for hydrothermal [hydrothermal], Krewitt et al. [krewitt] for world geothermal heat and electricity, and NREL [nrel_resource] for US enhanced geothermal electricity. Current world geothermal production is given by BP [bp_stat] and the EIA [geothermal_cap], and current primary energy by BP [bp_stat].",
+			"The lifecycle greenhouse gas emissions of geothermal power depends on the technology.",
+			"-geothermal_ghg.jpg-60",
+			"!Sources: Matek [matek] and Schlömer et al. [techco2]."
+		],
+		"name": "Resource Potential and Environmental Considerations"
+	},
+	{
+		"content": [
+			"An enhanced geothermal system (EGS) extracts heat from deep within the Earth and in environments that are not naturally porous. Unlike traditional hydrothermal geothermal energy, EGS resources are accessible from almost everywhere on Earth, though at varying cost and difficulty. Medium-grade EGS resources are widespread throughout the Western United States and available in other parts of the country, while low-grade resources are available almost everywhere [beckers]. Estimated EGS reserves are 266,000 EJ [tester], over 400 years of world primary energy consumption.",
+			"Following are estimates of potential EGS costs. Enhanced geothermal is a particularly attractive option for <a href=\"/solution/energy/industrial_heat\">low-temperature industrial processes</a> such as paper processing and biomass drying [beckers].",
+			"-egs_price.jpg-60",
+			"!Electricity is reported by Tester et al. [tester] and assumes a cumulative $1 billion of investment and learning-by-doing improvement. Beckers et al. [beckers] report cost estimates for EGS for direct heat. NREL [nrel_resource] estimates the cost for district heating, which is higher since not all extracted heat in a district system would be useful [reber].",
+			"Even at a higher price, EGS for district heating should be competitive with natural gas prices observed since 2005 [gas_price]. Further cost reductions may be possible through combined district heating and cooling systems [rogowska].",
+			"EGS technology does not face any obvious technical barrier and is currently undergoing demonstration deployment, notably at Cooper Basin in Australia [cooper_basin].  Nevertheless, additional deployment is needed to reduce costs.",
+			"@Enhanced Geothermal Research and Development@We estimate the expected benefit of enhanced geothermal research to be about $48 billion and the cost about $8 billion. The cost assumes 10 years of further research, at an annual cost the same as a <a href=\"/solution/energy/mhk\">wave energy</a> program of $830 million per year. The final price of enhanced geothermal power is estimated at 6 &cent;/kWh, with the same life cycle greenhouse gas emissions and other externalities as other forms of geothermal power. See our analysis of <a href=\"/solution/energy/rd\">research and development</a> for more information.@The benefit of research may be greater if the resulting enhanced geothermal energy is also be used for direct heat.@Research priorities include better characterization of the subsurface heat map, better drill bits, and more usage of supercritical fluids [dourado_geothermal]."
+		],
+		"name": "Enhanced Geothermal"
+	}
+]

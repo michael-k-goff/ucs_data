@@ -1,0 +1,62 @@
+Nation,Name,type,source,information,id
+,"fish oil, from anchovy, ecoinvent proxy, econ allocation? (Copy)",agg,EI3.5 cutoff,,{6c866508-9ee1-4a18-a907-50ddf0af2953}
+,"fishmeal, from anchovy, ecoinvent proxy, econ allocation?",agg,EI3.5 cutoff,,{10e39881-e445-4b72-882c-a38e6f95844f}
+EU-28,Electricity grid mix,agg,ts,"AC, technology mix|consumption mix, to consumer|<1kV",{001b3cb7-b868-4061-8a91-3e6d7bcc90c6}
+US,Electricity grid mix,agg,ts,"AC, technology mix|consumption mix, to consumer|<1kV",{6b6fc994-8476-44a3-81cc-9829f2dfe992}
+NO,Electricity grid mix,agg,ts,"AC, technology mix|consumption mix, to consumer|<1kV",{1e17b418-defe-4d75-87ec-9c0d8a398859}
+EU-28,Heavy fuel oil at refinery (1.0wt.% S),agg,ts,"from crude oil|production mix, at refinery|1 wt.% sulphur",{50462b0d-7d2b-40d4-843e-9857061e3c08}
+US,Sulphur (elemental) at refinery,agg,ts,"from crude oil|production mix, at refinery|elemental sulphur",{10a4afaa-d58f-44cb-b1d8-1880aa6d1761}
+EU-28,Diesel mix at refinery,agg,ts,"from crude oil and bio components|production mix, at refinery|10 ppm sulphur, 6.99 wt.% bio components",{244524ed-7b85-4548-b345-f58dc5cf9dac}
+US,Natural gas mix,agg,ts,"technology mix|consumption mix, to consumer|medium pressure level (< 1 bar)",{90be2ca7-96eb-4949-8e6d-c60dd58018aa}
+BR,Thermal energy from light fuel oil (LFO),agg,ts,"technology mix regarding firing and flue gas cleaning|production mix, at heat plant",{64d62f39-0610-4d41-9128-c566450ea79f}
+DE,Wheat starch and gluten,u-bb,,,{c7fd7cdf-45ac-45b0-a73f-e720eb79b9b0}
+BR,Soybean meal,u-so,Dalgaard el al. 2008,,{81ce23a1-0d64-418d-8f45-a66169ea0076}
+DE,"Winter wheat grains, at field (15% H2O content) (mass allocation)",agg,ts,"technology mix|production mix, at plant|15 % H2O",{b90d8101-454a-4011-acfc-c65e5b0095e7}
+GLO,"Rail transport cargo - Diesel, average train, gross tonne weight 1000t / 726t payload capacity (Copy",u-so,ts,"diesel driven, cargo|consumption mix|average train, gross tonne weight 1000t / 726t payload capacity",{c88d3261-75a4-401f-a73a-34dea14ab478}
+GLO,"Container ship, 27500 dwt payload capacity, ocean going (Copy)",u-so,ts,"heavy fuel oil driven, cargo|consumption mix|27500 dwt payload capacity, ocean going",{be49bc4e-9090-4db9-83f5-b453283997df}
+RER,"natural gas, burned in industrial furnace >100kW",agg,,,{a05ef256-04d7-45b1-8f67-865ce1bd553f}
+CH,"treatment, sewage, to wastewater treatment, class 2",agg,,,{81691358-b157-40c5-b329-2443d9442d77}
+RER,"iron sulphate, at plant",agg,,,{8fdaa552-c105-47a2-b889-39d0791acc87}
+RER,"diammonium phosphate, as P2O5, at regional storehouse",agg,,,{eb382e25-48f7-4234-9e3f-d31657c5e46b}
+CH,"calcium chloride, CaCl2, at regional storage",agg,,,{3af6e1f3-86a6-48f7-9263-c37b08ebaf1e}
+RER,"hexane, at plant",agg,,,{9fdabb9b-3267-4b62-81be-7b6c5e2a3e3a}
+RER,"tap water, at user",agg,,,{31bb1db5-432f-40ec-bf41-6eb523b3db34}
+EU-28,Tap water,agg,ts,"filtration, disinfection, ion removement etc., from groundwater|production mix, at plant|1000 kg/m3, 18 g/mol",{db009013-338f-11dd-bd11-0800200c9a66}
+NO,Yeast salmon feed processing,u-bb,,,{84f197ef-054d-4700-9683-9850d1ad309a}
+NO,Bacteria salmon feed processing,u-bb,,,{d00c71d0-6d8d-4a06-ba87-f87f6dc80b37}
+DE,Methane,agg,ts,"natural gas purification|single route, at plant|0.72 kg/m3, 16,04 g/mol, 56 MJ/kg net calorific value",{9635537b-740a-4a62-9ff5-203c4576a406}
+NO,Salmon feed processing,u-bb,,,{15a85649-6532-4b95-bc3a-87bba20e90f6}
+DE,Hydrogen peroxide (100%; H2O2) (Hydrogen from steam cracker),agg,ts,"anthraquinone process|production mix, at plant|100%; H2O2",{638b8326-b808-41b1-b6a0-90eea9fa450f}
+DE,Hydrochloric acid mix (100%),agg,ts,"technology mix|consumption mix, to consumer|1.64 kg/m3, 36.46 g/mol",{b80355ff-d10c-42bb-a0af-49dea028c527}
+EU-28,Nitrogen (gaseous),agg,ts,"via cryogenic air separation|production mix, at plant|1.250 kg/m3, 14.0 g/mol",{4a259aec-c66f-4375-aa9e-5b8c745addc0}
+EU-28,Sodium hydroxide (caustic soda) mix (100%) ,agg,ts,"technology mix|production mix, at plant|1",{8034f0ff-d0b9-47a8-86e8-ece772f56871}
+EU-28,Oxygen (gaseous),agg,ts,"via cryogenic air separation|production mix, at plant|1.429 kg/m3, 16.0 g/mol",{de25dd0e-0072-4e8d-af0d-df6b17c05e1e}
+EU-28,Sulphuric acid (96%),agg,ts,"concentrated, sulphur dioxide route|single route, at plant|96%, 1.84 g/cm3",{bf9c0154-1389-4f19-bcc1-15aec086624e}
+BR,"electricity, high voltage, production mix",agg,ecoinvent 3.5,,{f61e654e-32ff-4d86-bf3d-c1dbca6e4470}
+RoW,"heat production, light fuel oil, at industrial furnace 1MW",agg,ecoinvent 3.5,,{ccdaa712-2ba2-4e26-b7d7-8a9635c27ad4}
+US,"phosphoric acid production, dihydrate process",agg,ecoinvent 3.5,,{7f2a5048-8493-44b2-92b0-ac1dbbc142d3}
+RoW,"ammonia production, steam reforming, liquid",agg,ecoinvent 3.5,,{94f8e914-a6df-48ec-b967-9ce7e44d79ec}
+RER,magnesium sulfate production,agg,ecoinvent 3.5,,{64ef6868-9c3e-4f2b-a5ab-2bc430f414f0}
+RER,potassium hydroxide production,agg,ecoinvent 3.5,,{bb47fd7e-8b94-4012-9bc2-e26f2c9598da}
+GLO,sodium hydroxide to generic market for neutralising agent,agg,ecoinvent 3.5,,{bb48cd40-c5b8-44ac-8c91-19bbc0dd11c8}
+RoW,"maize grain, feed production",agg,ecoinvent 3.5,,{052d389e-186d-401b-a119-36edebf246c9}
+RoW,"fava bean production, organic",agg,ecoinvent 3.5,,{eaa2124c-afa3-40c5-969a-1e98ae224645}
+RoW,sunflower production,agg,ecoinvent 3.5,,{75c6b5d6-a4a2-429a-b1d2-56b48253c2c7}
+BR,soybean production,agg,ecoinvent 3.5,,{d316dfea-38ef-4402-be14-1504787ca0b3}
+RoW,"wheat grain, feed production",agg,ecoinvent 3.5,,{3933f165-d593-4b92-9e1f-19f7d1546aa3}
+NO,pre-mill mix,u-so,NMBU,,{7016425f-92c9-4048-b6b0-c06e73fd8aeb}
+US,Calysta bacterial meal,u-so,Calysta,,{9d936bc6-b835-4128-90d3-3ffe2bdfc7b1}
+,Peroxitan,u-bb,German Fed Off. Envt,,{e2282665-c95a-413a-827d-b1e72a498e40}
+,Wheat flour,u-bb,,,{502dc4ec-8136-42a0-a46b-3cb449ab670c}
+DE,"Canola (rapeseed) oil, refined (economic allocation)",agg,ts,"technology mix|production mix, at plant|refined",{c59ec712-064c-42b4-bbae-8bf07f46b491}
+NO,bacteria pre-mill mix,u-so,NMBU,,{578da6df-0495-43d6-aa57-921c61753b77}
+NO,Salmon feed at mill_bacteria,u-so,,,{f4c2c1e5-2cb8-4418-bda8-703f5d8d552e}
+NO,Yeast pre-mill mix (YPC),u-so,NMBU,,{96d33ada-593a-473f-941d-e0f97cedc02b}
+,Maize gluten,agg,,,{1c65e9c6-0088-4753-b550-b7ce17438452}
+,Sunflower meal,u-bb,Nilsson el al. 2000,,{1f163a68-1183-4765-b1bc-325046ee5fee}
+NO,Salmon feed at mill_yeast,u-so,,,{e4671eb0-a34f-4ac2-be66-36f9ac1daf21}
+,Soy protein concentrate,u-bb,,,{7f4629fc-23b1-4b91-9df4-fa7722c6e879}
+NO,Salmon feed at mill,u-so,,,{33e21a25-db00-4d6a-b10d-0d3c196cd33e}
+,Yeast protein concentrate,u-so,Tallentire,,{c77c0a9e-99e2-4ddb-b8c8-c6538dd1fec7}
+CN,"electricity, high voltage, production mix",agg,ecoinvent 3.3,,{9df56643-d7fc-4671-87ff-b37e3463c420}
+BR,"electricity, high voltage, production mix",agg,ecoinvent 3.3,,{084323ef-0e03-46d1-8296-86c643ffe2f6}

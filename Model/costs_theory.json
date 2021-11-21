@@ -1,0 +1,30 @@
+[
+	{
+		"content":[
+			"Many economic activities generate costs or benefits for third parties that are not part of the transaction. These effects are known as externalities. Externalities can be reflected in taxes or subsidies so that their effect is accounted for in transactions [baumol_pigou]."
+		]
+	},
+	{
+		"name":"Externalities",
+		"content":[
+			"Externalities are costs or benefits of an activity that fall to parties not involved in a transaction [imf_external]. Some examples commonly given of external costs include pollution, email spam [spam], systemic financial risk [systemic_risk], health problems from unhealthy food [food_external], and secondhand smoke [secondhand].",
+			"Some given examples of positive externalities include research and development, pollination from beekeeping [externality_beekeeping], open source software [oss_external], job safety training [job_safety], historic preservation [historic_pres], and vaccination [external_vaccine].",
+			"See also <a href=\"/solution/internalization/costs_examples\">our analysis</a> of externalities in environmental policy and proposals to address them."
+		]
+	},
+	{
+		"name":"Property Rights",
+		"content":[
+			"Externalities often arise from poorly defined property rights, such as the lack of clear delineation of water rights leading to <a href=\"/solution/foodwater/water_usage\">overusage of water</a> [property_rights_ext]. By the Coase theorem, if property rights are fully defined and transaction costs are zero, then private parties should be able to find an efficient solution for externalities [coase_theorem].",
+			"Transactions costs cannot always be made sufficiently low for the Coase theorem to apply, nor is defining property rights always sensible when considering common resources such as the atmosphere and oceans. Such a situation is called a Tragedy of the Commons [hardin_commons]. Internalizing of externalities is often a solution in this case."
+		]
+	},
+	{
+		"name":"Regulation",
+		"content":[
+			"Regulation is an alternative to privatization and pricing, as has been used successfully to reduce emissions of <a href=\"/solution/habitat/ozone_socio\">ozone-depleting substances</a> via the Montreal Protocol, to address <a href=\"/solution/habitat/air_pollution_socio\">air pollution</a>, and many other areas.",
+			"Regulation can be an imprecise tool with significant drawbacks, however. Zoning regulations exist to address a range of externalities of urban development [zoning_external]. However, such rules are often arbitrary or crafted for narrow interests, and appropriate pricing may better serve the intended goal than regulation. An example is congestion pricing as opposed to density limits to manage traffic.",
+			"In some instances, such as the English grazing lands that were the subject of Hardin's 1968 essay, individuals can develop systems to self-regulate common resources [enclosure_act]."
+		]
+	}
+]

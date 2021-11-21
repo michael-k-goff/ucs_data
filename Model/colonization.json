@@ -1,0 +1,15 @@
+[
+	{
+		"content":[
+			"In this section, we briefly review the prospects and challenges of permanent human habitation away from Earth."
+		]
+	},
+	{
+		"name":"Energy Needs",
+		"content":[
+			"An offworld habitat will have high energy needs, as it will probably require <a href=\"/solution/foodwater/indoor\">intensive</a> <a href=\"/solution/foodwater/synthetic_ag\">agriculture</a> and energy-intensive recycling of air, water, and material. Furthermore, electrical options such as <a href=\"/solution/energy/synfuels\">synthetic fuels</a> must substitute for the lack of fossil fuels. Estimate of energy needs are as follows.",
+			"-col_energy.jpg",
+			"!Power figures are given in electrical (not primary) energy observed or modeled for various locations. Sources: [bp2021][heidmann][lunar_energy][iss_energy][lunar_power][orbital_energy]."
+		]
+	}
+]

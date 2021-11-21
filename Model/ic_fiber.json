@@ -1,0 +1,30 @@
+[
+	{
+		"content":[
+			"In this section, we look at several methods of producing fibers, polymers, and building materials."
+		]
+	},
+	{
+		"name":"Fiber Crops",
+		"content":[
+			"The life cycle implications of three plants for producing fiber crops are as follows.",
+			"-fiber.jpg",
+			"!Source: La Rosa and Grammatikos [fiber_lca].",
+			"Flax fibers can be a substitute for glass fibers, saving overall environmental impact.",
+			"-natural_synthetic_fiber.jpg",
+			"!Source: van Dam and Bos [flax_glass].",
+			"Organic cotton generally has lesser impacts than conventional cotton.",
+			"-organic_cotton.jpg",
+			"!Source: Thylmann et al. [textile_exchange]."
+		]
+	},
+	{
+		"name":"Rubber",
+		"content":[
+			"Rubber, most commonly harvested from the plant Hevea brasiliensis [hevea], is a widely used polymer, about half of which is used for tires [rubber_use]. The life cycle impacts of producing rubber have been estimated as follows.",
+			"-rubber_lca.jpg",
+			"!Sources: [rubber_lca2] and [rubber_lca].",
+			"Synthetic (vulcanized) rubber is not used today for truck tires, due to its inferior abrasion properties, but this may change with newly discovered techniques [rubber_truck]."
+		]
+	}
+]

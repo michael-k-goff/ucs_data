@@ -1,0 +1,4 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,       3,[kg] Hydrogen peroxide (100%) [Intermediate flows],
+1,Input,,      97,[kg] freshwater (CAS 007732-18-5) [Renewable material resources from water],
+2,Output,X,     100,[kg] Peroxitan [Intermediate flows],

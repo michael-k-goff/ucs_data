@@ -1,0 +1,60 @@
+[
+	{
+		"content": [
+			"Ammonia--chemically NH<sub>3</sub>--is a critical ingredient in fertilizers, and it would play a much larger role in a future energy economy. As we show below, producing ammonia today with carbon capture and sequestration is cost-effective, and so is production by clean energy electrolysis if the electricity source is sufficiently cheap."
+		]
+	},
+	{
+		"name":"Ammonia Economy",
+		"content":[
+			"Over 80% ammonia is used for fertilizer today, with the remainder used for explosives, solvents, nitric acids, and other <a href=\"/solution/energy/chemicals\">industrial chemicals</a> [ammonia_industry], and in the future ammonia may play several important roles in the energy system.",
+			"-ammonia_economy.jpg-60",
+			"!Potential roles for ammonia in a low-carbon energy system. See references on ammonia in transportation [ammonia_transportation], for load balancing [iea_industry_ren], and for other roles [ammonia_density].",
+			"In an energy system with high volumes of variable renewable energy and/or hydrogen, ammonia may be the best option for seasonal energy storage and long-distance energy transportation [ammonia_density]. While ammonia can be used directly as transportation fuel, its <a href=\"/solution/energy/transpo_fuels\">low gravimetric and volumetric density</a>, toxicity, and other drawbacks may limit this role."
+		]
+	},
+	{
+		"content": [
+			"The cost of producing ammonia is estimated as follows.",
+			"-ammonia_cost.jpg-60",
+			"!Levelized cost of ammonia, which is the price that the ammonia producer must receive for the given method to be profitable. Values are reported by the IEA [iea_hydrogen]. The wide range in the cost of ammonia by electrolysis depends on the price of electricity.",
+			"Because the cost of ammonia from electrolysis is dominated by the cost of electricity, rather than equipment capital costs, it is possible to produce ammonia intermittently to match low electricity prices. This may be useful for <a href=\"/solution/energy/load_balancing\">load balancing</a> on a high renewable grid.",
+			"-ammonia_capacity.jpg-60",
+			"!Cost of producing ammonia by electrolysis varies by the cost of electricity and the level of usage of the electrolyzers. Source: Philibert [iea_industry_ren].",
+			"@Low-Carbon Ammonia Plants@At 6 &cent;/kWh, ammonia electrolysis will struggle to complete with production from coal or gas regardless of the plant's capacity factor. At 3 &cent;/kWh, the plant might operate profitably at even less than 50% capacity. We estimate the following costs of carbon mitigation, using above cost estimates and below greenhouse gas estimates.@-ammonia_carbon.jpg@!Estimated costs of ammonia plants, with CO<sub>2</sub> emissions valued at $50/ton, and cost of mitigated emissions. Estimates are based on a 500 metric ton per day plant, the threshhold between small and large plants given by ThyseenKrupp [ammonia_size].",
+			"There are novel ammonia production methods under development that may reduce further reduce costs. Examples are biological nitrogen fixation, mimicking the processed used by natural bacteria; electrochemical methods that would produce ammonia directly from nitrogen and water without producing hydrogen; and chemical looping methods [rs_ammonia]. Each of these methods is still far from commercial production."
+		],
+		"name": "Cost of Production"
+	},
+	{
+		"name":"Ammonia Distribution",
+		"content":[
+			"Ammonia is much easier to transport than hydrogen, which makes it particularly attractive for long-duration transport and storage of intermittent energy.",
+			"-ammonia_shipping.jpg",
+			"!Estimated cost of shipping ammonia from the Middle East to Japan. It is cheaper both than producing ammonia locally or shipping hydrogen. Source: IEEJ [ieej]."
+		]
+	},
+	{
+		"content": [
+			"Modern ammonia production is efficient, and there is potential for modest further efficiency improvements. The following are estimates of the onsite energy requirements for current and future ammonia production methods.",
+			"-ammonia_energy.jpg-60",
+			"!Sources: Brown [brown] and Cefic [cefic].",
+			"Electricity is a higher quality fuel than coal, natural gas, or biomass, and there may be more primary energy behind the electricity than what is consumed onsite. Nuclear thermochemical electrolysis and solid state ammonia synthesis are not yet commercial methods.",
+			"For electrolysis ammonia to serve a role in a low carbon energy system, a low cost and low carbon electricity source is needed. Most of the energy for electrolyzed ammonia is used for the splitting of water to produce hydrogen.",
+			"-ammonia_electrolysis_energy.jpg-60",
+			"!Source: Dana et al. [dana]. Note that Dana et al. and Cefic [cefic] differ slightly in total energy required for ammonia by electrolysis.",
+			"Ammonia production methods show the following life cycle greenhouse gas emissions.",
+			"-ammonia_ghg.jpg-60",
+			"!Source: Singh et al. [ammonia_lca], with information about SMR with CCS supplied by Young et al. [ammonia_ccs].",
+			"Ammonia is highly toxic, necessitating a high level of care in an expanded ammonia distribution system and potentially creating a public acceptance barrier [ammonia_density]. If used at a large scale, nitrous oxide emissions [bicer] and ozone depletion [ravishankara] will be challenges."
+		],
+		"name": "Energy and Environmental Impacts"
+	},
+	{
+		"name":"Ammonia as a Transportation Fuel",
+		"content":[
+			"With an <a href=\"/solution/energy/transpo_fuels\">energy density</a> significantly higher than lithium-ion batteries, ammonia, including from low-carbon production, is suitable for most forms of transportation except long-haul aviation.",
+			"@Ammonia for Shipping@Ammonia is considered an attractive <a href=\"/solution/energy/transpo_freight\">long-term substitute</a> for heavy fuel oil for shipping. At present, the most effective carbon mitigation option is shipping with ammonia produced from steam methane reforming, which is the most common method of producing ammonia today. Further emissions reductions are possible through carbon capture and sequestration or electrolysis. Following are estimated costs and benefits of building a new 2500 twenty-foot unit equivalent (TEU) container ship with an engine to consume ammonia instead of HFO.@-ammonia_shipping_cost.jpg@!Costs of ammonia fuel are about $246/ton for steam methane reforming without carbon capture and sequestration, as given by Al-Breiki and Bicer [bicer2], $420/ton for SMR with CCS, as noted above, and $830/ton for ammonia from electrolysis with low-carbon electricity, as given by Kim et al. [ammonia_shipping]. A distribution cost for ammonia of about $7/ton is assumed [ammonia_distribution]. Capital investment (CAPEX) and operations and management (O&M) costs are as in Kim et al., except the incremental costs of an ammonia engine are given by TNO [ammonia_distribution]. Emissions factors for heavy fuel oil, ammonia with CCS, and electrolyzed ammonia are from Kim et al., and emissions from SMR ammonia without CCS is assumed to be about 2.4 times greater than those of electrolyzed ammonia, as above for ammonia from solar PV.@Compared to heavy fuel oil, ammonia eliminates SO<sub>x</sub> and particulate emissions, and reduces NO<sub>x</sub> and N<sub>2</sub>O emissions [ammonia_air_pollution]. In 2018, the International Maritime Organization, the agency of the UN that governs, set a goal of reducing shipping's emissions by 50% in 2050 relative to 2008 levels [ammonia_air_pollution], and ammonia is one fuel, alongside methanol and synthetic methane, most likely to achieve this goal [shipping_paper]."
+		]
+	}
+]

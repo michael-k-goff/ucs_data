@@ -1,0 +1,24 @@
+[
+	{
+		"content":[
+			"In this section, we consider several figures on the scale of the universe and Earth's place inside it."
+		]
+	},
+	{
+		"name":"Size",
+		"content":[
+			"The universe is vaster than can be comprehended, and possibly infinite in spatial extent.",
+			"-cosmic_scale.jpg",
+			"!Distances and sizes are readily available in common reference materials."
+		]
+	},
+	{
+		"name":"Energy",
+		"content":[
+			"The quantity of energy accessible in the universe is also vast beyond comprehension.",
+			"-kardeshev.svg",
+			"!The Kardashev scale [kardashev1967], as refined and extended by Sagan [sagan] and Gray [kardeshev_gray]. Other data sources include [vs_lumin], [kaku], [kent_milkyway], [blue_whale_size], [mamajek], [geothermal_total], [prsa], [betelgeuse_lumin], [wijers]. See also <a href=\"/kardeshev.pdf\">a PDF</a>.",
+			"A Kardashev scale value of about 1.0 would be the limit that human civilization could attain without becoming spacefaring, for beyond that level, regardless of the energy source, the waste heat from energy consumption would cause unmanageable ecological problems [seti]."
+		]
+	}
+]

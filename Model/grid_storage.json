@@ -1,0 +1,76 @@
+[
+	{
+		"content": [
+			"Energy storage might achieve <a href=\"/solution/solution/load_balancing\">load balancing</a> through charging a storage device at times of low electricity prices and discharging at high prices, but doing so cost-effectively and at scale remains a challenge.",
+			"Grid storage is near the break-even point today financially, with externalities accounted for."
+		]
+	},
+	{
+		"content": [
+			"High renewable energy scenarios may require large amounts of energy storage. The following estimates storage requires for several scenarios of 80% wind and solar on the United States grid.",
+			"-storage_needs.jpg-60",
+			"!Estimate storage needed for the United States to produce 80% of electricity from wind and solar. Most estimates from Cebulla et al. [cebulla], with the high estimate from Shaner et al. [shaner]. The estimate of Shaner et al. is based on a scenario of no curtailment of renewable energy and no high voltage direct current interconnections. Usage of curtailment or HVDC would reduce storage needs. The figure of 5.4 TWh is equal to about 12 hours of electricity usage in the United States."
+		],
+		"name": "Storage Needs"
+	},
+	{
+		"content": [
+			"As of 2015, the following investment costs for storage have been observed.",
+			"-storage_investment_cost.jpg-70",
+			"!Investment costs for energy storage as of 2015. Source: Schmidt et al. [schmidt].",
+			"Energy storage works on multiple time scales. Primary response occurs over minutes and is used, for instance, for voltage regulation. Secondary response occurs over hours to a day. Seasonal storage occurs over multiple days to months. The following cost estimates are projections for 2020. For primary response, flywheels or supercapacitors are likely to be the best options.",
+			"-lcos_primary.jpg-50",
+			"!Source: Schmidt et al. [schmidt].",
+			"For secondary response, pumped hydro and compressed air should remain the most affordable options where they are applicable, and otherwise lithium-ion batteries are the most promising, though in the long run, vanadium redox flow batteries may have lower costs.",
+			"-lcos_secondary.jpg-60",
+			"!Source: Schmidt et al. [schmidt].",
+			"There are no well-developed solutions for seasonal storage on the immediate horizon.",
+			"-lcos_seasonal.jpg-60",
+			"!Source: Jenkins and Sepulveda [long_storage]. Seasonal storage with ammonia is expected to be less than the cost of hydrogen storage [ammonia_economy][ammonia_density].",
+			"Energy storage requires grid integration costs in addition to the cost of the storage devices themselves [storage_life].",
+			"@Grid Battery Deployment@The following are recent estimates of the costs and benefits of batteries for the grid.@-storage_cba.jpg-80@!Sources: Xi et al. [battery_cba3], Ouyang et al. [battery_cba1], and Sidhu et al. [battery_cba2].@Individual utilities should study whether grid batteries make sense in their context, and if so, build them."
+		],
+		"name": "Storage Costs"
+	},
+	{
+		"content": [
+			"No storage process is 100% efficient, and some energy is lost in each charge/discharge cycle. The following shows the efficiency of energy storage options.",
+			"-storage_efficiency.jpg-60",
+			"!Ammonia is reported by Wang et al. [ammonia_storage], and the others are from Schmidt et al. [schmidt].",
+			"Energy storage itself has environmental impacts, such as those induced by mining materials to manufacture storage devices. Of particular concern are the nickel, lead, and cadmium required to manufacture batteries [berry_storage]. The following shows estimated lifecycle greenhouse gas emissions of energy storage.",
+			"-storage_ghg.jpg-65",
+			"!Emissions per kWh discharged from storage devices. On the left are emissions from the manufacture and operation of storage devices, and on the right are emissions resulting from loss of electricity due to storage inefficiency. It is assumed the electricity has a carbon intensity of 50 grams CO<sub>2</sub>e/kWh, roughly the value of solar PV. Sources: [bouman][hiremath][kapila]. Emissions from electricity required to charge the devices, excepting what is lost from inefficiency, are not shown."
+		],
+		"name": "Storage Performance"
+	},
+	{
+		"content": [
+			"Most electricity storage today is in the form of pumped hydro. The following are capacities of existing and planned storage projects.",
+			"-storage_deployment.jpg-60",
+			"!Current energy storage by technology by MW of rated power. Source: IEA [iea_storage].",
+			"Due to reliance on natural geologic formations, pumped hydro and compressed air are site-specific and not sufficient for large-scale storage of intermittent renewable energy [berry_storage]. Alternatives to pumped hydro storage are still niche tecnologies but growing rapidly.",
+			"-storage_growth.jpg-60",
+			"!Source: IEA [iea_storage]."
+		],
+		"name": "Current Storage Status"
+	},
+	{
+		"content": [
+			"<b>Pumped Hydro</b>",
+			"Although pumped hydro is established, there are novel hyrdo concepts under development. Coastal sites may be able to use the ocean as a reservoir. Variable-speed pumped hydro might be of greater value than conventional pumped hydro due to a greater ability to provide ancillary services [bulk_storage].",
+			"<b>Compressed Air</b>",
+			"Near-isothermal CAES has the potential for greater efficiency and lower cost [bulk_storage].",
+			"<b>Electrochemistry</b>",
+			"A novel battery technology, developed by Ambri [ambri], uses two liquid metal electrodes and a molten salt electrolyte. The goal is a grid-level battery with greater longevity.",
+			"<b>Flywheels</b>",
+			"Flywheels are at an early state of commercialization, and are most promising for short-term storage applications [berry_storage]. Progress in low-cost, high-strength materials will further improve flywheel prospects.",
+			"<b>Capacitors</b>",
+			"Capacitors are an important tool for regulating grid voltage levels, but until recently they have not been regarded as feasible for large-scale energy storage. Next-generation capacitors, known as supercapacitors or ultracapacitors, can react more quickly than other storage media, smooth out sudden voltage changes, and thereby extend the life of batteries by 10-30% [hales]. Multi-hour energy storage may be achievable at 5 &cent;/kWh per cycle [jme_capacitors].",
+			"<b>Vehicles as Storage</b>",
+			"Vehicles could be used for energy storage. Electric or fuel-cell vehicles are estimated to be available at $400 for a 6.6 kW system.  Then parked cars would be suitable for supplying the grid, even playing a role as baseload power [tmv2g]. The economic case for vehicle to grid technology remains unclear [cav2g]. Hydrogen for energy storage could work synergistically with hydrogen fuel cell vehicles, since a price signal could induce drivers to fill up when excess grid-produced hydrogen is cheap [berry_storage].",
+			"<b>Nuclear Batteries</b>",
+			"Betavoltaics, also called nuclear batteries, are a useful source of energy for niche applications. A recently developed Nickel-63 battery achieved 3300 mWh/g energy density, about 10 times that of chemical batteries. However, the power density--10 μW/cm3--make the battery suitable only for applications such as medical devices and spacecraft [betavoltaic]. The limitation in power density is likely to be unavoidable [betavoltaic2]."
+		],
+		"name": "Emerging Concepts"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"content":[
+			"In the following, we review some of the most prominent current and proposed methods for propelling spacecraft.",
+			"-sp_present.jpg",
+			"-sp_development.jpg",
+			"-sp_speculative.jpg",
+			"-sp_theoretical.jpg",
+			"-sp_sources.jpg",
+			"!Data sources are as follows: chemical rockets (see above), hydrazine [hydrazine][monopropellant], gravity assist [gravity_assist], pulsed plasma thruster [ppt], ion drives [new_dawn][dawn], nuclear thermal rockets [ntr], magnetoplasmadynamic thruster [new_dawn][magneto], VASIMR [vasimr2][vasimr], solar sail [solar_sail], Direct Fusion Drive [spacepower_fusion], beamed propulsion [breakthrough_starshot], magnetic sails [magsail], nuclear pulse propulsion [daedalus], ACNP [acnp], antimatter rocket [antimatter_rocket], and black hole drive [black_hole][black_hole2].",
+			"The best propulsion options depend on the application. For more efficient satellite maneuvering and for uncrewed interplanetary probes, further improvement to ion drives may be the most promising option. For crewed interplanetary missions, nuclear thermal rockets may hold the most potential. There is little prospect for interstellar probes, let alone crewed interstellar flight, on the horizon."
+		]
+	}
+]

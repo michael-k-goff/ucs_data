@@ -1,0 +1,30 @@
+[
+	{
+		"content":
+		[
+			"In this section, we consider the prospects of building greenfield cities: new cities on undeveloped land. We give additional considerations to the possibilities of building new cities according to novel principles or in exotic locations."
+		]
+	},
+	{
+		"name":"The Economic Rationale of Cities",
+		"content":
+		[
+			"The primary purpose of a city is to facilitate the exchange of goods, services, and information [glaeser92]. A city is typically defined as an urban area through which people can commute on a daily basis. Larger cities tend to create more wealth by offering wider job markets, labor pools, and diversity of products for sale. Economists have quantified this benefit of city size and estimated that, for every doubling of city size, per capita wealth tends to increase by 7% to 20% [bettencourt][west][lobo][agglom_conf]. Due to this agglomeration effect, there is a tendency for population growth to concentrate in existing cities rather than new cities.",
+			"Cities also fit into the larger national and world economies, and consequently they need to exchange goods, services, information, and people beyond their borders to thrive. There is extensive evidence (for example, [beyz]) that the level of access to intercity transportation is a major factor in city success.",
+			"There are other factors that may motivate the construction of new cities, such as natural resource extraction or politics. Such factors should apply to justify building a new city, particularly in an exotic location that is far from existing cities."
+		]
+	},
+	{
+		"name":"Cities in Exotic Locations",
+		"content":
+		[
+			"There is significant interest in building new cities or research facilities, particularly in exotic locations such as the ocean or space. The cost of doing so prohibits more than a small number of settlements for niche purposes at this time.",
+			"-sea_cost.jpg",
+			"!Cost estimate of building a floating city, from the Seasteading Institute [hencken]. The cost is comparable, on a square foot basis, to the cost of real estate in the most expensive markets in the world: Manhattan and San Francisco [neighborhoodx], and Hong Kong, Singapore, Shanghai, London, and Paris [cbre].",
+			"Floating platforms may be useful for creating new land in expensive, land-constrained coastal cities, such as Singapore, as an alternative to environmentally costly land reclamation [land_rec].",
+			"-city_cost.jpg",
+			"-city_cost2.jpg",
+			"!Estimated costs, per person, of settlements in exotic locations, compared to select current locations. For projects that are not built, cost estimates should be regarded as highly speculative. Sources: Frank [cnbc_manhattan], Gramling [mcmurdo], Hall and Miller [lunar_base], Heidmann and Brisson [mars_colony], Hencken et al. [hencken], Lafleur [iss_cost], Poon [songdo], Ros [underwater_hotel], Zhao [land_reclamation]."
+		]
+	}
+]

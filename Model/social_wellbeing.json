@@ -1,0 +1,53 @@
+[
+	{
+		"content":[
+			"In this section, we consider several aspects of social well-being that are distinct from individual well-being."
+		]
+	},
+	{
+		"name":"Democratization",
+		"content":[
+			"Democracy, or the ability of citizens to choose (directly or indirectly) their own leaders, has been correlated with improvements in human rights [democratization_human_rights], economic growth [democratization_growth], peace [democracy_peace], and general well-being [democracy_wellbeing2][democracy_wellbeing1]. Democracy in the world has generally been growing, but has been in decline since 2007.",
+			"-freedom.jpg",
+			"!Not all years in 'Freedom in the World' reports are calendar years; the nearest calendar year was used for all years except 1981-82. It should be acknowledged that the source, Freedom House, receives funding from the U. S. Federal Government, and the figures have some controversy. The Polity Project [polity] and the Democracy Index [eiu] provide similar data, with somewhat different values. Source: Freedom House [freedom_house]."
+		]
+	},
+	{
+		"name":"Freedom of the Press",
+		"content":[
+			"Worldwide, freedom of the press has improved over the last several decades. However, as of 2016, the last year for which Freedom House assessed the topic, progress in freedom of the press seems to have stalled.",
+			"-freedom_press.jpg",
+			"!Source: Freedom House [freedom_house_press].",
+			"Fifty journalists were killed in the line of duty in 2020, the smallest number in the past decade [rsf]."
+		]
+	},
+	{
+		"name":"Economic Freedom",
+		"content":[
+			"Economic freedom is generally defined as the ability engage in economic activity with limited interference. Economic freedom in the world has generally increased over time, and wealthier countries show more economic freedom than poorer countries.",
+			"-economic_freedom.jpg",
+			"!Source: Index of Economic Freedom [economic_freedom].",
+			"The Index of Economic Freedom, prepared by the Heritage Foundation and the Wall Street Journal, measures economic freedom in highly libertarian terms, as does the Cato Institute's and Fraser Institute's Economic Freedom of the World [efw]. The Ease of Doing Business metric [ease_business] focuses more narrowly on business freedom, while the Global Competitiveness Report [gci] uses a broader measure of economic freedom, including health, institutional strength, and other factors. These metrics differ for some specific countries but are highly correlated."
+		]
+	},
+	{
+		"name":"Equality",
+		"content":[
+			"Equality, which can be measured in several different days, is the extent to which people are generally at the same level, by wealth or income, within a society. Higher levels of equality tend to be associated with higher economic growth [imf_gini], poverty reduction [imf_gini], social trust [inequality_effects], and reduced status anxiety [inequality_effects]. Recent technological advances, the weakness of labor institutions, and to a lesser extent financial globalization, are drivers of inequality [imf_gini]. Wealthier countries are generally more equal than poorer countries, though the United States is an outlier in being both wealthy and having a high level of inequality. Inequality for select countries is as follows.",
+			"-gini.jpg",
+			"!The Gini coefficient is a measure of inequality. A coefficient of zero means that a region is perfectly equal, while if a single person owns everything, then the coefficient is one. See the Investopedia article [gini_definition] for technical details on the Gini coefficient. Source: World Bank [wb_gini].",
+			"Within countries, inequality has been generally flat since 2000, increasing in wealthy countries and decreasing in poorer countries [hasell]. For the world as a whole, inequality increased from 1800 to 1975, as industrializing countries moved ahead in wealth, and has decreased since 1975 as poorer countries catch up with higher growth [owid_inequality].",
+			"Gender equality in the world is showing signs of improvement, but the rates of child marriage and female genital mutilation, for instance, remain alarmingly high.",
+			"-gender_equality.jpg",
+			"!Source: UNICEF [education_stats]."
+		]
+	},
+	{
+		"name":"Education",
+		"content":[
+			"The number of children out of school in the world has been falling since 1998, but in the last decade, progress in education is starting to stagnate.",
+			"-education_rates.jpg",
+			"!Source: UNICEF [education_stats]."
+		]
+	}
+]

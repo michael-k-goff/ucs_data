@@ -1,0 +1,45 @@
+[
+	{
+		"content": [
+			"In addition to extraterrestrial environmental impacts, such as orbital debris and the effect on possible extraterrestrial life, current and possible future space activities have several significant impacts on Earth, some of which are detailed below."
+		]
+	},
+	{
+		"name":"Ozone Depletion",
+		"content":[
+			"Of several terrestrial impacts of spaceflight, ozone depletion may be the most serious [space_env_overview]. Some rocket fuels release particles in the stratosphere, especially aluminum oxide, that deplete ozone. Some estimates of this depletion are as follows.",
+			"?Annual Number of Flights Considered|Total Ozone Depletion|Depletion Per Annual Flight|Notes?           87 [space_ozone1]|0.025%|0.00029%|Ozone depletion is assessed for all flights that year [spacelaunchreport].?        15 [space_ozone2]|0.25%|0.017%|?            10,000 [space_ozone3]|0.2%|0.00002%|Ozone depletion is given in Dobson Units. We take total atmospheric ozone concentration of 100 DU [owid_ozone].?          100,000 [space_ozone3]|0.4-1.5%|0.000004-0.000015%|See above.?         300,000 [space_ozone3]|3.5-3.9%|0.000012-0.000013%|See above.?      1,000,000 [space_ozone3]|11%|0.000011%|See above.?         1000 [space_ozone4]|1%|0.001%|?     114 [space_ozone5]|0.01-0.1%|0.000088-0.00088%|Assesses impact of all launches, which were 114 in 2018 [spacelaunchreport].",
+			"!Estimates of the ozone depletion effect of rocket launches vary due to physical uncertainties, variation in the modelled types of rockets and rocket fuel, and other factors. By way of comparison, stratospheric ozone decline 60% from 1979 to 1994, from which point it has slightly recovered [ozone60].",
+			"The reentry of satellites into the atmosphere is also a potential concern for ozone depletion [satellite_ozone].",
+			"Due to the wide uncertainty in the amount of ozone depletion resulting from rocket launches, more research is needed. Such a research program, a cooperation between governments and the space industry, could be modeled after the High Speed Research to determine the effects of supersonic flight [space_ozone_policy]. If regulation is appropriate [ozone_rocket_fuel2], rules could mandate lower depletion fuels, such as solid fuels over liquid fuels [ozone_rocket_fuel]."
+		]
+	},
+	{
+		"name":"Climate",
+		"content":[
+			"Rockets consume energy and release carbon dioxide emissions, but they have a much greater impact on the climate through stratospheric emissions and their effects. As of 2014, launches were estimated to cause 0.016 (&#177; 0.008) watts per square meters of radiative forcing [radiative_rocket]. By way of comparison, the International Panel on Climate Change's scenarios for 21st century global warming are between 2.6 and 8.5 watts per square meter [rcp]. Causes of warming are estimated as follows.",
+			"-rocket_warming.jpg",
+			"!Source: [radiative_rocket].",
+			"Other research suggests that an expansion of the spaceflight industry to 100,000 launches per day would cause between -0.01 and +0.08 W/m<sup>2</sup> of warming [space_ozone3]. As with ozone depletion, there is great uncertainty and limited knowledge in this area."
+		]
+	},
+	{
+		"name":"Energy and Emissions",
+		"content":[
+			"We estimate the energy consumption and resulting greenhouse gas emissions of rocket launch as follows.",
+			"-launch_energy.jpg",
+			"!Launch energy of the Falcon Heavy, including the primary energy behind the RP-1 rocket fuel and liquid oxygen, but not to manufacture the rocket or other upstream costs. Total fuel needs and payload mass are estimated from Spaceflight 101 [falcon_heavy_energy], energy intensity of kerosene (of which RP-1 is a variant) from MacKay [hotair], LOX from Shen and Wolsky [lox_energy], and primary energy conversions from Building Energy Codes Program [energycode].",
+			"From 2016 to 2018, launch destinations were as follows.",
+			"-launch_targets.jpg",
+			"!Source: Kyle [spacelaunchreport].",
+			"Assuming all rockets have the same energy to liftoff payload mass ratio as the Falcon Heavy, launches consumed about 336 terajoules of primary energy in 2020, or about 0.000055% of world total [spacelaunchreport]. This supports a commercial satellite market worth $2.5 billion in 2019 and projected to grow to $4.7 billion in 2025 [comsatval]. Actual energy needs are higher when embodied energy--the energy required to manufacture rockets and other upstream costs--are included, but we expect that the figure will remain a miniscule share of world energy."
+		]
+	},
+	{
+		"name":"Other Effects",
+		"content":[
+			"In an environmental impact statement conducted for Space Shuttle activities at the Kennedy Space Center [kennedy_eis], NASA observed that the the KSC is located at an ecologically sensitive area and is home to more endangered and threatened species than any other federal facility. Heavy metals and other soil pollutants were found immediately by the launch pads, and some animals, though no threatened or endangered animals, died in the blasts resulting from launch. Fast ecological recovery was noted after the end of the space shuttle program and in the lull following the Challenger disaster.",
+			"See also our review of <a href=\"/solution/space/space_energy\">energy generation</a> in space and its impacts."
+		]
+	}
+]

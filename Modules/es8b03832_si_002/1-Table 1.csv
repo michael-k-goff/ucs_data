@@ -1,0 +1,7 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,     500,"[MJ] Electricity, AC, consumption mix, at consumer [Intermediate flows]",
+1,Input,,       2,[kg] Hexane (n-hexane) (CAS 000110-54-3) [Intermediate flows],
+2,Input,, 2.5e+03,"[kg] Sunflowers, seeds (10% H2O content) [Intermediate flows]",
+3,Output,,1.68e+03,[MJ] Steam (MJ) [Intermediate flows],
+4,Output,X, 1.5e+03,[kg] Sunflower Meal (25-30% CP) [Intermediate flows],
+5,Output,X,   1e+03,"[kg] Sunflower Oil, Crude [Intermediate flows]",

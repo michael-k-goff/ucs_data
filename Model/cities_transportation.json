@@ -1,0 +1,40 @@
+[
+	{
+		"content":[
+			"In our analysis of <a href=\"/solution/energy/transpo_cars\">automobiles</a>, <a href=\"/solution/energy/transpo_transit\">mass transit</a>, <a href=\"/solution/energy/transpo_short\">active transportation</a>, and <a href=\"/solution/energy/transpo_commute\">other forms</a> of <a href=\"/solution/energy/transpo_ghg\">transportation</a> in an energy context, we looked at energy, greenhouse gas, and pollution implications of different transportation options. In this section we look at some wider impacts."
+		]
+	},
+	{
+		"name":"Cost",
+		"content":[
+			"The following portrays the combined private and public cost per mile of transportation. While the full cost of driving is comparable to forms of mass transit on a per-passenger-kilometer basis, it is important to remember that car-oriented cities tend to be of <a href=\"/solution/cities/cities_transportation_systems\">lower population density</a> and thus require greater amounts of travel.",
+			"-commuter_cost.jpg-55",
+			"!Costs for bus rapid transit are calculated from the National Transit Database [ntd], and other mass transit modes are calculated from the American Public Transportation Association [apta]. The cost of driving is esimated from VTPI as detailed below, excluding the monetization of travel time to make a fair comparison with other modes, and assuming an average car occupancy of 1.67 people [car_occu]. Private costs of bicycle ownership are estimated from Litman [vtpi_active], while the cost of roadway for walking and biking is estimated to be the same--per unit space required--as for driving, as estimated from the AFDC [afdc] and the Urban Institute [urban_road].",
+			"Driving, however, carries significant costs that are pushed onto the general public as well as the costs the driver pays.",
+			"-car_costs.jpg-60",
+			"!Source: Victoria Transport Policy Institute [tdm].",
+			"The presence of externalized costs may cause levels of driving in excess of the social optimum. The external costs can be internalized through <a href=\"/solution/energy/climate\">carbon pricing</a>, elimination of free parking and <a href=\"/solution/cities/cities_zoning\">parking mandates</a>, congestion pricing, and road tolling, among other policies."
+		]
+	},
+	{
+		"name":"Safety",
+		"content":[
+			"Following are estimates of the death rates for modes of transportation.",
+			"-transportation_deaths.jpg",
+			"!Source: Federal Aviation Administration [airplane_occupancy], Federal Highway Administration [rail_occu2], Higgens [transpo_deaths], McFadden et al. [ferry_cap], Vehicle Technologies Office [car_occu], Wang et al. [rail_occu]. Higgens reports deaths on a per-vehicle-trip, per-vehicle-hour, and per-vehicle-km basis, and the other sources are used to estimated vehicle load factors and convert figures to a per-passenger basis. McFadden et al. give a ferry capacity of 323, and we assumed that the actual number of passengers aboard is half that.",
+			"Most rail deaths in the United States are incurred by people who are on the tracks, either trespassers away from crossings or at crossings, and not on the trains themselves [rail_deaths]."
+		]
+	},
+	{
+		"name":"Road Damage",
+		"content":[
+			"Larger vehicles tend to do more damage to roadways. The amount of damage is estimated as follows.",
+			"-road_damage.jpg",
+			"!Road damage estimates can be traced to the AASHO Road Test [aasho_road_test], which found that damage grows with the fourth power of axle weight. The figures are imprecise, with actual damage depending on tire conditions, climate, type of pavement, and other factors [truck300]. The ratio of damage done by a typical semi truck to a typical car, for instance, has been estimated at 9600 [truck9600] or the 300s [truck300]. Extrapolating results of the AASHO road test to vehicles smaller than passenger cars, which were not tested, is particularly uncertain [truck300]. Sources: [streets_mn], [mn_road_damage].",
+			"Total public road maintenance spending in the United States was, as of 2018, $187 billion, or $572 per capita [urban_road]. The disparity in road damage by vehicle weight calls for an evaluation of how this maintenance bill is paid. Although large trucks do at least 99% of road damage, they pay only 35% of maintenance costs, suggesting a subsidy for trucking [true_cost_trucks]. Mileage fees are a way to rectify this imbalance. An appropriate per-km fee (in 2020 USD) for Ontario, Canada has been estimated at 0.8 &cent;/km on freeways and 92 &cent;/km on local roads [canada_truck].",
+			"Development triggers vehicle traffic which causes road damage. Estimates of appropriate pricing of this damage into the cost of development is as follows.",
+			"-road_damage_dev.jpg",
+			"!Figures for recommended development fees, based on roadway maintenance impacts, are compiled by RPI Consulting for Rio Blanco County, Colorado. Source: [mn_road_damage]."
+		]
+	}
+]

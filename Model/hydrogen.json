@@ -1,0 +1,54 @@
+[
+	{
+		"content":[
+			"In this section, we examine the current and potential role of hydrogen in the economy and compare the economic and environmental costs of several methods of producing hydrogen.",
+			"We show below that, under common price assumptions, electrolyzed hydrogen is not yet a cost-effective strategy. Other elements of a hydrogen economy, which depend on abundant electrolyzed hydrogen, are thus not cost effective either. This may change in the future."
+		]
+	},
+	{
+		"content": [
+			"Hydrogen can meet most non-electricity energy end uses and also improve the functioning of the power grid. For some roles, there are few other low-carbon options available, but the high cost of hydrogen and associated infrastructure is a major challenge.",
+			"-hydrogen_economy.jpg-60",
+			"!Summary of major potential roles for hydrogen in the energy economy. Not every potential role is considered. The following data sources are cited for heating and cooking [ccc], fuel cell cars [fcev_bev], trucks [hydrogen_truck], planes [hydrogen_plane], cargo ships [hydrogen_cargo][hydrogen_cargo2], trains [hydrail], load balancing [iea_hydrogen], steel [fisch], industrial heat [ccc], and chemicals [iea_hydrogen]. See also our analysis of <a href=\"/solution/energy/heating\">urban heat</a>, <a href=\"/solution/energy/transpo_cars\">cars</a>, <a href=\"/solution/energy/transpo_intercity\">avaiation and rail</a>, <a href=\"/solution/energy/transpo_freight\">freight</a>, synthetic <a href=\"/solution/energy/synfuels\">fuels</a> and <a href=\"/solution/energy/methane\">methane</a>, <a href=\"/solution/energy/grid_storage\">energy storage</a>, <a href=\"/solution/energy/load_balancing\">load balancing</a>, <a href=\"/solution/energy/major_commodities\">steel</a>, <a href=\"/solution/energy/chemicals\">chemicals</a>, <a href=\"/solution/energy/ammonia\">ammonia</a>, and <a href=\"/solution/energy/methanol\">methanol</a>.",
+			"Hydrogen is only a low carbon solution if it is produced from a low carbon energy source.",
+			"The Hydrogen Council envisions $20-25 billion investment per year to produce 78 exajoules of hydrogen per year by 2050 [hydrogen_council]."
+		],
+		"name": "Potential Hydrogen Economy"
+	},
+	{
+		"name":"Current Production and Consumption",
+		"content": [
+			"The world produces about 74 million tons of hydrogen each year [iea_hydrogen], with an energy content of about 9-11 exajoules and financial value of $115 billion [irena_h2], from the following sources.",
+			"-hydrogen_source.jpg-50",
+			"!Source: Committee on Climate Change [ccc].",
+			"Today, hydrogen is used primarily for industrial purposes [iea_h2][iea_hydrogen].",
+			"-hydrogen_usage.jpg-60",
+			"!Source: IEA ([iea_h2] and [iea_hydrogen])."
+		]
+	},
+	{
+		"content": [
+			"The following estimates the cost of producing hydrogen by several methods.",
+			"-lcoh.jpg-60",
+			"!Levelized cost of hydrogen, which is the price a hydrogen producer, using the given method, must receive to be profitable. Thermochemical and photochemical production are not commercially mature. For nuclear thermochemical, the projected cost is the average of the projected costs of the sulphur-iodine and copper-chlorine cycles. Sources: SMR (with and without CCS), Coal (with and without CCS), and Electrolysis from the IEA [iea_lcoh], solar thermochemical figures from Hinkey et al. [solar_hydrogen]; the solar photochemical figure from Pinaud et al. [photochem]; and other figures from Parkinson et al. [lcoh].",
+			"Electrolyzed hydrogen is, at this time, not cost-effective in general, while carbon capture and sequestration might be if reduction of CO<sub>2</sub> emissions is sufficiently valued.",
+			"-h2_production.jpg",
+			"!Direct financial, CO<sub>2</sub> valued at $50/ton, and other external costs of methods of hydrogen production. We assume a 50,000 kg/day plant, the treshhold between a medium and large plant in [hydrogen_plant].",
+			"Most analysts, including our own work, do not find electrolyzed hydrogen to be cost-effective on a large scale at present, though some analyses [wind_electrolysis] find niche potential for hydrogen produced by low-carbon electricity.",
+			"Improving efficiency and decline electrolyzer costs are among the factors that are driving down the cost of electrolyzed hydrogen.",
+			"-electrolyzer.jpg",
+			"!Characteristics of alkaline and proton exchange membrane electrolyzers. Source: IRENA [irena_h2].",
+			"Solid oxide electrolyzer cells (SOEC) are still in the laboratory, but they have the potential to beat ALK and PEM cells on cost and to have particular applications to producing synthetic fuels [irena_h2]."
+		],
+		"name": "Cost of Production"
+	},
+	{
+		"content": [
+			"Following are estimated greenhouse gas emissions [lcoh], non-greenhouse gas external costs, and land use requirements for different methods of producing hydrogen.",
+			"-hydrogen_impacts.jpg-70",
+			"!Estimated greenhouse gas emissions, as reported by Parkinson et al. [lcoh], non-greehouse gas external costs, and land use requirements for hydrogen production. For non-GHG externalities and land use, impacts are estimated to be equal to those of <a href=\"/solution/energy/energy_env\">producing electricity</a> from an equal amount of primary energy. Calculations are based on contemporary efficiencies of hydrogen production from input energy sources as reported by the GREET model [greet] and projected efficiency from thermochemical production, as estimated by Schultz [thermochemical_eff].",
+			"A 2021 paper [blue_hydrogen_ghg] claims that blue hydrogen (steam methane reforming from natural gas with carbon capture and sequestration) has only 18-25% less greenhouse gas emissiosn than gray hydrogen (SRM without CCS), but these calculations are based on an unusually high amount of <a href=\"/solution/energy/gas\">methane leakage</a> and a 20 year global warming potential, instead of the more common 100 year GWP. When more standard assumptions are used, the GHG impacts of blue and gray hydrogen are close to the values reported above [blue_hydrogen_ghg2]."
+		],
+		"name": "Environmental Impacts"
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name":"Biodiversity",
+		"content":[
+			"There are over 1.8 million known living species on Earth of animals, plants, fungi, protozoa, chromista (algae), bacteria, archaea, and viruses [catalogue_of_life] and additional species that are not known. The current rate of extinction is debated [pearce] but generally believed to be substantially higher than the \"background rate\" before the development of human civilization.",
+			"-species_loss.jpg-60",
+			"!Source: Ceballos et al. [extinction_rate].",
+			"The rate of extinction in the current geological era, officially known as the Holocene and informally as the Anthropocene, is not likely to reach the levels of the five greatest mass extinctions since the Cambrian Explosion but is nevertheless geologically significant.",
+			"-mass_extinction.jpg",
+			"!The five greatest mass extinctions since the Cambrian Explosion, when most modern animal phyla appeared, and the potential extinction resulting from human activity. Sources: Barash [barash], Blackburn et al. [triassic], Encyclopedia Britannica [triassic2], Gong et al. [ordavician_cause], Holland [ordavician], House [devonian], IPBES [ipbes_assessment], Nowak et al. [nowak], Raup and Sepkoski [kpg], Román-Palacios and Wiens [pnas_extinction], Schulte et al. [chicxulub], Sheldon [sheldon].",
+			"Earth's biodiversity is at risk from a wide range of human activities, with agricultural land use leading.",
+			"-species_threat.jpg-60",
+			"-species_threat_bdp1.jpg-60",
+			"-species_threat_bdp2.jpg-60",
+			"!Number of species threatened or extinct by threat factor, determined by a Red List Category rating of Vulnerable, Endangered, Critically Endangered, Extinct in the Wild, or Extinct given by the International Union for Conservation of Nature. Many species are threatened by multiple factors. Species are mostly plants and animals, and include some fungi and chromista (algae). Only species assessed by the IUCN are included, and thus there are likely more threatened species not counted. Source: IUCN [iucn]."
+		]
+	},
+	{
+		"name":"Conservation",
+		"content":[
+			"Conservation programs, though not adequate in and of themselves to protect biodiversity, have clearly done good.",
+			"-cons_eff.jpg",
+			"!The \"extinct in the wild\" metric refers to the number of species since 1993 that either have gone extinct or face(d) a serious threat of going extinct. The \"conserved\" metric is how many species have had conservation programs, and the \"species saved\" metric is how many species the authors estimate were actually saved by conservation programs. Source: [conservation_effectiveness].",
+			"Fully funding conservation programs to protect habitat is likely to be an order of magnitude more expensive than simply conserving species, but should still be well worth the investment in terms of ecoysystem services.",
+			"-conservation_spending.jpg",
+			"!Annual cost of conserving all species, saving habitat for all endangered species, and yielded ecosystem services. Sources: actual spending from Barbosa and Tella [lears_macaw] and other figures from McCarthy et al. [conservation_spending].",
+			"Aside from the amount of spending, one can ask the effectiveness of spending in conservation. A disproportionate amount of attention may be paid to \"charismatic megafauna\", or large species that capture the public's imagination but are not particularly important to the ecosystem [megafauna].",
+			"Willingness-to-pay is one way to ascertain the value the public places on a particular good, though WTP studies have been criticized for being inaccurate and the divergence between stated and actual willingness to pay. The following WTP values have been found in the United States for conservation.",
+			"-wtp_conservation.jpg-60",
+			"!These figures are for illustrative purposes; not all species are actually threatened. Source: [wtp_cons].",
+			"Willingness-to-pay analysis has also found a public willingness to spend an extra $5-15 for admission to a nature preserve for the purpose of better conservation [wtp3][wtp1][wtp4][wtp2]."
+		]
+	},
+	{
+		"name":"De-Extinction",
+		"content":[
+			"De-extinction is the process of reviving a species that has gone extinct, which may be accomplished through cloning, genome editing, or breeding extant species. The revived species is typically similar to, but genetically distinct, from the past extinct species. Perhaps the best known ongoing de-extinction project is Pleistocene Park, an effort in Siberia to bring back large herbivores such as mammoths.",
+			"De-extinction is significantly more expensive than traditional conservation measures, and it is feared that it could detract from conservation resources, ultimately increasing the extinction rate [deextinct2].",
+			"-deextinct.jpg-60",
+			"!Source: Bennett et al. [deextinct2].",
+			"Conversely, de-extinction could advance biological knowledge and increase the total pool of conservation resources [deextinct1].",
+			"The ability of resurrected creatures to survive, relatively free of suffering, is uncertain, as a species' habitat was likely degraded to cause it to go extinct in the first place [deextinct3]."
+		]
+	},
+	{
+		"name":"Biomass",
+		"content":[
+			"Species diversity and count is an important metric, but only one metric, of ecosystem health. By raw biomass, Earth is a planet of plants. Among large animals, humans and livestock dominate. There is additionally a large, not yet well understood, bacterial ecosystem deep within the Earth's crust [subsurface].",
+			"-earth_biomass.jpg-60",
+			"!Source: Bar-On et al. [biomass_earth].",
+			"The population of life on Earth has been estimated as follows.",
+			"-earth_pop.svg",
+			"!Estimated populations of various taxa of living creatures. Estimates of trees are taken from [tree_census] and the others from [biomass_earth]. See also a <a href=\"/earth_pop.pdf\">PDF rendition</a> of this data.",
+			"Since the Paleolithic, human activity has led to a dramatic shift of Earth's biomass composition.",
+			"-biomass_change.jpg-60",
+			"!Source: Bar-On et al. [biomass_earth].",
+			"Human modification of the biosphere predates industrialization and agriculture. Hunting, and perhaps competition with other animals for food and habitat modification, are the major factors behind the Quaternary extinction event, or the loss of a large fraction of the world's large animal species, starting 50,000 years ago [quaternary]."
+		]
+	},
+	{
+		"name":"Wildlife Mortality",
+		"content":[
+			"Following are estimates of the human causes of deaths among birds in the United States.",
+			"-bird_deaths.jpg-55",
+			"!Numbers are highly approximate; for example, Loss et al. [birds_cats] put the numbers of deaths by cats significantly higher. Source: [bird_deaths]."
+		]
+	}
+]

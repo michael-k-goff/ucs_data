@@ -1,0 +1,32 @@
+[
+	{
+		"content":[
+			"Research and development refers to a deliberate investment of effort, whether by a government or a private organization, to bring a technology to commercial production. R&D activities can range from basic research to commercializing a product to improving a product that has already been commercialized."
+		]
+	},
+	{
+		"name":"R&D Priorities",
+		"content":[
+			"We recommend that public agencies, such as the U. S. Department of Energy, undertake research and development as follows. Details are in our assessments of <a href=\"/topic/energy/energy_production\">individual energy production technologies</a>.",
+			"-electricity_rd.jpg-60",
+			"!Expected costs and benefits for electricity R&D, in billions of dollars.",
+			"!Benefits are based on a model where, after the R&D period, an electricity source gains 2% of its potential market share every year for 50 years. Benefits include the financial savings of displacing more expensive electricity, greenhouse gas benefits (valued at $50/ton), and non-GHG external benefits of electricity. See the individual production analyses (<a href=\"/solution/energy/solar\">solar</a>, <a href=\"/solution/energy/wind\">wind</a>, <a href=\"/solution/energy/nuclear\">nuclear</a>, <a href=\"/solution/energy/fusion\">fusion</a>, and <a href=\"/solution/energy/mhk\">ocean</a> power) for information on potential cost and market share, and our <a href=\"/solution/energy/energy_env\">Environmental Impacts of Energy</a> analysis for information about GHG and non-GHG impacts.",
+			"!For R&D time, we assume 5 years for technologies that are commercially deployed today but not at full potential, 10 years for those near but not at commercialization, 25 years for those not near commercialization, and 40 years for fusion and space-based solar. We assume a 4.9% chance of an R&D program being successful, based on a similar study in the pharmaceutical industry [rd_success].",
+			"!For R&D cost, we assume $460 million per year for nuclear technologies, based on an analysis of advanced reactors [nuclear_future]; $830 million per year for renewables, based on a wave energy analysis [re_vision]; and $65 billion total for fusion and space-based solar, based on an analysis of ITER [iter_cost].",
+			"!A 7% discount rate is used throughout.",
+			"The Department of Energy should fully fund research and development efforts to insure that every research endeavor, with expected benefit exceeding cost, is funded.",
+			"How best to do R&D depends greatly on the area. A balanced research program by the Department of Energy will consist of full funding for the national laboratories, ARPA-E for high-risk, high-reward projects, the Energy Frontier Research Centers for basic science, energy innovation hubs for collaboration with industry, and the National Network for Manufacturing Innovation for advances based on manufacturing capacity [doe_rd]."
+		]
+	},
+	{
+		"name":"Current Investment",
+		"content":[
+			"Research and development is necessary to bring new energy technologies to commercial production, which in turn are necessary for a complete transition away from fossil fuels. Worldwide, corporations spend on energy R&D as follows.",
+			"-corporate_rd.jpg-60",
+			"!Worldwide corporate spending on energy research and development in 2018. Source: IEA [wei2019].",
+			"There is social benefit to research and development; when one company develops a new product, it does not capture all the benefits as the product spreads to other companies. Thus, even in the presence of an economy-wide carbon price, there is justification for governments to invest in R&D [openstax]. Current public investment is as follows.",
+			"-public_rd.jpg-60",
+			"!Government investment by International Energy Agency member countries in 2018. Source: IEA [iea_rd2019]. IEA member countries are responsible for about three quarters of all worldwide public energy R&D spending [wei2019]. Spending includes direct expenditures as well as subsidies for private R&D."
+		]
+	}
+]

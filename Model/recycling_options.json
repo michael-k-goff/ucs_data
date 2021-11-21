@@ -1,0 +1,32 @@
+[
+	{
+		"content":[
+			"<i>Overview of options for recycling. This should be greatly expanded.</i>"
+		]
+	},
+	{
+		"content": [
+			"Municipalities have a significant opportunity to create local jobs by boosting recycling. Waste management options show the following job creation potential.",
+			"-recycling_jobs.jpg",
+			"!Job creation in waste management. Source: Tellus Institute with Sound Resource Management [morejobs].",
+			"Municipalities have an incentive to finance effective collection systems and advanced material recovery facilities for economic development. A South Carolina study [sc_recycle] finds $288 of benefits (today's currency) per ton of recovered material."
+		],
+		"name": "Recycling and Job Creation"
+	},
+	{
+		"content": [
+			"A government-assessed fee on landfilling, which takes into the account the economic and environmental losses from landfilling, would boost recycling rates. An increase of $10 per ton in the tipping fee at a landfill increases the recycling rate by about 7% [calrecycle]. In Denmark, a landfill tax was introduced in 1987 and increased to 50 Euros per ton in 2006 [peck]. Over the same period, the recycling rate increased from 21% to 60%.",
+			"A study in Western Australia, focusing on externalities of landfills, found a socially optimum landfill tax of about $32 per ton [wa].  This figure does not account for the externalities of manufacturing from virgin material that would be reduced from recycling.",
+			"Based on the above figures, a carbon price of $50/ton would raise the cost of MSW disposal, relative to recycling, by $83/ton for the current U.S. waste stream."
+		],
+		"name": "Market Solutions"
+	},
+	{
+		"content": [
+			"Since waste management is typically either publicly run or highly regulated, the industry might not respond efficiently to market signals. Cities can invest directly in single stream or mixed waste material recovery facilities (MRF), which collect and sort mixed waste, diverting economically useful materials for reprocessing. The combined capital, infrastructure, and operating costs for an advanced MRF has been estimated at $72 to $189 (2019 dollars) per ton of material processed [mrf2][mrf3][mrf4][kessler][mrf1][serdc]. With prices of recycled commodities <a href='https://www.theguardian.com/environment/2015/jun/27/recycling-unprofitable-oil-china-dollar'>highly variable</a>, municipalities should evaluate whether investment in an advanced MRF makes sense, taking externalities into account.",
+			"The city of San Jose, California has achieved a 74% recycling rate through a <a href='https://www.epa.gov/transforming-waste-tool/less-waste-case-study-san-jose-ca'>franchise system</a>, under which the city offers exclusive waste handling contracts with mandates or incentives for high recycling rates.",
+			"Deposit-return systems are effective tools for recovering high-value beverage containers.  The system works by adding a charge on the price of beverage containers, which is refunded when the container is returned.  In the United States, recovery of bottles and cans was 82% in 2002 in the state of Oregon, which has a deposit-return program.  The figure is only 30% in states without such a program [peck]."
+		],
+		"name": "Regulatory Solutions"
+	}
+]

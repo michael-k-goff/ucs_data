@@ -1,0 +1,31 @@
+[
+	{
+		"content": [
+			"The majority of <a href=\"/solution/energy/building_energy\">residential and commercial energy consumption</a> is used for heating and cooling. Most heating and cooling energy can be saved through better equipment, compact buildings with shared walls, and more efficient energy sources such as a <a href=\"/solution/cities/cities_thermal\">district heating and cooling system</a>."
+		]
+	},
+	{
+		"content": [
+			"The following portrays the potential for selected tools to save energy on heating and cooling. The savings from housing forms (attached housing and apartments) portray savings relative to detached houses.",
+			"-Heating and Cooling Potential Energy Savings.jpg-65",
+			"!Sources: Adaptive thermal comfort from Barbadilla-Martín et al. [atc2], personal comfort devices from Carmichael et al. [nrel_office_chair], emerging HVAC technology from Goetzler et al. [bto_hvac], non-vapor cooling from Goetzler et al. [non_vapor], building envelopes from the IEA [iea_envelope], passive cooling from Kamal [passive_cooling1], district heating and cooling from Lubinski [lubinski] and Stellar Energy [dc_energy], smart thermostats from Nest Labs [nest], and solar cooling from the UN Environment Programme [arab_solar_cooling]. Additional information on thermal comfort available from Yang et al. [atc1]. Energy savings for apartments and attached housing is estimated from the Residential Energy Consumption Survey [recs]. Upgrades to building envelopes should save cooling energy as well as heating energy, but we lack reliable estimates on the magnitude of savings."
+		],
+		"name": "Energy Savings Potential"
+	},
+	{
+		"content": [
+			"The following portrays the energy, economic, and environmental characteristics of heating fuel options for space heating, water heating, cooking, and clothes drying for a typical new home.",
+			"-Heating Source Consumption and Emissions.jpg-60",
+			"!Data sources: Brennan [coal_efficiency] for coal, the Committee on Climate Change [hydrogen_ccc] for hydrogen, Fischer and Madani [heat_pump_sg] for geothermal and air-source heat pumps, Lubinski [lubinski] and Werner [dhc_overview] for district heating, the Department of Energy [doe_wood] for wood, Vineyard et al. [gas_hp] for gas heat pumps, and the remaining heat sources from the American Gas Association [aga]. Additionally, the AGA is used to estimate the heating energy demand for a typical new home. Data from the EPA [epa_emissions_factors] is used to estimate emissions factors. For electricity-based heating sources, emissions factors and primary energy are based on the average US electricity mix in 2018. The energy and environmental performance of a district heating system is highly dependent on the energy source. The primary energy estimate for district heating is based on European Union standards [lubinski] and the greenhouse gas estimate from world performance [dhc_overview].",
+			"Air-source heat pumps work best in moderate climates, and the high performance figures might not be achievable in cold climates [doe_heatpump]."
+		],
+		"name": "Heating Source"
+	},
+	{
+		"name":"Heating Efficiency",
+		"content":[
+			"Even if a common fuel source is used, such as electricity, efficiencies between different heating systems can vary significantly, such as between heat pumps and electric resistance heating. Construction codes that mandate higher efficiency options can be good investments.",
+			"@Heat Pump Mandate@The following assesses costs and benefits of if the state of North Carolina were to mandate the use of heat pumps in future residential construction.@-nc_hp_mandate.jpg-80@!Source: [nc_hp].@Tankless water heaters are generally less energy efficient than heat pumps and more energy efficient than resistance heating [tankless]. Though not quantified, requiring the pipe hookups for both tanked and tankless water heaters in new construction will not add much to the cost of construction, will allow future homeowners flexibility on their heating system, and will cost far less than retrofitting existing construction for new pipes.@-tankless.png-80@!The cost of requiring fixtures for both tanked and tankless water heaters would be less than 0.05% of total construction costs if done as part of the initial construction, whereas a retrofit upgrade (after construction is already complete) would be substantially more expensive, and may dissuade a homeowner from installing such a tankless water heater even if doing so might have a payback over several years.@A heat pump mandate in North Carolina would save 44.1 million tons of CO<sub>2</sub> per year [nc_hp]."
+		]
+	}
+]

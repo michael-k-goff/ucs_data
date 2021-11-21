@@ -1,0 +1,48 @@
+[
+	{
+		"content":[
+			"In this section, we examine the problem of electronic waste and some solutions."
+		]
+	},
+	{
+		"name":"Trends",
+		"content":[
+			"The generation of e-waste is growing rapidly with the proliferation of consumer electronics, but recycling rates are increasing slowly.",
+			"-ewaste_rate.jpg",
+			"!Source: [ewaste2021]. Recycling rates only count formal collection, and do not count informal recycling, which can result in severe health and environmental problems.",
+			"The growth of solar panels and batteries will further contribute to the growth of e-waste as these technologies start to be decomissioned in large quantities."
+		]
+	},
+	{
+		"name":"Impacts",
+		"content":[
+			"Improperly disposed e-waste causes significant harm.",
+			"-ewaste_cost.jpg",
+			"!Sources: the Global E-Waste Monitor [ewaste2021] and Boardman et al. [china_ewaste]. Health damages are assessed per-tonne for e-waste recycling in Guiyu, southern China, where standards of health and safety are not well followed. The majority of the damage is from lead exposure, with additional costs from other toxic materials in e-waste.",
+			"Lead, cadmium, mercury, and other pollutants released by improper e-waste management do substantial harm to the air and soil, but monetized damages of those are not included above.",
+			"Failing to recycle e-waste also results in the loss of valuable minerals.",
+			"-ewaste_material.jpg",
+			"!Value of minerals in e-waste estimated by [serbia_ewaste][ewaste2021][egypt_ewaste]."
+		]
+	},
+	{
+		"name":"Energy",
+		"content":[
+			"As more solar photovoltaics reach the end of their lives, they will significantly contribute to e-waste. The following may be expected by midcentury.",
+			"?Metric|Value    ?Average solar energy production in 2040s|3950 GW [solar_ewaste]?      E-waste from retired solar PV, average per year, 2040-2050|4.5-5.6 million tons [solar_ewaste]?      Cost per tonne to recycle solar PV|$334.80 [solar_ewaste2]?      Cost per kWh of panel recycling|0.015-0.018 &cent;/kWh",
+			"!The cost of solar PV recycling might be imposed on solar PV manufacturers or utilities. The sales of recovered raw materials might offset the cost of recycling [solar_ewaste2]. The cost per kWh assesses currently existing solar panels in 2040 with the cost of recycling retiring panels, assuming a 30% capacity factor."
+		]
+	},
+	{
+		"name":"Recycling Options",
+		"content":[
+			"E-waste generally costs a bit over $1000/tonne to recycle.",
+			"-ewaste_recycling_cost.jpg",
+			"!Sources: [denmark_ewaste][egypt_ewaste][ewaste10009000][china_ewaste2].",
+			"Recycling plants have the potential to be profitable, as has been shown for a hypothetical model in Egypt.",
+			"-egypt_ewaste.jpg",
+			"!Source: [egypt_ewaste]. Figures for Year 5 are presented and rounded to the nearest $1000, so total profit is not exactly equal to the sum of all revenues and expenses.",
+			"As of 2018, 24 states apply extended producer responsibility, where manufacturers of certain products are requires to provide for their proper disposal. The products covered vary by state. Additionally, California charges a fee, which is used to run a recycling program itself, and Colorado bans the disposal of electronic devices at solid waste landfills [ncsl_ewaste]."
+		]
+	}
+]

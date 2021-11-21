@@ -1,0 +1,38 @@
+[
+	{
+		"content": [
+			"The availabilty of affordable, abundant energy plays a key role in economic growth."
+		]
+	},
+	{
+		"content": [
+			"The demand for energy tends to be relatively inelastic, meaning that a large price increase will have only a small effect on overall demand.",
+			"-elasticity.jpg-60",
+			"!Sources: International Monetary Fund [imf2011], Hamilton [hamilton_elasticity], Bernstein and Griffin [rand_elasticity].",
+			"The converse can hold as well. The IMF estimates that a 17% shortfall in oil production over 20 years would cause a 200% increase in price and 3% reduction in world GDP, compared to the baseline [imf2011]. Historically, high energy prices are well correlated with economic recessions [oilshocks].",
+			"Energy consumption also tends to increase with incomes.",
+			"-income_elasticity.jpg-60",
+			"!Estimated increase in energy consumption with a 10% increase in income. Source: IMF [imf2011]."
+		],
+		"name": "Economic Impact of Energy Prices"
+	},
+	{
+		"content": [
+			"Energy plays an important role in long-term economic growth. Ayres and Warr [ayres_warr] demonstrated that, as of 1998 (their last year of data), a 1% increase in available exergy (the capacity of energy to do useful work), correlates with a nearly 0.7% increase in GDP.",
+			"-henryadams.png-60",
+			"!The Henry Adams curve, showing 7% growth in energy consumption in the United States and other industrialized countries, held roughly steady until around 1970, at which time energy consumption has generally stagnated. Source: John Storrs Hall [flying_car] via Robin Hanson [hanson_storrs]. The stagnation of energy consumption may be related to the stagnation of general economic productivity in the United States since the 1970s [stagnation].",
+			"It is not clear whether exergy drives economic growth, or whether economic growth drives an increase in exergy, or both. Stern argues [stern] that, up to a point, energy is a strong constraint on economic growth. Beyond that point, an expansion of the energy supply does not generate much more growth."
+		],
+		"name": "Energy and Economic Growth"
+	},
+	{
+		"name":"Trade",
+		"content":[
+			"With international trade, statistics on national environmental impacts can be misleading, since the impacts of national consumption might be \"embodied\" in imports and attributed to the country of origin of the imports.",
+			"-trade_emissions.jpg-60",
+			"!Emissions for select countries and the EU (including the UK) in 2015, based on production and consumption. Countries such as the United States \"export\" emissions by importing carbon-intensive products, and thus the full emissions required to support American lifestyles are not typically fully attributed to the United States. Source: OECD [oecd_trade].",
+			"In addition to shifting around environmental impacts, trade can increase impacts by shifting production from more to less efficient countries. This effect accounts for an estimated 18% of world CO<sub>2</sub> emissions growth from 1995 to 2007 [emissions_trade], or an additional 1.46 billion tons per year by 2007 [bp2020]. A similar effect has increased global usage of biomass, metals, non-metallic minerals, and fossil fuels [trade_rmc].",
+			"Environmental regulation, such as carbon pricing, can cause \"leakage\", whereby imports from less regulated or taxed countries increase as a result. A solution is a border adjustment tax, whereby imports are taxed in accordance to their embodied environmental impacts, if the exporting country does not do so [border_adjustment]."
+		]
+	}
+]

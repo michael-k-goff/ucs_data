@@ -1,0 +1,45 @@
+[
+	{
+		"name":"Pesticide Usage Trends",
+		"content":[
+			"World pesticide usage is generally increase, though may have peaked per kilocalorie of food produced.",
+			"-pesticide_trends.jpg-60",
+			"!Source: FAOSTAT [faostat].",
+			"Tonnage is not necessarily a complete indication of overall pesticide impact. For example, while insecticide usage in the United States has declined since 1997, overall toxicity to insects, particularly bees, has increased, likely driven by neonicotinoid usage [pesticide_potency].",
+			"By tonnage, herbicides are the most widely used class of pesticides.",
+			"-pesticide_by_type.jpg-60",
+			"!Source: Zhang [pesticide_trends].",
+			"Cereal crops tend to require less pesticide per ton of crop.",
+			"-pesticide_by_crop.jpg-60",
+			"!Sources: Fernandez-Cornejo et al. [pesticide21] for pesticide usage, FAOSTAT [faostat] for crop production."
+		]
+	},
+	{
+		"name":"Value of Pesticides",
+		"content":[
+			"Without usage of modern pesticides, crop yields would be a bit less than half present values, requiring more than twice as much land for the same production.",
+			"-pesticide_yield.jpg-60",
+			"!Source: Agrios [pesticide_yield2] via Our World in Data [pesticide_yield1]. Figures are confirmed by the review of Popp et al. [pesticide_yield3].",
+			"The following monetized costs and benefits in the United States have been estimated.",
+			"-pesticide_cost_benefit.jpg-60",
+			"!Estimated costs and benefits of pesticide usage in the United States from around 2002 to 2008. Figures reported by Popp et al. [pesticide_yield3], with direct cost and benefits from Gianessi [pesticide_yield4], Gianessi and Reigner (2005) [pesticide_yield5], and Gianessi and Reigner (2006) [pesticide_yield6] and externalized costs from Pimentel [pesticide_yield7].",
+			"While pesticide usage is important in the modern food system, the presence of external costs suggests that pesticides are overused."
+		]
+	},
+	{
+		"name":"Costs of Pesticides",
+		"content":[
+			"The following externalized costs of pesticides in the United States have been estimated.",
+			"-pesticide_externalities.jpg",
+			"!Estimated external costs of pesticides in the United States, 2005-06. Note that damages are lower than those estimated above by Pimentel [pesticide_yield7]. Source: Leach and Mumford [pesticide_external] via Pretty and Bharucha [ipm].",
+			"An estimated 355,000 people, mostly farmworkers and their families, die each year from unintentional pesticide poisonings [pesticide_deaths].",
+			"As pesticides kill organisms other than their intended targets, the impact on biodiversity, especially insects and pollinators [pesticide_bees], is of great concern."
+		]
+	},
+	{
+		"name":"Reducing Pesticide Usage",
+		"content":[
+			"Integrated pest management, a broader strategy for controlling pests, can allow a 50% reduction of pesticide usage without impacting yields, though data is limited [ipm]. The challenge with IPM is greater labor cost and need for specialized knowledge [ipm]."
+		]
+	}
+]

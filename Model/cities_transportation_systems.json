@@ -1,0 +1,47 @@
+[
+	{
+		"content":[
+			"Transportation systems and the urban form are inextricably linked."
+		]
+	},
+	{
+		"content": [
+			"There is generally a tradeoff between the space requirements for a mode of transportation and the geographic range of destinations. The following portrays the space requirements for various modes of transportation that are suitable for daily commuting.",
+			"-commuter_space.jpg-45",
+			"!Space requirements per passenger for several commuting modes. Calculations assume 1.14 passengers on average per car, the average for commuting as per Litman [vtpi_space], 42 for a bus, as per the Colorado Department of Transportation [codot] and 5.7 for a vanpool, as per the American Public Transportation Association [apta], three second stopping times, and lane widths of four meters. Area needs for other mass transit modes are adapted from Babadjanov [babadjanov]. Vehicle speeds are adapted from the APTA [apta], BRT Data [brt_data], Johnson [ggwash], and Litman [tca]. Space estimates only account for space required when a vehicle is in motion, and not for parking or maintenance facilities.",
+			"The following portrays the 45 minute travel range for different modes of commuter transportation.",
+			"-commuter_range.jpg-45",
+			"!Commuting range by mode. For mass transit, we assume 10 minutes of waiting, transferring, and walking to and from transit stops. Circuity--the ratio between the actual distance traveled and the Euclidean distance between two points--is a parameter adapted from Giacomin and Levinson [car_circuity] for cars and Huang and Levinson [transit_circuity] for transit buses, estimated to be 1.5 for other forms of mass transit, and estimated to be 1.2 for active transportation. For mass transit, we assume up to 300 meters of walking to the first stop and from the last."
+		],
+		"name": "Space and Speed"
+	},
+	{
+		"name":"How Transportation Shapes the Urban Form",
+		"content":[
+			"Due to the space required by transportation infrastructure, there is a limit to the size and population density of a city before the roads, trains, or buses become too congested. In the following, we estimate, using a simplified urban model, the limits imposed by different transportation modes.",
+			"-transport_urban_form.jpg",
+			"!Our simplified model assumes the following: each city is a 30 minute commutershed around a central business district, using the predominant form of transportation; uniform population density; 15% of surface area dedicated to roads or rail (not including parking, vehicle maintenance facilities, etc.); the road network must accomodate 25% of the population traveling at peak; personal space is 50 square meters per person; no allowance for freight and emergency vehicles. The floor area ratio is the ratio between the residential floor area and land dedicated to residences.",
+			"In a large, car-dependent city, population density is limited by traffic congestion rather than building space. Hence such cities tend to have large single-family homes on large lots.",
+			"The 30 minutes travel radius is based on Marchetti's constant [marchetti], the observation that, historically, humans tend to spend on average one hour commuting each day (30 minutes each way). In practice, the largest metros exceed the estimates above by growing beyond the 30 minute travel radius."
+		]
+	},
+	{
+		"name":"Weight",
+		"content":[
+			"For most motorized vehicles, the weight of the vehicle itself greatly exceeds the weight of the passengers or cargo being transported, with the major exception active transportation: walking and biking.",
+			"-vehicle_weight.jpg",
+			"!Car weights reported by Miller-Wilson [car_weight] and tank sizes from Harbid [car_tank_size]. Weights of buses and tractor trailers given by PennDot [bus_weight]. The charter bus fuel tank size is estimated as the median of five values reported by GOGO [bus_weight2]. Light rail car weights are for a single car and taken from the FTA [light_rail_weight]. The weight of the 747-400ER is given by a Boeing brochure [passenger_air_weight], with fuel reported by Modern Airliners [fuel747400] and cargo capacity of the freighter also from Boeing [cargo747400]. Bicycle weights are reported by Bicycle Universe [bike_weight]. TransConnect Services reports typical truck cargo capacity [truck_cargo], and the International Used Truck Centers reports fuel capacity [truck_fuel_tank]. We take the median of their figures of 135 gallons. The values for freight rail are for a single car, the weight of which is estimated by Barkan [freight_weight].",
+			"!Capacity of passenger vehicle is the same as used in our <a href=\"/solution/cities/cities_transportation\">transportation safety analysis</a>. We assume a person weighs 62 kilograms [human_weight] and can comfortably carry 20 kg of cargo [carry_weight]; 20 kg for each person is the total cargo capacity of passenger vehicles. Since fuel tanks are generally given as volumes, we take a density of gasoline to be 6 pounds/gallon [fuel_density], kerosene (jet fuel) to be 6.82 pounds/gallon [kerosene_density], and diesel to be 8 pounds/gallon [fuel_density]."
+		]
+	},
+	{
+		"content": [
+			"As more cars are driven through urban areas, more space and resources are devoted to roads and parking, and less to public transit and walking/biking lanes, reducing their viability as primary transportation modes. In this manner, a feedback cycle causes automobiles to become the standard mode of transportation [litman2013]. Automobile alternatives are often stigmatized.",
+			"Overcoming this cycle can be difficult, as the more automobiles and the infrastructure that supports them become entrenched, the harder it is to institute reforms. It takes decades to alter transportation networks, and resistance to change is driven by the cycle of automobile dependency.",
+			"-auto_dependency.png",
+			"<a href='/Auto Dependence.pdf'>One-page handout on automobile dependency (PDF)</a>",
+			"<a href='/auto_dependence_low_toner.pdf'>One-page handout on automobile dependency (PDF, low toner version)</a>"
+		],
+		"name": "Automobile Dependency (<a href='/Auto Dependence.pdf'>PDF,</a> <a href='/auto_dependence_low_toner.pdf'>low toner PDF</a>)"
+	}
+]

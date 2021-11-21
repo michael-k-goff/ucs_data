@@ -1,0 +1,24 @@
+[
+	{
+		"content": [
+			"When a particular activity involving energy consumption becomes more energy efficient, some of the expected energy savings are reinvested in the good or service, or they are used elsewhere in the economy. This phenomenon is called the rebound effect. In an extreme case, the rebound can be greater than 100%.  This scenario is called backfire, or Jevons' Paradox, which means that energy efficiency actually leads to increased energy consumption. While theoretically possible, backfire probably does not occur in general [grw_rebound][stern], though is happening with <a href=\"/solution/energy/transpo_data\">information technology</a>.",
+			"Based on the following survey of recent studies, a rebound of about 50% appears to happen in general. We emphasize that the values are highly uncertain.",
+			"-Rebound Effect 2.jpg-70",
+			"!Sources: Amjadi et al. [rebound14], Barker et al. [rebound10], Broberg et al. [rebound16], De Borger et al. [rebound4], Freire-González [rebound1], Gillingham et al. [grw_rebound], Lin and Liu [rebound3], Lin and Tan [rebound5], Lin and Tian [rebound13], Liu et al. [rebound12], Moshiri and Aliyev [rebound11], Nadel [aceee_rebound], Orea et al. [rebound17], Saunders [rebound9], Shao et al. [rebound8], Wang et al. [rebound2], Zhang et al. [rebound15], Zhang and Peng [rebound6], Zhang et al. [rebound7].",
+			"Rebound is not necessarily a bad thing or an argument against energy efficiency. From the perspective of overall welfare, consumers are better off with the rebound than without, unless the rebounded energy consumption has severe negative externalities [grw_rebound]. However, from an energy conservation or greenhouse gas reduction standpoint, the rebound effect must be taken into account."
+		]
+	},
+	{
+		"content": [
+			"While the rebound effect is well-established for energy consumption, a similar effect holds for energy production. When a clean energy source is deployed, only a portion of the new production displaces fossil fuel production, and the rest either displaces another clean energy source or induces new demand.",
+			"-supply_rebound.jpg-60",
+			"!Sources: Hu and Cheng [china_elec], Little and Sadorsky [sadorsky], McGee [afv], Qiu et al. [solar_rebound], York [york].",
+			"Similar patterns hold with natural gas augmenting as well as displacing coal in electricity [gas_coal] and with renewable energy complementing nonrenewable energy in OECD industry [oecd_industry]. Since 1800, the share of traditional biofuels in the world energy supply has fallen from 98% to 7% [owid_energy]. Yet, in absolute terms, the usage of biofuels has doubled and peaked only in 2000.",
+			"Beyond the energy sector, the rebound effect has been observed in several areas.",
+			"-nonenergy_rebound.jpg-60",
+			"!Select studies reporting rebound effects in non-energy sectors. Sources: Ewers et al. [ag_rebound], Li and Zhao [water_rebound2], Lifset and Eckelman [material_efficiency], Lock and Adamson [water_rebound], Longo et al. [aquaculture_rebound], Pfaff and Satorious [pfaff], Zink and Geyer [recycling_rebound].",
+			"It cannot be assumed that the deployment of low-carbon energy sources will, in and of itself, reduce fossil fuel usage."
+		],
+		"name": "Induced Demand"
+	}
+]

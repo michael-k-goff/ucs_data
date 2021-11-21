@@ -1,0 +1,24 @@
+[
+	{
+		"content":[
+			"Today the world is near the <a href=\"/solution/cities/cities_trends\">all-time peak</a> of the growth of urban population. These conditions stimulate interest in the <a href=\"/solution/cities/cities_size\">growth of existing cities</a> and in the building of new cities, some possibilities of which are outlined below."
+		]
+	},
+	{
+		"name":"Charter Cities",
+		"content":[
+			"Charter cities are cities, typically guaranteed by an organization such as a company or an external country, with civil laws and judiciary indepedent of the host country. Charter cities, and the related structure of special economic zones, are meant to allow experimentation with economic policy and are hoped to facilitate reforms in the larger country [romer_charter].",
+			"A review has found that special economic zones, typically smaller and more limited than charter cities, do not typically show higher growth rates than the larger country. Several high profile successes, such as Shenzhen, China, are balanced by several failures [wb_sez]. Building off this work, it does not appear likely that charter cities are an ideal philanthopic venture, though this remains uncertain [charter_rethink]."
+		]
+	},
+	{
+		"name":"Cities in Exotic Locations",
+		"content":
+		[
+			"There is significant interest in building new cities or research facilities, particularly in exotic locations such as the ocean or space. The cost of doing so prohibits more than a small number of settlements for niche purposes at this time. See also our consideration of <a href=\"/solution/oceans/ocean_cities\">cities at sea</a>.",
+			"-city_cost.jpg",
+			"-city_cost2.jpg",
+			"!Estimated costs, per person, of settlements in exotic locations, compared to select current locations. For projects that are not built, cost estimates should be regarded as highly speculative. Sources: Frank [cnbc_manhattan], Gramling [mcmurdo], Hall and Miller [lunar_base], Heidmann and Brisson [mars_colony], Hencken et al. [hencken], Lafleur [iss_cost], Poon [songdo], Ros [underwater_hotel], Zhao [land_reclamation]."
+		]
+	}
+]

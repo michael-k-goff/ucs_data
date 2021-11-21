@@ -1,0 +1,28 @@
+[
+	{
+		"content":[
+			"Access to clean water and sanitation is critical for health and well-being.",
+			"-water_deaths.jpg",
+			"!Deaths per capita taken from the Global Burden of Disease database[disease_burden], with overall population figures supplied by the World Bank [wb_pop]."
+		]
+	},
+	{
+		"name":"Clean Water Access",
+		"content":[
+			"Access to clean water, defined as access to an improved water source or access to a safe drinking water supply, is improving but is still far from universal.",
+			"-improved_water.jpg",
+			"!Sources: World Bank [wb_water] and WHO/UNICEF [safe_drinking_water], via Our World in Data [owid_water].",
+			"Although clean water challenges are concentrated in low-income countries, high-income countries are not immune. An estimate 1.6 million people in the United States lack indoor plumbing facilities [us_water_access]."
+		]
+	},
+	{
+		"name":"Providing Clean Water",
+		"content":[
+			"The cost of providing universal clean water access has been estimated at $1.04 trillion annually as follows.",
+			"-clean_water_cost.jpg",
+			"!Source: Strong et al. [water_abundance].",
+			"These figures are more comprehensive than some other estimates and hence larger [clean_water_cost1][clean_water_cost2].",
+			"The benefit-cost ratio of basic water supply has been estimated at 6.8 [water_copenhagen], 5.5 for access to sanitation [who_water], and 2.0 for access to improved drinking water sources [who_water]."
+		]
+	}
+]

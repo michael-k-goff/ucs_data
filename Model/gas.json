@@ -1,0 +1,40 @@
+[
+	{
+		"content": [
+			"After coal, natural gas is the largest source of energy for electricity and is also growing rapidly. This is particularly so in North America, where natural gas supply has expanded due to development of shale gas. This is likely to continue well into the future. Due to its range of uses, the replacement of natural gas with lower carbon energy sources is a multi-faceted challenge. See also our review of methane hydrates in the context of <a href=\"/topic/oceans/ocean_energy\">ocean energy</a>."
+		]
+	},
+	{
+		"content": [
+			"Advances in drilling technology have made natural gas one of the least expensive electricity sources, with modern combined cycle plants costing about 5-7 &cent/kWh.",
+			"-Cost of Gas Power.jpg-65",
+			"!Sources: Electric Power Research Institute [epri_lcoe], Kost et al. [fraunhofer], Lazard [lazard], Logan et al. [nrel_lcoe], OpenEI [openei], Energy Information Administration [eia_lcoe].",
+			"Combustion turbines and gas peaker plants, though more expensive, serve important ramping functions that keep the power grid stable [fraunhofer][lazard][openei][eia_lcoe]. Adding carbon capture and sequestration (CCS) to remove most of the CO<sub>2</sub> emissions from the plant would add an estimated additional 2 &cent;/kWh to the plant's cost [epri_lcoe][nrel_lcoe][eia_lcoe]."
+		],
+		"name": "Cost"
+	},
+	{
+		"content": [
+			"The following portrays the efficiency of current and possible future gas-fired power plants.",
+			"-gas_efficiency.jpg-65",
+			"!The dominant natural gas technology today is combined cycle. Carbon capture and sequestration options, including pre-combustion capture, post-combustion capture, and oxyfuel combustion, reduce emissions at a cost to efficiency. Combined heat and power achieved a high efficiency by using heat for useful purposes. Sources: Industrial Efficiency Technology Database [ietd], International Energy Agency [iea_gas], Leung et al. [gas_ccs], World Energy Council [wec_ee]."
+		],
+		"name": "Efficiency"
+	},
+	{
+		"content": [
+			"Following are estimates of the externalized costs of natural gas electricity.",
+			"-gas_external.jpg-60",
+			"!Sources: methane leaks from Alvarez et al. [alvarez], greenhouse gas emissions from Bruckner et al. [ipcc_ghg] assuming damages of $50 per ton of CO<sub>2</sub> emissions [social_cost_carbon], volatile organic compound (VOC) emissions from Phillips [phillips], and other air pollution damages from Samadi [samadi]. Some costs, such as induced earthquakes from hydraulic facturing, are not quantified.",
+			"Air pollution damages can vary by technology and location. In the United States, estimates range from 0.06 &cent; to 1.14 &cent;/kWh, though should decrease as pollution controls improve [nrc_external]. Drilling and extraction adds additional costs, such as water contamination and pollution. Hydraulic fracturing in particular can cause groundwater contamination, small earthquakes, and the release of volatile organic compounds [fracking_external]. The U. S. Environmental Protection Agency has not found widespread water pollution from hydraulic fracturing, though more research is needed [epa_fracking].",
+			"Recent research has estimated the rate of methane leakage from U.S. natural gas to be 2.3%, in contrast to the EPA's estimate of 1.4% [alvarez]. If the larger value holds and the gas is burned in a power plant with 60% efficiency, then the leakage has the global warming potential of 77-99 grams CO<sub>2</sub> equivalent per kilowatt-hour [epa_gwp][heat_value], on top of a median estimate of about <a href=\"/solution/energy/energy_env\">450 gCO<sub>2</sub>e</a>."
+		],
+		"name": "Pollution"
+	},
+	{
+		"name":"Carbon Capture and Sequestration",
+		"content":[
+			"The CO<sub>2</sub> abatement cost of natural gas carbon capture and sequestration has been estimated between $58 and $121 per ton [budinis][abatement][rubin]. The efficiency penalty of CCS on a natural gas plant has been estimated at about 7 percentage points [popa], thereby increasing the amount of gas required to produce a given amount of power."
+		]
+	}
+]

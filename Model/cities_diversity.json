@@ -1,0 +1,27 @@
+[
+	{
+		"name":"Variation in City Size",
+		"content":[
+			"Although larger cities <a href=\"/solution/cities/cities_size\">tend to produce greater wealth</a>, an economy needs cities of the full range of sizes, from rural areas to megacities. Good urban design should be relevant to cities at all scales.",
+			"-city_size.jpg",
+			"!Source: UN [city_size]. An economy requires many industries, such as agriculture, mining, manufacturing, knowledge work, and more, each of which has different needs for space and for proximity to other people and firms [order]. Additionally, the needs and preferences of individuals vary [knight]. Thus an economy needs cities of different sizes."
+		]
+	},
+	{
+		"name":"Needs in Housing Stock",
+		"content":[
+			"In the United States, young people are marrying later and having smaller families than in the past [brookings_bedroom], leading to a long-term decrease in the size of households.",
+			"-household_size.jpg",
+			"!Source: [pew_household]",
+			"Nevertheless, sizes of houses have generally been getting bigger.",
+			"-house_size.jpg",
+			"!Source: RCLCO [rclco].",
+			"The housing stock does not fully reflect demographic changes. As a result, there is a shortage of 1 bedroom housing units relative to larger ones.",
+			"-br_occupancy.jpg",
+			"!Occupancy rate is as defined by the U. S. Department of Housing and Urban Development: 1.5 people per bedroom. Figures are the average occupancy, weighted by population, of the largest 15 metropolitan areas in the United States. Source: Loh and Farrar [brookings_bedroom].",
+			"Surveys confirm that, while Americans larely prefer the single family detached home, there is significant demand expressed for alternative housing forms that is not being met.",
+			"-house_preference.jpg",
+			"!Source: RCLCO [rclco]."
+		]
+	}
+]

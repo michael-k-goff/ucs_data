@@ -1,0 +1,25 @@
+[
+	{
+		"content":[
+			"In this section, we discuss several aspects of energy usage in space."
+		]
+	},
+	{
+		"name":"Power Sources",
+		"content":[
+			"Current and near future satellites and probes get their power as follows.",
+			"-space_power.jpg",
+			"!Power sources in space. Sources: European Space Agency [spacepower_solar] for solar, Gibson et al. [spacepower_kilopower] for fission, and World Nuclear Association [spacepower_rtg] for radioisotopes.",
+			"Active areas of research include higher efficiency, 4- to 6- junction solar cells [spacepower_solar], new small fission reactors such as NASA's Kilopower project [spacepower_kilopower], and reverse field configuration fusion [spacepower_fusion]."
+		]
+	},
+	{
+		"name":"Launch Safety",
+		"content":[
+			"The use of radioisotope thermal generators (RTG) or nuclear fission in space entails launching radioactive material from Earth, which raises safety concerns. Results have been found as follows.",
+			"?Study|Results?     Mars 2020 Environmental Impact Statement [mars2020eis]|Maximally exposed person would have less than 1/1,000,000 chance of death.?     Analysis of Ulysses Mission [ulysses]|Expected 3 cancer deaths if there is an accident after launch.?     General Review [rtg_safety]|RTG launch is generally safe.",
+			"Under international regulations, a fission reactor such as NASA's Kilopower could not be activated until it safely escapes Earth. However, there are scenarios under which a reactor could be come critical in a launch failure [kilopower_safety], and therefore rules are needed to govern the launch of reactors that go beyond what has been learned with RTGs [fls2][fls1].",
+			"Nuclear thermal rockets (NTR) have greater exhaust velocity than chemical rockets [pettit] but low impulse [ntr2]. This, together with the safety and regulatory issues around operating fission reactors in the atmosphere, might make them suitable for propulsuion but not for launch. In that case we imagine an NTR would have safety issues comparable to launching a fission reactor. Nuclear pulse propulsion, such as by Project Orion, entails the use of nuclear explosions for propulsion and is not permitted under the Partial Test Ban Treaty, even in space [npp_testban]."
+		]
+	}
+]

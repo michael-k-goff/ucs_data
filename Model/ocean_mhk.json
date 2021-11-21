@@ -1,0 +1,51 @@
+[
+	{
+		"content": [
+			"In this section, we consider several concepts for energy production from oceans."
+		]
+	},
+	{
+		"content": [
+			"Here, we consider the production potential for ocean energy. See also our <a href=\"/solution/energy/mhk\">broader analysis</a> of the topic.",
+			"-mhk_potential.jpg-60",
+			"!Production potential for MHK technologies worldwide and in the United States. World figures are from Helfer et al. [pro1] and Stenzel and Wagner [stenzel] for osmotic power, Stenzel and Wagner [stenzel] for osmotic power with ecological constraints, IRENA [irena_tidal] for tidal, Lockheed Martin [lm_otec] for OTEC, Minerals Management Service et al. [marine_current] for marine current, and Pelc and Fujita [pelc] for wave. US figures are from the Electric Power Research Institute [epri_riverine] for river current, Georgia Tech Research Corporation [georgia_tidal] for tidal stream, Lockheed Martin [lm_otec] for OTEC, the US Department of energy for wave energy in the Continental US, and the Wave Power Technologies Office [us_mhk] for overall wave potential."
+		],
+		"name": "Ocean Energy"
+	},
+	{
+		"content": [
+			"The wind tends to be stronger and more reliable offshore, and in some areas, the water might be the only location for turbines. Offshore wind is growing rapidly, but is only 5% of wind energy and 0.25% of world electricity as of 2018 [bp_stat].",
+			"-offshore_wind_generation.jpg-60",
+			"!Source: International Energy Agency [iea_offshore].",
+			"Since 2015, offshore wind has outperformed expectations. Recent offshore wind bids in the Netherlands and Denmark have come in as low as 7-8 &cent;/kWh, though prices in the UK generally remain above 15 &cent; [nrel_offshore]. The first commercial offshore wind project started in the United States in 2016. Recent cost declines suggest that offshore wind could become a mainstream energy source.",
+			"The challenges of engineering structures in the water add to the cost. Most offshore wind resource is found at farther and deeper sites, where the logistics are more difficult [world_offshore_wind]. Improved turbine foundations are needed to harvest the abundant deepwater resources [carbon_trust_offshore_wind]."
+		],
+		"name": "Offshore Wind"
+	},
+	{
+		"name":"Oil and Gas",
+		"content":[
+			"Oil produced from the ocean (offshore) tends to have lower greenhouse gas emissions.",
+			"-oil_type_ghg.jpg",
+			"!Source: [oil_ghg]. Only upstream emissions, or emissions from production (not combustion) of oil are assessed. Figures are global averages and vary greatly by well.",
+			"However, recent research has found that emissions of methane, a potent greenhouse gas, may be twice as high for shallow offshore oil than previously believed [offshore_oil_methane], and higher than that of onshore oil."
+		]
+	},
+	{
+		"content": [
+			"Methane hydrates, also known as methane clathrates or \"flammable ice\", are highly pressurized crystals of methane trapped in ice. They are typically found in sedimentary deposits on the ocean floor and in the permafrost. The methane hydrate resource is twice that of all other fossil fuels combined [hydrates]. Recoverable reserves may be as high as 20,000 trillion cubic meters, over 4000 years at current gas production rates [hydrate_primer].",
+			"-mh_reserves.jpg",
+			"!Reserves of methane hydrates and other fossil fuels. See [hydrate_primer] for information about hydrates and our <a href=\"/solution/energy/production\">production potential</a> exhibit for other fossil fuels.",
+			"So far, there is no commercial methane hydrate production, and there are major engineering challenges to be overcome. There are three main proposed production methods: thermal stimulation, depressuration, and chemical inhibition [future_gas], and there are major field tests under way in the United States [hydrate_primer] and Japan [frozen_heat]. The Chinese government <a href=\"https://oilprice.com/Latest-Energy-News/World-News/China-To-Build-Methane-Hydrate-Venture-In-South-China-Sea.html\">has also demonstrated</a> methane hydrate production in 2017 and is attempting to commercialize the technology in the disputed South China Sea, but commerical production will probably not be under way before 2030. The cost may be $3.50-4.00 per million cubic feet more than conventional sources, or a bit more than double recent prices [hydrates_review].",
+			"It may be possible to recover methane hydrates by injecting CO<sub>2</sub> into the hydrate, which extracts the methane and allows the hydrates to function as a carbon sink [hydrate_ccs]. However, as methane is a potent greenhouse gas, methane leakage could negate this environmental benefit. The possible leakage of large quantities of hydrate is an unlikely but serious <a href=\"/solution/energy/climate_se\">climate change</a> risk."
+		],
+		"name": "Methane Hydrates"
+	},
+	{
+		"content": [
+			"Usable energy might also be extracted from hydrothermal vents on the sea floor. Although hydrothermal vents are ecologically sensitive, it should be possible to harvest energy without physically touching the vent [hydrothermal]. The Maritime Applied Physics Corporation has demonstrated energy production from a hydrothermal vent [mapc], as has a Japanese research team [hydrothermal_demo], and Marshall Hydrothermal is developing a combined system of energy production, deep sea mining, and desalination [marshall_hydrothermal]. However, full commercialization is not close, and data on the economic potential of hydrothermal vents is limited. To help spur the development of the technology, one possible early application is charging of unmanned naval vehicles [creare].",
+			"We estimate the expected benefit of a hydrothermal sea vent research program to be about $3.7 billion and the expected cost to be about $21 billion. The levelized cost of hydrothermal sea vents has been estimated at 7.7 or 11.1 &cent;/kWh [hsv_lcoe]; for this calculation we take the midpoint of 9.4 &cent;kWh. We also assume that only 20% of the electricity market can be served by sea vents, as the site must be near the coast and also near a vent. As hydrothermal sea vents are far from commercialization, we assume that it will take 25 years, at at cost of $830 million per year, the same as a proposed <a href=\"/solution/energy/mhk\">wave energy</a> program. See our analysis of <a href=\"/solution/energy/rd\">research and development</a> for more information."
+		],
+		"name": "Hydrothermal Sea Vents"
+	}
+]

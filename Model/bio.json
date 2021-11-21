@@ -1,0 +1,65 @@
+[
+	{
+		"content": [
+			"Biomass power is derived from the combustion of living or recently living organic material, while biofuels are derived from biomass.  Here, we examine the economic and environmental implications of biomass power and biofuels."
+		]
+	},
+	{
+		"content": [
+			"The price of electricity from biomass and waste is highly variable, depending on the local price of feedstock, but generally high.",
+			"-Cost of Biomass Power.jpg-65",
+			"!Sources: Chandel et al. [wte_emissions], Kost et al. [fraunhofer], Logan et al. [nrel_lcoe], OpenEI [openei], Salvatore et al. [wec_lcoe], Thi et al. [ourenergy], Energy Information Administration [eia_lcoe].",
+			"Through improved technology and logistics, there is the potential for a cost reduction of about 10-20% for biomass power [irena_biomass][ecf]. Even with these cost reductions, biomass power in a competitive and unsubsidized electricity market is likely to play only a niche role. Biomass power also suffers from a diseconomy of scale: a significant expansion would create economic competition for feedstock and increases feedstock prices."
+		],
+		"name": "Economics of Biomass Power"
+	},
+	{
+		"content": [
+			"Waste-to-energy, or the burning of municipal solid waste (MSW) to produce electricity, is particularly inefficient. In addition to the high cost, waste incineration forecloses the possibility of recycling, a substantial opportunity cost.  Conservatively valuing the economic value of recycling MSW at 10 &cent; per kilogram, the feedstock of a waste-to-energy plant has an opportunity cost of 3.6-5.6 &cent;/kWh.  A <a href=\"http://www.epa.gov/osw/conserve/tools/rmd/rei-rw/result.htm\">2001 study</a> commissioned by the U. S. EPA found that all recycling industries had an average gross revenue of $1.66 per kilogram of recycled material. The pollution externalities of waste to energy are estimated at $75/ton of MSW burnt, or about 3.3 &cent;/kWh [w2eexternal]."
+		],
+		"name": "Waste to Energy"
+	},
+	{
+		"content": [
+			"We estimate the following average internal and external costs of dedicated biomass power as follows.",
+			"-biomass_external.jpg-60",
+			"!Sources: Schlömer et al. [techco2], Interagency Working Group on the Social Cost of Carbon [social_cost_carbon], Samadi [samadi].",
+			"Like internal costs, the external costs of biomass power, including impact on the carbon cycle, are highly dependent on technology and location. Studies have found biomass externalities of 0 to 4 &cent;/kWh in Europe [eu_biomass], and 0.012 &cent;/kWh for biomass power in Northeast China [wang]. The greenhouse gas impact of power from woody biomass can, depending on circumstances, be negative or greater than coal [uk_biomass]."
+		],
+		"name": "Environmental Impact of Biomass Power"
+	},
+	{
+		"content": [
+			"The following are estimates of prices of ethanol, gasoline, or diesel produced through several processes.",
+			"-biofuel_prices.jpg-65",
+			"!Sources: de Jong et al. [dejong], IEA [iea_biofuel_price], Johnson [johnson], Moyo et al. [moyo], Office of Energy Efficiency and Renewable Energy [eere_biofuel], Soleymani and Rosentrater [soleymani], EIA [wholesale_gasoline]."
+		],
+		"name": "Biofuel Prices"
+	},
+	{
+		"content": [
+			"The high <a href=\"/solution/energy/energy_env\">land and water requirements</a> of crop-based biofuels make them unsuitable as a full replacement for petroleum-based fuel.",
+			"-img2019_06_11_liquid_ghg.jpg-60",
+			"!Sources: Tu et al. [algae_lca] for algal biodiesel, EPA [epa_biofuel] for the others.",
+			"-img2019_06_11_liquid_land.jpg-60",
+			"!For fuel derived from petroleum, land disturbed is measured over the life of the oil field. For biofuels, land disturbed assumes 50 years of production. Sources: [biodiesel_review][yeh].",
+			"-img2019_06_11_liquid_water.jpg-60",
+			"!Sources: Tu et al. [algae_lca] for algal biodiesel, Spang et al. [spang] for other options.",
+			"The International Energy Agency calls for 32 exajoules from biofuels by 2050, which would be less than 5% of world primary energy demand [iea_biofuels]. Providing 32 EJ from sugarcane would require 786 km<sup>3</sup> water each year, in contrast to today's annual withdrawal of about <a href=\"/solution/energy/water_consumption\">4000 km<sup>3</sup></a>. It would also require 271 million hectares of land, compared to the <a href=\"/solution/foodwater/ag_landuse\">2000 Mha crop land</a> in the world today.",
+			"The land requirements of biofuels put limits on how much energy can be derived from them.",
+			"-biofuel_potential.jpg",
+			"!Source: IEA [iea_biofuel]. Biofuel limits compare to about 600 EJ of primary energy used worldwide today [bp2021]."
+		],
+		"name": "Biofuel Environmental Impacts"
+	},
+	{
+		"content": [
+			"The advantages of algae for biodiesel are the higher oil content--30% to 70%, compared to 20% for plant crops--and a growing time of 5-7 days rather than months or years for plants [biodiesel_review]. Algal biodiesel production must still undergo significant R&D before it is cost competitive with petroleum-based fuel.  The National Alliance for Advanced Biofuels and BioProducts has brought the cost of algal biodiesel down to $7.50/gallon [naabb]. To bring the price of  algal biodiesel down to $3/gallon to compete with petroleum-based diesel, process improvements and a reduction in CO<sub>2</sub> prices are needed [claw].",
+			"Algal biodiesel generall has lifecycle greenhouse gas emissions comparable with petroleum diesel.",
+			"-algae_ghg.jpg-65",
+			"!Greenhouse gas emissions of diesel compared to several algal biodiesel production methods. Sources: Frank [frank], Sander and Murthi [sander], Tu et al. [algae_lca], EPA [epa_biofuel]. The filter press drying method might not be feasible [sander].",
+			"Compared to other biofuel options, algae biodiesel conserves land but has major climate impact from the fossil fuel inputs into the growing and conversion processes. The high water requirements may also be a showstopper."
+		],
+		"name": "Algae"
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"content":[
+			"There are several key issues in soil health: erosion, organic carbon content, contamination with metals and other pollutants, acidification, salinization, biodiversity, sealing with impermeable material, nutrient balance, compaction, and waterlogging [fao_soil]. Following we consider erosion and soil carbon."
+		]
+	},
+	{
+		"name":"Erosion",
+		"content":[
+			"Worldwide, 20-30 billion tons of soil are lost to water erosion, and an additional uncertain amount to wind erosion [fao_soil]. With water erosion causing an estimated $25/ton of damages (2020 dollars) [fao_food_waste], erosion may cause at least $500-750 billion of damages worldwide every year.",
+			"Agriculture is the main cause of erosion [erosion2].",
+			"-erosion.jpg-60",
+			"!Conventional agriculture causes significantly more erosion than natural biological and geological processes, while <a href=\"/solution/ag_practices\">conservation agriculture</a> is comparable. Conservation agriculture is a farming methodology that, among other things, seeks to minimize soil disturbance by avoiding tilling. Erosion rates are global averages, and values can vary widely by location, though are generally higher in hillier terrain. Source: Montgomery [erosion].",
+			"Agroforestry to create windbreaks [windbreak] and terracing on hilly terrains [terracing] also help reduce erosion."
+		]
+	},
+	{
+		"name":"Soil Carbon",
+		"content":[
+			"The ability of soils to hold carbon is of great interest especially due to climate change. The transport of carbon in and out of soils is as follows.",
+			"-soil_carbon_transport.jpg",
+			"!Source: NASA [carbon_storage].",
+			"Since the beginning of agriculture, soils have lost an estimated 133 million tons of carbon, or about 15 years of world CO<sub>2</sub> emissions at current rates [soil_carbon], though estimates vary widely [c_cycle_report].",
+			"Agriculture generally results in a loss of soil carbon, and conservion of land to other uses, especially forests, generally results in a gain.",
+			"-soil_carbon.jpg",
+			"!Source: [c_cycle_report]"
+		]
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"content": [
+			"Active transportation, powered primarily by human muscles, can be of comparable energy intensity to vehicles used for transportation over equivalent distances.",
+			"-img2019_05_23_active.jpg-60",
+			"!Following Canning et al. [food_energy], we estimate 15 units of primary energy are required throughout the food system to produce one unit of food energy, much greater than the primary energy factor of about 3 for electricity. Energy consumption for various modes of active transportation are estimated from the USDA [choose], and only the energy consumption in excess of rest energy is considered. These figures depend greatly on the diet and metabolic rate of the individual, and due to the very different nature of energy input, caution should be used in comparing them to the energy demand of other transportation modes."
+		],
+		"name": "Active Transportation"
+	},
+	{
+		"content": [
+			"Small vehicles can be highly efficient for traveling short distances.",
+			"-img2019_05_23_smallveh.jpg-60",
+			"!Data sources: Elektroroller Aktuell [escooter], Halvorson [iroad], IEA [future_of_rail], McCarran and Carpenter [ebike2], Salmeron-Manzano and Manzano-Agugliaro [ebike], Saxena et al. [three]."
+		],
+		"name": "Small Vehicles"
+	},
+	{
+		"content": [
+			"Following, we compare the energy intensities of several mass transit systems that are designed to operate over small distances.",
+			"-img2019_05_23_short.jpg-60",
+			"!Data on aerial tramways, inclined planes and streetcars are taken from the National Transit Database [ntd] and represent the performance of a small number of systems in the United States. In particular, the aerial tramway figure is based on a single system in Portland, Oregon. The figures for autonomous shuttles are estimated from the Mcity pilot program at the University of Michigan [shuttle]."
+		],
+		"name": "Short Range Transit"
+	},
+	{
+		"name":"Elevators and Escalators",
+		"content":[
+			"Elevators are highly energy intensive per unit distance traveled, but vertical distances in buildings are usually much less horizontal distances traveled between buildings.",
+			"-elevators.jpg",
+			"!Energy consumption by elevators in buildings ranging from 3 to 13 storeys, including standby energy while the elevators are waiting to be summoned [energycode][elevators_escalators]. We assume an average of one person in an elevator car when it is moving (there may be no people after the elevator is called and before it arrives at the pickup floor). Also shown are energy needs for climbing four stories round trip [stairs_energy].",
+			"Hydraulic elevators are most suitable up to about six storeys, geared traction from 3-25 storeys, and gearless traction for buildings over 25 stories [elevators_escalators]. Energy consumption varies widely by elevator type, efficiency standards, and pattern of use. However, for a typical midrise building, an elevator round trip generally requires less energy than <a href=\"/solution/energy/transpo_cars\">driving</a> a kilometer.",
+			"Relative to other modes of transportation, escalators require little energy per passenger.",
+			"-escalator.jpg",
+			"!Data sources: Building Energy Codes Program [energycode], E3T [escalator1], KONE [escalator2]."
+		]
+	}
+]

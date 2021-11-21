@@ -1,0 +1,19 @@
+[
+	{
+		"name":"Agroforestry",
+		"content":[
+			"Agroforestry is the practice of intercropping trees with other kinds of crops. Evidence suggests that agroforestry is more land-efficient that monoculture.",
+			"-agroforestry_ler.jpg",
+			"!Land equivalency ratios for select agroforestry systems. The LER metric indicates the yield, or land use efficiency, of the agroforestry system compared to growing all crops in separate monocultures. Sources: Bai et al. [ler10], Gendy et al. [ler5], Hasan et al. [ler12], Jama et al. [ler11], Jose and Gordon [ler3], Khasanah et al. [ler8], Rahaman et al. [ler7], Schneider et al. [ler1], Seserman et al. [ler6], Uddin et al. [ler4], Warren-Thomas et al. [ler2], Xu et al. [ler9].",
+			"A literature review has found that agroforestry tends to perform better than conventional systems on soil health, nitrogen fixation, and erosion prevention, while water consumption and runoff may be less or greater, depending on circumstances [agroforestry_review]. Time, cost, and operational complexity are cited as barriers to adoption of agroforestry [agroforestry_barriers]."
+		]
+	},
+	{
+		"name":"Carbon Sequestration",
+		"content":[
+			"Forestry has the potential to sequester carbon in the biosphere as follows.",
+			"-forest_c_seq.jpg",
+			"!Carbon sequestration potential of forestation: annual and overall. Sources: Bastin et al. [bastin], Busch et al. [busch], Chazdon et al. [chazdon], Kim et al. [agroforestry_c], Lal et al. [biosphere_c], Lewis et al. [lewis]."
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"content":[
+			"In this section, we review several aspects of environmental ethics."
+		]
+	},
+	{
+		"name":"What is Valued?",
+		"content":[
+			"Environmental ethics seek to answer the question, What values are we trying to advance in the world? Several answers have been offered. The following are by no means exclusive, nor do many individuals or organizations fall entirely into one category.",
+			"-environmental_ethics.jpg",
+			"!Sources: [afeissa][weak_anthropocentrism][theocentrism][ecocentrism][mautner][anthropocentrism][biocentrism1][sentiocentrism][biocentrism2].",
+			"Ecocentrism was developed in the context of Aldo Leopold's Land Ethic [ecocentrism] and is a core concept of the deep ecology movement.",
+			"A given philosophy may vary considerably in what is values. For example, it is debated within sentiocentrism whether some organisms, say with smaller numbers of neurons, may be less sentient than others (gradualist sentiocentrism) [gradual_sentio]. It is also debated whether to ascribe moral standing to (possible) artificial intelligence agents [ai1][ai2] and the ethics of abortion [essentialism].",
+			"Theocentric beliefs, also known as Creation Care, are the view that the value of nature is a result of it being created by God. While religion, and Christianity in particular, can provide a basis for valuing nature, it has also been seen as the basis for anthropocentric beliefs [simkins], especially as expressed in Genesis 1:28,",
+			"~And God blessed them. And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'.",
+			"Under biotic ethics, the primary goal is to extend life itself, not necessarily particular organisms. Such an ethics often calls for expansion into space to spread life as distantly and as far into the future as possible [mautner]."
+		]
+	},
+	{
+		"name":"Approaches to the Environment",
+		"content":[
+			"Broadly speaking, there are three major approaches to environmental challenges, summarized below [three_env].",
+			"-environmentalism.jpg",
+			"!Major approaches to environmentalism are not necessarily mutually exclusive or exhausting, and they fit primarily but not entirely into a single value system. Source: Erdős et al. [three_env]."
+		]
+	},
+	{
+		"name":"Discounting and Intergenerational Ethics",
+		"content":[
+			"Discounting refers to the practice of devaluing money in the future by a percentage, typically 3-7%. At a discount rate of 5%, $5.92 today is worth $1000 100 years from now. Discounting is typically done because it is possible to invest money and expect a long-term return. However, it is also reasonable to value the well-being of a person in the far future equally to a person today.",
+			"Harmonizing these two concerns is a difficult problem for which there is no consensus on a solution [cowen_discount]. Discounting can make it difficult to deal with long-term environmental challenges, such as climate change.",
+			"-c_price_discount.jpg",
+			"!Discount rates can have a large effect on the current valuation of damages done by carbon dioxide, and hence on how much we should be willing to spend to mitigate CO<sub>2</sub> emissions. Sources: [co2_zero_discount][scc_nordhaus_old][stern_review]. See also David Roberts' review of discount rates [dr_discount].",
+			"Intergenerational ethics call for all policies, not just environmental policies, to be evaulated with low discount rates for the far future. This may mean, for instance, that a higher premium is called for on policies that raise the long-term rate of economic growth and scientific progress [cowen_discount]."
+		]
+	},
+	{
+		"name":"Precautionary Principle",
+		"content":[
+			"The precautionary principle is a principle in environmental ethics and policy that calls for caution and regulation in the face of scientific uncertainty. There are four major planks of the principle: taking preventive action in the face of uncertainty, shifting the burden of proof on proponents of an activity, exploring a wide range of alternatives to a possibly harmful action, and increasing public participation in decision making [precautionary].",
+			"The precautionary principle is frequently used in environmental contexts, where there may be a threat of serious or irreversible damage [precaut_book]. The principle has also been proposed in the context of environmental ethics: when in doubt, it is better to ascribe sentience and rights to organisms [precaut_ethics].",
+			"The precautionary principle has been criticized for hiding protectionist motivations [precaut_protection], for stifling innovation [precaut_innovation], and for being somewhat arbitrary in its application [precaut_perils]."
+		]
+	}
+]

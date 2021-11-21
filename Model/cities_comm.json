@@ -1,0 +1,32 @@
+[
+	{
+		"content":[
+			"In this section, we look at several implicates that information technology may have on environmental and health outcomes. See also our analysis of <a href=\"/solution/energy/transpo_data\">energy in information technology</a>."
+		]
+	},
+	{
+		"name":"Usage Statistics",
+		"content":[
+			"The use of electronics for communication has become pervasive worldwide.",
+			"-it_rates.jpg",
+			"!Sources: Bankmycell [bankmycell] and Pew Research Center [pew_it].",
+			"Usage time is also high, raising concerns about overuse.",
+			"-smartphone_use.jpg",
+			"!Source: [kommando].",
+			"Communication systems, whether cell phones, broadband Internet, or something else, require infrastructure that tends to be more expensive to provide, per user, in rural areas than in urban areas [broadband_cost]. This leads to a \"digital divide\", a gap in the quality of communications access in urban and rural areas.",
+			"-digital_divide.jpg",
+			"!Sources: Perrin and Atske [pew_broadband] and Winslow [pew_divide].",
+			"The digital divide has a major impact of the ability to work [fed_remote] or do schooling [pew_homework] remotely, issues that have become particularly important during the COVID-19 pandemic. Limited communications infrastructure, primarily in rural areas, costs the American economy hundreds of billions of dollars per year [digital_divide]."
+		]
+	},
+	{
+		"name":"Impact on Travel",
+		"content":[
+			"The relationship between the availability of telecommunications and the overall amount of travel is well-studied. The weight of evidence is that advancing information technology is leading to an increase in overall travel.",
+			"?Factor|Effect on Travel|Source?Smartphone Usage|Overall trips increased|Hong and Thakuriah [it_transpo1]?Overall communications expenditures|Mixed effects, but generally increases travel|Choo et al. [it_transpo2]?Overall communications|Decrease work travel in rural areas, increase social travel, increase travel overall|Clark and Unwin [it_transpo3]?Overall telecommunications|Incrase travel on net|Saloman [salomon2][salomon]?Overall telecommunications|Increases travel|Mokhtarian [mokhtarian2][mokhtarian]?Overall telecommunications|Increases travel|Mokhtarian [telecom_travel4]?Mobile device usage |Stimuates travel by allowing productive use of travel time|Lyons and Urry [telecom_travel5]",
+			"The effect of telecommuting in particular seems to be an increase in non-work travel but a decrease in overall travel.",
+			"?Telecommuting: Effect on Travel|Source?Reduces work travel|Helminen and Ristimäki [telework1]?Increases non-work travel but reduces overall travel|Kim [telework2][telework3]?Increases non-work travel, decreases travel overall|Balepur et al [telecom_travel]?Reduces overall vehicle miles traveled|Choo et al. [telecom_travel2]?Reduces overall vehicle miles traveled|Herderson and Mokhtarian [telecom_travel3]",
+			"In the United States, about 29% of air travel [business_travel] and 23% of driving [vmt_purpose] is for work commuting and business purposes, representing the most promising opportunities for substitution with telecommunications."
+		]
+	}
+]

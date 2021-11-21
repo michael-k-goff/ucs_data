@@ -1,0 +1,25 @@
+[
+	{
+		"name":"Impacts of the Food System",
+		"content":[
+			"The larger food system consists of food production, processing, distribution, retailing, and cooking. However, most greenhouse gas emissions associated with the broader food system are in production: crop growing, feed production, and land use change.",
+			"-world_food_ghg.jpg-60",
+			"!Emissions from cookstoves are estimated from Bailis et al. [cookstoves] at 1.0 to 1.2 billion tons CO<sub>2</sub>e per year, and include only traditional biomass cooking fuel and not modern energy for cooking. The remaining figures are reported by Poore and Nemecek [poore].",
+			"Most greenhouse gas emissions in farming and livestock are not directly associated with energy. In the United States, the larger food production uses energy as follows.",
+			"-us_food_system.jpg-60",
+			"!Sources: Canning et al. [ag_energy_system], IEA [iea_sankey], CBECS [cbecs], RECS [recs].",
+			"With transportation a relatively minor component of the food-energy nexus, a movement toward local foods has limited potential to save on energy consumption. In some cases, localized production can increase energy consumption by requiring that food be grown in a climate that is not optimal [local_food_energy]. An exception is that air-shipped foods typically have higher lifecycle emissions than other options [food_climate]."
+		]
+	},
+	{
+		"name":"Food Losses and Waste",
+		"content":[
+			"It is estimated that about a third of all food grown or raised is lost prior to consumption.",
+			"-food_loss.jpg-60",
+			"!The losses by phase of production are compounding, meaning that the numbers are the share of product that enters the given phase that is lost during the phase. Poorer countries tend to have greater losses on the production side, while wealthier countries has greater losses on the consumption side. Source: Gustavsson et al. [food_loss].",
+			"Overeating, or the consumption of food in excess of recommended intake, is also a form of food waste.",
+			"-overeat.jpg-60",
+			"!Absolute impacts are reported by Toti, Di Mattia, and Serafini [overeat]. Overall world agricultural impacts are determined as follows: mass, land use, and greenhouse gas emissions from FAOSTAT [faostat] and water from the World Business Council for Sustainable Development [facts_trends]."
+		]
+	}
+]

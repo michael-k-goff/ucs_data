@@ -1,0 +1,66 @@
+[
+	{
+		"content":[
+			"Energy, and oil in particular, are strategic resources that have been associated with armed conflict [mansson]. Additionally, availability of oil and other forms of energy is necessary to conduct modern warfare."
+		]
+	},
+	{
+		"name":"Military Energy Consumption",
+		"content":[
+			"Most energy consumption by the United States federal government is by the Department of Defense, most of which in turn is for military vehicles and operations. In the United States, the military is responsible for about 1% of national energy consumption.",
+			"-dod_energy.jpg-60",
+			"!Sources: Department of Defense [dod_energy][dod_operational] and Department of Energy [federal_energy].",
+			"If world military energy consumption, per dollar spent [sipri], is the same as the United States, then world annual military energy consumption is about 2 exajoules, or about 0.5% of final energy consumption [iea_sankey].",
+			"The military has required much greater shares of national energy consumption during periods of major warfare.",
+			"-war_energy.jpg-60",
+			"!Historical data from Smil [smil_war] and current data as shown above.",
+			"The logistics of warfare greatly increase the cost of supplying energy. The cost of delivering a gallon of gasoline to the battlefield in Iraq and Afghanistan was estimated to range from $9 to $45 per gallon, compared to $2-3 per gallon for civilian supply [energy_mil]. High cost and the vulnerability imposed by supply chains stimulate military interest in energy efficiency and onsite energy production options such as solar microgrids [energy_mil]."
+		]
+	},
+	{
+		"name":"Oil Dependency",
+		"content":[
+			"Dependency on imported natural resources, particularly oil, carries risk separately from environmental impacts. Figures are disputed and uncertain; one estimate of the externalized security and economic risks of imported oil, relative to domestic oil, is as follows.",
+			"-import_cost.jpg-60",
+			"!Security and economic risk premium of important oil, relative to domestic oil. Estimates were made in the context of marginal United States imports in 2013 and 2014, presented in 2010 dollars. The magnitude of these costs, and whether they are properly considered external costs, is debated. In particular, Hall [halld] estimates a defense spending premium of $13.16 (2010 dollars). Source: Brown and Kennelly [oil_security]."
+		]
+	},
+	{
+		"name":"Natural Gas Dependency",
+		"content":[
+			"Due to the fixed nature of natural gas pipeline routes, heavy usage of imported natural gas can create risk for a country. In 2009, Ukraine and most Western European countries had natural gas supplies cut off following a dispute with Russia, the main supplier [natural_gas_dispute]. Europe is less vulnerable to gas cut-off now but remain vulnerable; diversification of supply is a key to reducing vulnerability [natural_gas_div]."
+		]
+	},
+	{
+		"name":"Nuclear Proliferation",
+		"content":[
+			"Nuclear proliferation is the spread of nuclear weapons, and the ability to make them, to countries or non-state actors not presently in possession of such abilities. Nuclear power poses a proliferation risk because there is some overlap, such as uranium enrichment [proliferation3], between the technologies for power and for weapons.",
+			"Experts are divided on the risk of nuclear weapons proliferation that may result from nuclear power. It is difficult, though not impossible, to repurpose civilian enrichment facilities for weapons production [proliferation1]. Historically, states with civilian nuclear programs have not been more likely to develop weapons than those without [proliferation2].",
+			"Proliferation is more likely to occur in states with weak or non-democratic governance, corruption, or regulatory ineffectiveness [proliferation3].",
+			"Experts disagree on the level of risk posed by proliferation itself. If opposing parties possess nuclear weapons, it may increase the deadliness but decrease the likelihood of conflict [proliferation4]."
+		]
+	},
+	{
+		"name":"Materials in 100% Renewable Scenario",
+		"content":[
+			"A 100% renewable future, with electric vehicles, will require a dramatic increase in certain materials.",
+			"-100_renewable_material.jpg-60",
+			"!Source: Giurco [giurco].",
+			"The Rare Earth metals are of additional concern. The Rare Earths consist of Scandium, Yttrium, and the 15 Lanthanide chemical elements: Cerium, Dysprosium, Erbium, Europium, Gadolinium, Holmium, Lanthanum, Lutetium, Neodymium, Praseodymium, Promethium, Samarium, Terbium, Thulium, and Ytterbium. There are over 500 years of production of such elements, with the majority in China.",
+			"-rare_earths.jpg-60",
+			"!Source: USGS [usgs_rare_earth].",
+			"Two elements in particular, dysprosium and neodymium, are of concern due to possible supply shortages and their use in permanent magnets for wind turbines [wind_elements].",
+			"For a high renewable and EV future, it will be necessary to open new lithium, cobalt, dysprosium, and neodymium mines [giurco][wind_elements]. Despite the need for new mining and current Chinese dominance over Rare Earth production, there are unlikely to be geopolitical conflicts over these elements if production is expanded [rare_earth_availability2][rare_earth_availability].",
+			"Minerals for clean energy tend to be more concentrated than fossil fuels.",
+			"-mineral_concentration.jpg",
+			"!source: IEA [iea_mining]."
+		]
+	},
+	{
+		"name":"Hydroelectricity",
+		"content":[
+			"Most energy sources pose the risk of conflict due to siting and material extraction demands, but <a href=\"/solution/energy/hydro\">hydropower</a> can be particularly fraught. There is currently risk of war between Ethiopia and Egpyt and Sudan over the Grand Ethiopian Renaissance Dam [hydro_conflict1], and hydropower has been linked to conflict in Colombia [hydro_conflict2], Brazil [hydro_conflict3], Myanmar [hydro_conflict4], and other places.",
+			"Due to land use conflict, hydropower is not likely to reach its economic or technical potential."
+		]
+	}
+]

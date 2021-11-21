@@ -1,0 +1,74 @@
+[
+	{
+		"content":[
+			"World freight demand is growing rapidly, driven by economic globalization and <a href=\"/solution/energy/transpo_data\">information technology</a> [deloitte_freight]. World freight volumes were as follows in 2015.",
+			"-freight_stats.jpg-60",
+			"!World freight volumes by mode in 2015. Sources: International Transport Forum [itf2019], as reported by Martime Executive [itf2019writeup]."
+		]
+	},
+	{
+		"content": [
+			"Different freight modes require substantially different amounts of energy to move a ton of cargo one kilometer.",
+			"-freight_energy.jpg-60",
+			"!Sources: Bureau of Transportation Statistics ([bts_rail] and [bts_truck]), Bushnell and Hughes [bushnell], Davis and Boundy [transpo_data_book], Gellings [gellings], Melton and Hochstetler [nasa_airship], van Essen et al. [gas_pipeline].",
+			"Likewise, different modes emit substantially varying levels of greenhouse gases.",
+			"-freight_ghg.jpg-60",
+			"!Sources: Melton and Hochstetler [nasa_airship], Responsible Care et al. [freight_emissions], EIA [co2coef].",
+			"Trucks with larger loads tend to have lower energy requirements per ton-km, and long haul flights tend to have lower energy requirements than short flights [freight_energy].",
+			"Airships are not used today for freight, but designs under development may play an intermediate role between trucking and aviation. Hybrid airships, assessed above [nasa_airship], are not fully buoyant and rely on a combination of buoyant, aerodynamic, and propulsive lift. Other novel designs, such as a concept that uses the jetstream for propulsion, may have significantly lower energy needs [jetstream_airship]."
+		],
+		"name": "Energy and Emissions in Freight"
+	},
+	{
+		"name":"Energy Savings Potential",
+		"content":[
+			"There is potential to reduce energy consumption in freight through efficiency of ships, trucks, and aircraft, and also through shifting some truck freight to rail.",
+			"-freight_savings_potential.jpg-60",
+			"!Data from Eide et al. [ship_savings] for shipping, IEA [iea_trucks] for trucking, Schäfer [air_savings] for aircraft, and Kaack et al. [freight_savings] for shift from trucking to rail.",
+			"Historically, overland freight has shifted from rail to trucks; it is unclear whether this trend can be reversed and to what degree [freight_savings]. Greater energy savings may be possible through novel aircraft design [freight_savings] and truck platooning [platoon]."
+		]
+	},
+	{
+		"name":"Shipping",
+		"content":[
+			"Almost any mainstream fuel can, in principle, be used to power cargo ships, but not all options are practical.",
+			"-shipping_fuel.jpg-60",
+			"!See sources for further analysis of heavy fuel oil [abs_shipping], liquified natural gas (LNG) [abs_shipping], synthetic and biomethane [maersk], alcohol-based fuels [maersk], ammonia [maersk], hydrogen [abs_shipping], sails [abs_shipping], batteries [battery_ship], and nuclear shipping [nuclear_ship].",
+			"Methane, alcohol, and ammonia are low-carbon fuels only insofar as they are produced through low-carbon processes. They are nonetheless considered the most promising near-term low-carbon fuel options because they can be used in existing ships without major technological advances or infrastructural overhauls [maersk].",
+			"At present, it is difficult for low-carbon options to compete with fuel oil or LNG.",
+			"-shipping_fuel_cost.jpg",
+			"!Methanol figures are provided by Ming et al. [methanol_shipping] and the rest from Nelissen et al. [delft]. All figures are CPI-adjusted to 2020. A carbon price of $50-100 is assessed for all fossil-based fuels. Price estimates for methanol were prevailing prices in 2010, and for other fuels are estimated prices in 2030.",
+			"Most ship engines today are designed for heavy fuel oil, including in ships under construction, but alternative fuels are gaining ground.",
+			"-shipping_fuel_share.jpg",
+			"!By comparison, 99.7% of ships as of 2018 are designed for heavy fuel oil. Source: DNG VL [shipping_paper].",
+			"See our <a href=\"/solution/energy/ammonia\">ammonia</a> and <a href=\"/solution/energy/methane\">methane</a> analyses for more details on these as shipping fuels."
+		]
+	},
+	{
+		"name":"Trucking",
+		"content":[
+			"Long-distance trucking is one of the most challenging sectors of the economy to decarbonize.",
+			"-trucking_fuel.jpg-60",
+			"!See [truck_fuel] for analysis of electric and hydrogen options and [itf_truck] for DME.",
+			"Advances in battery technology may soon allow electric freight trucks with ranges of 300 km or more [electric_truck]. Dimethyl ether, which can be refined from <a href=\"/solution/energy/methanol\">methanol</a>, is appealing in that it requires only minor truck modification. See our <a href=\"/solution/energy/methanol\">methanol analysis</a> for more details on dimethyl ether as a trucking fuel.",
+			"Catenary wires are often used today for rail and municipal buses. We estimate the costs and benefits of WSDOT (the Washington State Department of Transportation) extending them to long-distance trucking as follows.",
+			"-catenary_wires.jpg",
+			"!An assessment of the costs and benefits of installing catenary wires on the I-5 corridor between Seattle and the Columbia River. A 5% discount rate, 50 year infrastructure life, and $50/ton carbon price are used. WSDOT is used for total travel information. Ainalis et al. give per-km infrastructure, maintenance, and truck costs, and the pilot estimate is used. Mareev and Sauer give energy consumption estimates for the wire scenario and diesel baseline. Carbon intensity figures are from the EIA. Diesel prices are from the AAA. Electricity prices from Electric Choice. Diesel emissions are from the EPA. Our <a href=\"/solution/energy/transpo_fuels\">Transportation Fuels</a> analysis converts to a per-kWh cost for diesel. An exchange rate of 1.39 USD per pound is used.",
+			"!Sources: Ainalis et al. for data on costs of infrastructure, maintenance, and truck upgrades [catenary_uk], AAA for diesel prices [aaa_state], Electric Choice for electricity prices [electricity_price], Mareev and Sauer for energy consumption for wires and diesel trucks [catenary_energy], U. S. EIA for statewide emissions factors [emissions_by_state], U. S. EPA for diesel emissions [epa_emissions_factors], and WSDOT for trucking distance statistics [wsdot_vkt].",
+			"This project does not look like a good investment. Results are highly sensitive to the discount rate, estimated lifetime of infrastructure, and carbon price. The project may be more attractive if air pollution is taken into account, or if the cost of catenary wires is smaller after other jurisdictions have installed them. A similar analysis in the UK [catenary_uk] found a much more favorable case for catenary wires there, in part because of the higher cost of diesel."
+		]
+	},
+	{
+		"name":"Last Mile Delivery",
+		"content":[
+			"In logistics, the last mile refers to the transportation of goods between local distribution centers, retailers, and consumers.",
+			"The use of e-bikes [ebike_delivery], and potentially drones [drone1][drone2], to deliver small packages may save energy and road space relative to truck delivery [drone1][drone2]. With anticipated technological improvements, it is estimated that drone delivery may be viable for up to 30% of European citizens [drone3]. We estimate the following energy costs of the delivery vehicle, per package.",
+			"-last_mile_energy.jpg-60",
+			"!Sources: E-bike energy from González et al. [ebike_delivery] and other figures from Stolaroff et al. [drone2].",
+			"Since e-bikes and drones are shorter range vehicles, more warehouses are needed if these are the primary delivery mechanisms. The following are per-package estimates of greenhouse gas emissions of package delivery, taking into account vehicle manufacture and warehouse operation.",
+			"-last_mile_ghg.jpg-60",
+			"!Most figures are reported by Stolaroff et al. [drone2]. For e-bikes, we assume that the bike itself requires one sixth the energy as a large drone delivery, as estimated by  González et al., and we assume the warehouse distribution is the same as in the large drone scenario of Stolaroff et al.",
+			"If drone delivery become widespread, it is likely to lower the cost of package delivery and increase overall e-commerce volume [ark_drone]."
+		]
+	}
+]

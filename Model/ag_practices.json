@@ -1,0 +1,72 @@
+[
+	{
+		"content": [
+			"In this section, we examine several agricultural practices for their enviornmental characteristics."
+		]
+	},
+	{
+		"content": [
+			"Under no-till farming, a new planting is done through the residue of the old rather than through tilling. The following increases in yields from no-till farming have been estimated from several studies.",
+			"-notill_yield.jpg-60",
+			"!Estimates of yield increases from several no-till studies [notill_yield][nrdc_notill][notill_yield2].",
+			"Avoiding tillage may allow the soil to sequester more carbon, though this effect is disputed. The following are the soil carbon sequestration potential of no-till farming, as estimated from several studies. Under the largest estimate, applied over 1.5 billion hectares of cropland, the theoretical carbon sequestion potential is the equivalent of 5.5 billion tons of CO<sub>2</sub>, or a bit over 10% of world emissions.",
+			"-notill_c_seq.jpg-60",
+			"!Carbon sequestration potential from no-till farming, as estimated from [notill_carbon2][notill_carbon1][notill_carbon3].",
+			"The following additional benefits and drawbacks of no-till farming have been estimated.",
+			"-notill_impacts.jpg-60",
+			"!Impacts of no-till farming, relative to conventional tilled farming, as estimated from [notill_yield][notill_pesticide][notill_drawback][karayel][notill_carbon1].",
+			"Conservation agriculture, a more general practice that entails minimal or no tillage, accounted for 12.5% of world cropland as of 2015/16 and is rapidly becoming more common [conservation_ag]."
+		],
+		"name": "No-till Farming"
+	},
+	{
+		"content": [
+			"Organic products command a significant price premium, reflecting both consumer preference and higher production cost.",
+			"-organic_premium.jpg-60",
+			"!Premium for organic products in the United States, expressed a percentage premium over the conventional equivalent, as of 2010. Data is reported by Carlson and Jaenicke [org_premium]. The above figures are the average premium over all products in a given category, with categories given as in Carlson [org_premium_blog].",
+			"The organic price premium tends to fluctuate and has generally declined in the late 2010s [org_premium2].",
+			"Yields of organic agriculture, compared to conventional agriculture, vary but are typically lower, as shown by the following sample of studies.",
+			"-organic_yield.jpg-60",
+			"!Studies cited: [meat_land_use][org_yield4][org_yield2][org_yield7][org_yield3][org_yield6][org_yield_nature][org_yield5][org_env].",
+			"The Rodale Institute's demonstration project, after showing an initial decline for a few years, eventually provided the same yields as the parallel conventional farm, and outperformed it during drought years [rodale].",
+			"By reducing synthetic fertilizers and pesticides, organic farming tends to save energy relative to conventional farming.",
+			"-organic_energy.py",
+			"!Energy requirements of organic agriculture relative to conventional agriculture. Studies cited: [org_uk][meat_land_use][org_yield7][fess][org_switz][org_energy2][organic_energy][reganold][org_env][glenlea][ziesemer]. Another recent meta-study confirms that organic farming is generally more energy efficient [org_energy3].",
+			"On other environmental metrics, organic agriculture often performs worse or similar to conventional agriculture on a per-product basis. However, performance also depends highly on local conditions [org_env].",
+			"-organic_impact.jpg-60",
+			"!Data sources: [meat_land_use][pimentel05][org_env].",
+			"Although organic farming does not use synthetic fertilizers directly, it often uses manure as fertilizer. The nutrients in manure are generally provided from the synthetic fertilizers that were applied to animal feed [nesme]. This effect may limit the share of world agriculture that can be produced organically. Crop residues could provide up to 30% of needed nitrogen [organic_scale].",
+			"A review of medical literature did not find strong evidence that organic foods are more nutritious that non-organic foods, though it did find a 30% lower risk of pesticide residue exposure and a lower risk of exposure to antibiotic-resistant bacteria [org_health]. Perceived social benefits include the desire to support agrarian lifestyles and local food production.",
+			"Given the range of advantages and disadvantages, it may be more sensible to adopt the best aspects of organic agriculture but to avoid dogmatic adherance [org_env]."
+		],
+		"name": "Organic Farming"
+	},
+	{
+		"name":"Genetic Modification",
+		"content":[
+			"Genetic modification (GM), or genetic engineering (GE), refers to any technique of modifying crop genetics through transgenics or direct editing. The most common modified traits today are herbicide resistance and insect resistance [nas_gmo]. Both the range of traits engineered for and the techniques for doing so are likely to expand greatly in the coming years [nas_gmo]. Currently, about 10% of world crops, by planting area, use biotechnology [isaaa].",
+			"Current GM technology has brought about the following estimated increases in crop yields.",
+			"-gmo_yield.jpg-60",
+			"!Sources: [gmo_yield2][gmo_yield1][gmo_yield3].",
+			"Following are a sampling of notable GM projects under development, demonstrating the potential for significant gains from future research.",
+			"-gmo_projects.jpg-60",
+			"!Sources: C<sub>4</sub> rice [c4], rationale for nitrogen-fixing cereals [nfc], risk from nitrogen-fixing cereals [nfc_biotech], and Golden Rice [golden_rice].",
+			"Insect-resistant crops reduce the amount of insecticide needed by about 8% [insecticide_use], while the use of herbicide-resistance crops has led to an increase in glyphosate usage due to the advent of glyphosate-resistant weeds [glyphosate].",
+			"In 2016, the U. S. National Academy of Sciences conducted a literature review and found no evidence of a general risk to human health or the environment from GM crops [nas_gmo]. However, there is a need to carefully each individual project for particular risks it may pose [nas_gmo]. An earlier EU review also failed to find a general risk from GM crops [eu_gmo]."
+		]
+	},
+	{
+		"name":"Precision Agriculture",
+		"content":[
+			"Precision agriculture is the use of technologies such as GPS, soil monitoring, and data analytics to optimize planting schedules, application of fertilizer and water, and other farming operations. Data on the potential benefits of precision agriculture techniques is limited; following are ranges of results found in a recent meta-analysis.",
+			"-precision_ag.jpg-60",
+			"!Source: Balafoutis et al. [precision_ag]."
+		]
+	},
+	{
+		"content": [
+			"Robert Arnason of <I>The Western Producer</I> outlines <a href='http://www.producer.com/2014/04/the-search-for-the-holy-grail-nitrogen-fixation-in-cereal-crops/'>technical pathways and challenges</a> for engineering nitrogen-fixing cereals."
+		],
+		"name": "For Further Reading"
+	}
+]

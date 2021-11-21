@@ -1,0 +1,27 @@
+[
+	{
+		"name":"Land Use",
+		"content": [
+			"Agriculture is by far the largest human demand on the world's surface, taking up about half of all arable land [owid_landuse]. The land area of cities, though currently small, is projected to <a href=\"/solution/energy/cities_overview\">grow rapidly</a> in the coming decades.",
+			"-land_use.jpg-60",
+			"!Data on barren land, glaciers, grass and shrubs, forests, aquatic and flooded land, crops, and pasture is reported in [faostat]. Data on managed forests is reported in [fao_fra]. Data on roads, rail, reservoirs, mining, and quarrying is reported in [gsa_land]. Urban land area is estimated from [newgeography], with adjustments to 2018 urban population from [wb_pop] and [wb_pop_urban]. Rural land area is estimated from urban land area, using the urban-to-rural population density ratio as in [gsa_land]. See also [owid_landuse].<br><br>Total of all categories is not exactly equal to the area of the Earth due to the use of independent estimates. Urban land area in particular is highly uncertain, with estimates from FAOSTAT [faostat] and GRUMP [grump] much lower and higher respectively.",
+			"Land use is evolving as follows.",
+			"-biome_change.jpg",
+			"!World surface area by biome, 1997 and 2011. Source: Costanza et al. [costanza].",
+			"The main causes of desertification and land degradation are <a href=\"/topic/foodwater/practices\">farming and grazing practices</a>, and desertification is exacerbated by <a href=\"/solution/habitat/climate_socio\">climate change</a> [ipbes].",
+			"Monetizing the costs of land and ocean usage is difficult and controversial, but the costs may be substantial.",
+			"-ecosystem_damages.jpg-60",
+			"!Estimates of worldwide monetized costs from conversion and degradation of land and mismanagement of oceans. Figures are 2020 US Dollars. Sources: Costanza et al. [costanza], the ELD Initiative [eld], and UNDP and GEF [ocean_finance], with OECD [oecd_biodiversity] providing an overall summary. The cost of services from forests and wetlands is offset by a gain of $255 billion to $4.8 trillion of services from grassland, cropland, and cities [costanza]."
+		]
+	},
+	{
+		"name":"Infrastructure",
+		"content":[
+			"Long, narrow infrastructure, such as roads, power lines [power_lines_impact], pipelines [pipeline_impact], railroads [railway_impact], irrigation, and fences [fence_eco1][fence_eco2], may have an ecological impact disproportionate to their area.",
+			"-infrastructure_radius.jpg-60",
+			"!Sources: [infra_radius] and [road_radius].",
+			"Roads can cause fragmentation and genetic drift of wildlife population [road_genetic_diversity].",
+			"Overpasses or underpasses for wildlife is one solution, and it has been found to add 7-8% to the cost of a road project [road_bank]. A study found wildlife underpasses in Virginia to be cost effective, assessed on their ability to prevent property damage and human loss of life [wildlife_underpass]."
+		]
+	}
+]

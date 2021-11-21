@@ -1,0 +1,12 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,    5.06,[kg] Diammonium phosphate (agrarian) (CAS 007783-28-0) [Intermediate flows],
+1,Input,,     200,"[kg] Enzymes, saccharification [Intermediate flows]",
+2,Input,,1.48e+03,[MJ] NO: electricity mix [Intermediate flows],
+3,Input,,9.72e+03,"[MJ] RER: heat, natural gas, at industrial furnace >100kW [Intermediate flows]",
+4,Input,,     100,[kg] Sulphuric acid aq. (96%) (CAS 007664-93-9) [Intermediate flows],
+5,Input,,3.03e+03,[kg] Wheat grains dried (14% H2O content) [Intermediate flows],
+6,Input,,   1e+04,[kg] freshwater (CAS 007732-18-5) [Renewable material resources from water],
+7,Output,X,   1e+03,[kg] Bioethanol [Intermediate flows],
+8,Output,X,     988,[kg] Distillers Dried Grains with Solubles (dried mash) [Intermediate flows],
+9,Output,,9.94e+03,"[kg] Water (waste water, untreated) (CAS 007732-18-5) [Intermediate flows]",
+10,Output,X,     153,[kg] Yeast protein concentrate [Intermediate flows],

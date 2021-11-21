@@ -1,0 +1,45 @@
+[
+	{
+		"content": [
+			"Oil remains the single largest component of the world's energy supply and is hence critical to the world's economy. It is unlikely that a peak in world oil production will occur soon, but growing reliance on unconventional oil, such as heavy oil, tar sands, and tight oil (oil that is in low-permeability formations and is thus difficult to extract), might raise prices in the long term [wec_survey]."
+		]
+	},
+	{
+		"content": [
+			"Crude oil is refined primarily into transportation fuel, with motor gasoline the largest component. As of 2017, United States refineries produced the following products.",
+			"-refinery_production.jpg-60",
+			"!United States refinery yield. Source: Energy Information Administration [eia_yield].",
+			"Other fuel usages include hydrocarbon gas liquids, petroleum coke, and still gas. Petrochemicals include plastics and various other chemicals."
+		],
+		"name": "Uses of Crude oil"
+	},
+	{
+		"content": [
+			"Pollution damages from gasoline are estimated as follows.",
+			"-gasoline_external_cost.jpg-60",
+			"!Non-climate air pollution damages associated with gasoline combustion in light-duty vehicles are estimated at about 33&cent; per gallon of gasoline [nrc_external], assuming the gasoline is refined from conventional oil, while the damage from greenhouse gas emissions is about 61&cent; per gallon if emissions are valued at $50/ton CO<sub>2</sub>-equivalent [social_cost_carbon][epa_biofuel]. As of June 25, 2019, according to the American Automobile Association [aaa], the average retail gasoline price in the United States is $2.67 per gallon."
+		],
+		"name": "Pollution"
+	},
+	{
+		"content": [
+			"As conventional oil supplies become strained, there is growing development of unconventional alternatives. The three main forms of unconventional oil are light tight oil (LTO), oil shale, and oil sands, though coal-to-liquids, gas-to-liquids, and biofuels are also potential conventional oil alternatives.",
+			"About 8% of the world's liquid fuels today come from unconventional sources, led by LTO in the United States, and this share expected to continue to increase [unconventional_2040]. Following are estimated breakeven costs for various forms of conventional and unconventional oil production.",
+			"-oil_breakeven.jpg-60",
+			"!Sources: Kapustin and Grushevenko [unconventional_2040].",
+			"Unconventional oil generally has higher greenhouse gas emissions than conventional oil. The following shows the greenhouse gas emissions from a gallon of gasoline produced from different oil sources.",
+			"-oil_ghg.jpg-60",
+			"!Sources: Lattanzio [crs_oil] and Environmental Protection Agency [epa_biofuel].",
+			"Oil sands and oil shale have greater water requirements per barrel than conventional oil.",
+			"-oil_water.jpg-55",
+			"!Source: Center for Sustainable Systems [css]."
+		],
+		"name": "Unconventional Oil"
+	},
+	{
+		"content": [
+			"The levelized cost of electricity from petroleum power plants is estimated at around 16-18 &cent;/kWh [oil_lcoe1][oil_lcoe2]. Petroleum accounts for about 3% of world electricity generation [iea_electricity], and oil plants are generally being phased out due to high cost. The externalized cost of oil power plants has been estimated from 0.03 to 39.93 &cent;/kWh, with an average of 13.57 &cent; [electricity_external]."
+		],
+		"name": "Oil Power Plants"
+	}
+]

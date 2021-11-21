@@ -1,0 +1,42 @@
+[
+	{
+		"content":[
+			"In this section we review several aspects of human nutritional needs, and hence the needs of the agricultural system."
+		]
+	},
+	{
+		"name":"Nutritional Needs",
+		"content":[
+			"Humans need more than mere calorie count to survive. Following are estimates of needs by macronutrient, vitamin, and mineral.",
+			"-dietary_needs.jpg",
+			"Estimated macronutrient, vitamin, and mineral needs for an adult male, based on a 2200 calorie overall diet. Source: [nutrition_needs]."
+		]
+	},
+	{
+		"name":"Diet and Health",
+		"content":[
+			"In general, Americans consume too much added sugar, sodium, and saturated fat, and not enough valuable minerals.",
+			"-dietary_needs2.jpg",
+			"!Source: [nutrition_needs].",
+			"Obesity, resulting primarily from eating too much food, is a growing problem.",
+			"-obesity.jpg",
+			"!Sources: CIA [obesity1] and World Health Organization [obesity2].",
+			"Additionally, 39% of the world's adults are considered overweight [obesity3]. Obesity is linked with 4.7 million deaths globally per year [obesity3], one of the <a href=\"/solution/habitat/health_socio\">leading causes</a>.",
+			"Complicating efforts to address malnutrition are food allergies, which affect about 10% of American adults [food_allergy1]. About 90% of food allergic reactions can be attributed to the following: milk, eggs, peanuts, tree nuts, fish, shellfish, soy, and wheat [food_allergy2]."
+		]
+	},
+	{
+		"name":"Micronutrient Deficiency",
+		"content":[
+			"Major nutrient deficiencies, their effects, and their pravalencies are as follows.",
+			"-diet_needs.py",
+			"!Sources: Biban and Lichiardopol [iodine_deficiency], Our World in Data [owid_micronutrient], and Roth et al. [vitamin_d].",
+			"About half of children around the world suffer from \"hidden hunger\", or some form of micronutrient deficiency.",
+			"-hidden_hunger.jpg",
+			"!Source: UNICEF [state_children].",
+			"Micronutrient defiency can be addressed, among other methods, through fortification: dietary supplements, food fortification (e.g. adding micronutrients to cereals and other foods), and biofortification (genetic engineering, such as adding Vitamin A to golden rice) [owid_micronutrient].",
+			"<b>Salt Iodization</b>",
+			"Because salt is commonly consumed and easy to fortify, iodization of salt is a preferred method to respon to iodine deficiency. The World Health Organization estimates that it costs 2 to 5 cents per person per year to iodize salt [salt_iodization]."
+		]
+	}
+]

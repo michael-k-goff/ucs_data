@@ -1,0 +1,25 @@
+[
+	{
+		"content":[
+			"Through expulsion from hydrothermal sea vents, metals accumulate on the sea floor in economically valuable concentrations [dsm_ch4]. In these nodules, the most commonly found economic minerals are nickel, copper, cobalt, and manganese [dsm_elements]. Lead, zinc, silver, gold, and some other rarer elements can be found at shallower depths [dsm_elements].",
+			"Within a country's exclusive economic zone, 200 nautical miles within the coast, national laws govern deep sea mining. Outside of the EEZ, the International Seabed Authority, as defined by the Law of the Sea Convention (UNCLOS), governs as international waters. The ISA must approve an Economic Impact Assessment for deep sea mining operations to go forward [isa_description]. No commercial deep sea mining is occurring, but several exploratory projects are ongoing and commercialization may begin by 2025 [iucn_dsm]."
+		]
+	},
+	{
+		"name":"Life cycle environmental impacts",
+		"content":[
+			"Some estimates of the environmental impacts of harvesting these nodules, as opposed to terrestrial mining, are as follows.",
+			"-dsm_impacts.jpg",
+			"!Selected impacts of terrestrial mining, represented by a nickel laterite mine in Indonesia, and a deep sea nodule collector, to mine the nickel sulfate, manganese sulfate, colbalt sulfate, and copper cathode required for one billion electric vehicles. Source: Paulikas et al. [dsm_comparison].",
+			"For the metals needed for an EV battery, lifecycle greenhouse gas emissions are esimated as follows.",
+			"-dsm_ghg_comp.jpg",
+			"!Source: [dsm_paulikas]."
+		]
+	},
+	{
+		"name":"Ecosystem Impacts",
+		"content":[
+			"Despite the lower impacts generally, deep sea mining attracts concern because many of the long-term effects are not yet well understood [dsm_risk1][dsm_state][dsm_misconceptions][oc_management][dsm_impacts2], particularly to ecosystems that are still poorly understood [dsm_nnl][dsm_biodiversity]. Well-documented impacts include disturbance of ocean sediment, noise, and light [dsm_impacts]. Microbial life takes an estimated 50 years to recover from the disturbance of deep sea mining [dsm_microbes], and larger animals have not fully returned to the site of the DISturbance and reCOLonization experiment (DISCOL) after 26 years [dsm_fauna]. Several researchers have called for a regulatory framework to be established before commercial operations begin, as this will be easier than after commercialization begins [dsm_impacts][dsm_precaut]."
+		]
+	}
+]

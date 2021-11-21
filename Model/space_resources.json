@@ -1,0 +1,53 @@
+[
+	{
+		"content":[
+			"Here we examine several approaches for harvesting natural resources from space."
+		]
+	},
+	{
+		"name":"Water for Propellent",
+		"content":[
+			"Water has been discovered in the permanently shadowed polar craters of the Moon [lunar_water]. This water can be melted and electrolyzed into hydrogen and oxygen, which can be used as rocket fuel [lunar_water2]. Several studies have examined the feasibility of doing this, relative to resupplying fuel from Earth.",
+			"?Feasibility of Lunar Ice Mining|Studies?     Feasible|Blair et al. [nss_ice], Sowers [ice_prop_feas3], Sowers [ice_prop_feas], Sowers and Dreyer [ice_prop_feas2]?      Feasible in optimum circumstances|Bennett and Dempster [ice_prop_feas8], Jones et al. [ice_prop_feas7][ice_prop_feas6]?      Infeasible|Duke et al. [ice_prop_feas5], Jones et al. [ice_prop_feas4]",
+			"!In general, propellent from lunar ice is more likely to be economically feasible for geosynchronous satellites and deep space missions, and less so for low-Earth orbit satellites.",
+			"As of 2021, Masten Space Systems, Lunar Outpost, and Honeybee Robotics are working on lunar ice mining [lunar_ice_companies].",
+			"Water can also be recovered from near-Earth asteroids, from which water may be more abundant [asteroid_ice1] and the economics of making fuel and propellant more favorable [asteroid_ice3][asteroid_ice2]. However, it should remember that asteroid mining is a challenging business, with two recent prominent companies, namely Planetary Resources and Deep Space Industries, having failed [asteroid_ice4]."
+		]
+	},
+	{
+		"name":"Methane on Mars",
+		"content":[
+			"The Sabatier process is a method of producing methane and water from carbon dioxide and hydrogen. The process is as follows.",
+			"-sabatier.svg-30",
+			"!The Sabatier process is an exothermic process, requires 165 kilojoules of heat for each mole of reaction. On Mars, the CO<sub>2</sub>-rich atmosphere is a source of carbon dioxide, while the water produced can be electrolyzed as a source of hydrogen. Source: <a href=\"https://en.wikipedia.org/wiki/Sabatier_reaction\">Wikipedia</a>.",
+			"The Sabatier process is of interest to allow fuel on a return rocket flight from Mars and is envisioned for a Mars sample return [sabatier2] or for SpaceX's Starship [sabatier]. The process is used currently on the International Space Station to recycle oxygen, but on Earth, it is not currently competitive with natural gas [sabatier3]. Improving process catalysts is an active area of research [sabatier4]."
+		]
+	},
+	{
+		"name":"Asteroid Mining",
+		"content":[
+			"There are several proposals to mine asteroids and other celestial bodies for raw materials, but nothing that will come to fruition soon.",
+			"-asteroid_mining.jpg",
+			"!Although asteroid mining has received considerable attention in the press, there are relatively few studies that analyze the economics rigorously. Above are results from some select analyses. Asteroid mining is likely to be economically viable only for high value minerals, such as platinum-group minerals [as_plat]. Sources: Busch [as_pgroup], Hein et al. [as_plat], Kleinschneider et al. [as_he3], Lu [as_nickel].",
+			"Harvesting resources for use in space, such as water to make rocket fuel, is more likely to be economically viable than bringing resources back to Earth [water_mining][as_plat].",
+			"Launch costs would have to be below about $330 per kilogram to low-earth orbit (2020 dollars) [sonter] for asteroid mining to be economically viable, figures that SpaceX hopes to achieve with the under-development Starship. Near-earth asteroids, or those whose orbits come close to intersecting that of Earth, are most likely to be economical [near_earth]."
+		]
+	},
+	{
+		"name":"Solar Satellites",
+		"content":[
+			"Space-based solar power (SBSP) is a proposed system that harvests solar energy from satellites in geosynchronous orbit.  The satellites transit the power to a ground rectanna in the form of microwaves. While SPSP is probably technically possible [sbsp], the economics are highly uncertain [jaffe][sbsp2]. Self-replicating factories on the Moon, which would launch components via a mass driver for arrangement in geosynchronous Earth orbit, have also been proposed [lunar_space].",
+			"Lacking reliable figures specifically for space-based solar, we take the cost of a full research program to be $65 billion, the same as the ITER project [iter_cost], and the time frame to be 40 years. We estimate the benefit to be about $9 billion, with an ultimately achievable cost of electricity of 7 &cent;/kWh and otherwise the same greenhouse gas and other external costs of other forms of solar. See our <a href=\"/solution/energy/rd\">research and development</a> analysis for more details.",
+			"As the ultimate cost of SBSP is highly uncertain, and the appropriate discount rate is debatable, the benefit/cost ratio could vary widely."
+		]
+	},
+	{
+		"name":"Helium-3 Mining",
+		"content":[
+			"Helium-3, a possible candidate for <a href=\"/solution/energy/fusion\">fusion fuel</a>, accumulates on the lunar surface from solar wind. Mining this fuel and bringing it back to Earth would be an extensive operation, with several estimates of the feasibility of doing so.",
+			"?Feasibility|Source?         Feasible|Schmitt [schmitt_he3]?         Possibly Feasible|Kleinschneider et al. [as_he3]?          Infeasible|Close [close_he3]",
+			"For lunar helium-3 mining to be sensible, it must be that fusion power is economically viable, that the deuterium-helium-3 route is superior to the deuterium-tritium or the proton-boron-11 routes, and that lunar mining is more economically sensible that harvesting helium-3 as a decay product of tritium bred on Earth. We see no reason to expect the second point, nor have we found a good analysis on the third.",
+			"It is also proposed to mine helium-3 from gas giants [he3gas_giant], including Uranus [he3uranus], though this is even more logistically difficult than mining the moon."
+		]
+	}
+]

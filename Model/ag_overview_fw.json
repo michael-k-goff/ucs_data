@@ -1,0 +1,58 @@
+[
+	{
+		"content":[
+			"In this section, we examine current world nutritional needs, expected future needs, and the challenges in meeting them."
+		]
+	},
+	{
+		"content": [
+			"From 2014 to 2017, the world produced the following crops annually.",
+			"-world_crop_production.jpg",
+			"!Source: FAOSTAT [faostat]."
+		],
+		"name": "Production Overview"
+	},
+	{
+		"name":"Future Food and Land Needs",
+		"content":[
+			"In the first half of the 21st century, the following increases in demand for food have been predicted.",
+			"-projected_crop_growth.jpg-60",
+			"!Sources: Alexandratos and Bruinsma [ag203050], Ray et al. [ray], Tilman et al. [tilman].",
+			"Increases in population and food consumption, as well as a shift to a carnivorous diet, should increase the land required to feed humanity, while increasing yields should decrease land requirements.",
+			"-world_ag_land_projected.jpg-60",
+			"!Sources: Clark and Tilman [meat_land_use], FAO [fao_yield_proj], FAOSTAT [faostat], Froehlich et al. [aq_land_use], World Bank ([wb_farmland] and [wb_arable]), World Population Prospects [worldpopprospects]."
+		]
+	},
+	{
+		"content": [
+			"During the years of the Green Revolution in the second half of the 20th century, world crop yields grew rapidly. That rate of increase may be slowing.",
+			"-yield_trends.jpg-60",
+			"!Historical annual growth in crop yields, as reported by Our World in Data [owid_yield] and FAOSTAT [faostat]. For future overall annual yield growth projections, the FAO [fao_yield_proj] reports the conservative estimate and Mauser et al. [nature_yield] report the optimstic estimate. Ray et al. [ray] provide estimates for yield growth for maize, wheat, rice, and soybeans.",
+			"While substantial yield improvements are still possible, the slowdown may be a sign of diminishing returns from plant genetics [bloom]."
+		],
+		"name": "Yield Trends"
+	},
+	{
+		"name":"Malnutrition",
+		"content":[
+			"World hunger is declining, but severe problems of malnutrition remain, and now more people suffer from problems related to an excess of food than insufficient food.",
+			"-malnutrition_stats.jpg-60",
+			"!Most nutrition-related statistics are reported by Development Initiatives [nutrition_report], except underweight adult data is from the World Health Organization [who_mal]. Historical world hunger rates reported by the FAO [fao_stats].",
+			"On an energy supply basis, the world grows more than enough food to meet human needs.",
+			"-food_adequacy.jpg",
+			"!Source: Food and Agriculture Organization [fao_stats]."
+		]
+	},
+	{
+		"name": "Impact of Food Prices",
+		"content": [
+			"High food prices cause reduce consumption and cause malnutrition.",
+			"-food_price_impact.jpg",
+			"!Source: Green et al. [price_elas].",
+			"High prices, such as during the commodity price spike of the late 2000s, are a major contributor to malnutrition [food_price1][food_price2]. Furthermore, high food prices force poor families to cut back on health care and education, setting back a country's development [meerman]. Historically, a 1% rise in crude oil prices correlates with a 0.3% rise in food prices on average [price_driver].",
+			"The growth of the biofuels industry is tightening the link between food and fuel prices [bakhat]. The following food price increases from biofuel production have been estimated.",
+			"-biofuel_food_price.jpg-60",
+			"!Source: Chakravorty et al. [biofuel_price]. Most models show that biofuel production increase food prices--see the survey paper [biofuel_price2]--though some research disputes this link, e.g. [biofuel_price3]."
+		]
+	}
+]

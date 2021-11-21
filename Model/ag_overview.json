@@ -1,0 +1,59 @@
+[
+	{
+		"content":[
+			"In this section, we examine current world nutritional needs, expected future needs, and the challenges in meeting them."
+		]
+	},
+	{
+		"content": [
+			"From 2014 to 2017, the world produced the following crops annually.",
+			"-world_crop_production.jpg",
+			"!Average world crop production from 2014-17, as reported by FAOSTAT's New Food Balances [faostat]."
+		],
+		"name": "Production Overview"
+	},
+	{
+		"name":"Future Food and Land Needs",
+		"content":[
+			"In the first half of the 21st century, the following increases in demand for food have been predicted.",
+			"-projected_crop_growth.jpg",
+			"!Projected food demand increases from 2005 to 2050. Overall demand is predicted by Tilman et al. [tilman]; meat, sugarcane/beet, oilcrop, and cereal are predicted by Alexandratos and Bruinsma [ag203050], and maize, rice, wheat, and soybean are predicted by Ray et al. [ray].",
+			"Increases in population and food consumption, as well as a shift to a carnivorous diet, should increase the land required to feed humanity, while increasing yields should decrease land requirements.",
+			"-world_ag_land_projected.jpg",
+			"!Current and projected agricultural land use under various scenarios. Current land use is cropland, pasture, meadows, as reported in our <a href=\"solution/land_use\">land use</a> exhibit [faostat]. Population in 2060 is the median forecast from World Population Prospects [worldpopprospects]. Projected yields are an annual increase of 0.8%, based on [fao_yield_proj]. Chinese, European, and American diets are shown in FAOSTAT [faostat], and the land use impacts of these diets are estimated as in our <a href=\"solution/ag_diet\">diet and land use</a> exhibit [meat_land_use][aq_land_use]. Total farmable land is estimated as the sum of current farmed, grazed, and arable land [wb_farmland][wb_arable].",
+			"Under a continuation of historical yield improvements, there should be no challenge in providing enough food to meet future demands. The greater challenge is in distribution and minimizing the environmental impacts of agriculture."
+		]
+	},
+	{
+		"content": [
+			"During the years of the Green Revolution in the second half of the 20th century, world crop yields grew rapidly. That rate of increase may be slowing.",
+			"-yield_trends.jpg",
+			"!Historical annual growth in crop yields, as reported by Our World in Data [owid_yield] and FAOSTAT [faostat]. For future overall annual yield growth projections, the FAO [fao_yield_proj] reports the conservative estimate and Mauser et al. [nature_yield] report the optimstic estimate. Ray et al. [ray] provide estimates for yield growth for maize, wheat, rice, and soybeans.",
+			"While substantial yield improvements are still possible, the slowdown may be a sign of diminishing returns from plant genetics [bloom]."
+		],
+		"name": "Yield Trends"
+	},
+	{
+		"name":"Malnutrition",
+		"content":[
+			"World hunger is declining, but severe problems of malnutrition remain, and now more people suffer from problems related to an excess of food than insufficient food.",
+			"-malnutrition_stats.jpg",
+			"!Most nutrition-related statistics are reported by Development Initiatives [nutrition_report], except underweight adult data is from the World Health Organization [who_mal]. Historical world hunger rates reported by the FAO [fao_stats].",
+			"On an energy supply basis, the world grows more than enough food to meet human needs.",
+			"-food_adequacy.jpg",
+			"!Source: Food and Agriculture Organization [fao_stats]."
+		]
+	},
+	{
+		"name": "Impact of Food Prices",
+		"content": [
+			"High food prices cause reduce consumption and cause malnutrition.",
+			"-food_price_impact.jpg",
+			"!Impact of an increase of food prices on consumption. Source: [price_elas].",
+			"High prices, such as during the commodity price spike of the late 2000s, are a major contributor to malnutrition [food_price1][food_price2]. Furthermore, high food prices force poor families to cut back on health care and education, setting back a country's development [meerman]. Historically, a 1% rise in crude oil prices correlates with a 0.3% rise in food prices on average [price_driver].",
+			"The growth of the biofuels industry is tightening the link between food and fuel prices [bakhat]. The following food price increases from biofuel production have been estimated.",
+			"-biofuel_food_price.jpg",
+			"!Estimated price increases from biofuel production and mandates [biofuel_price]. Most models show that biofuel production increase food prices--see the survey paper [biofuel_price2]--though some research disputes this link, e.g. [biofuel_price3]."
+		]
+	}
+]

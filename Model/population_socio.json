@@ -1,0 +1,45 @@
+[
+	{
+		"content":[
+			"In this section, we review population and fertility trends, factors that govern fertility, and the consequences of population trends."
+		]
+	},
+	{
+		"name": "Population Outlook",
+		"content": [
+			"Today's world population is approximately 7.7 billion people and growing to a projected 9.6-10.9 billion in 2100 [worldpopprospects]. Uncertainty in the distant future depends on how fertility trends evolve.",
+			"-World Population Forecast.jpg-65",
+			"Recent trends suggest, however, that the UN may be underestimating future population growth in Africa [gerland].",
+			"Unforeseen social trends could significantly alter population forecasts [fertility_rebound]. The advent of life extension [life_ex] and advancement in assistive reproductive technology such as in vitro fertilization [rep_tech] might modestly increase forecasts in the 21st century. It is also unclear the extent to which the current low fertility regime will induce natural selection pressures toward large families, causing an eventual rebound [fertility_rebound]."
+		]
+	},
+	{
+		"name":"Fertility Trends",
+		"content":[
+			"The main variable governing long-term population trends is the total fertility rate: the number of children born to women on average. TFR tends to be higher in lower income countries. Sustained over a long time, a TFR above about 2.1 and no net immigration means that a country's population will grow, and a TFR below 2.1 means that population will shrink [searo].",
+			"-tfr.jpg-55",
+			"!Source: World Bank [tfr].",
+			"Since 1964, world TFR has been decreasing.",
+			"-tfr_trend.jpg-60",
+			"!Source: World Bank [tfr]."
+		]
+	},
+	{
+		"name":"Determinants of Fertility",
+		"content":[
+			"Broadly speaking, there are three classes of explanations for falling fertility. The cultural evolution hypothesis that modernity tends to spread norms that encourage fewer births [fertility_ce][fertility_ce2]. The quality/quantity tradeoff holds that, as children's educational needs grow, parents make a rational decision to have few children while improving the education (quality) of those they do have [galor]. Modernity may reduce the impulse to have children by allowing the pursuit of competing desires, such as noncommittal romance or women's career fulfillment [zaidi].",
+			"The following correlates with fertility rates have been observed.",
+			"-tfr_factors.jpg-60",
+			"!Select factors that correlated with fertility and observed effects. Note that many studies establish correlation but not necessarily causation. Note also that, insofar as the factors are policy-relevant, there are many considerations other than the effect on birth rates to consider, and Urban Cruise Ship does not endorse particular policies. Sources: Bauernschuster et al. [childcare_fertility], Herzer [herzer], Kulu et al. [suburban_fertility], Kulu and Washbrook [citysize_fert], Lerch [lerch], Levine et al. [abortion_fertility], Madsen and Strulik [ed_fert], Shoag and Russell [zoning_fert], Stone [babybonus], Stover and Winfrey [family_planning].",
+			"It is debated how many births were prevented by China's One-Child Policy, the most notable coercive population control policy in history, though the policy is responsible for severe human rights abuses and long term social damage [onechild]."
+		]
+	},
+	{
+		"name":"Consequences of Demographic Trends",
+		"content":[
+			"Economists generally argue that, in industrialized countries but not necessarily in poorer countries, a higher population should lead to higher per capita economic growth due to there being more researchers, more opportunity for specialization, and economies of scale [popecon2][emptyplanet][popecon4][popecon3][popecon5][popecon], though see Coleman and Rowthorn [popdecline] for an alternate view.",
+			"If coupled with investments in human capital, especially education, a transition from a high birth and death rate to a lower birth and death rate can free up resources from childcare and catalyze rapid economic development [dividend]. Following a protracted period of low birth rates, countries experience an increase in the share of the retired population, which depresses growth [pop_aging].",
+			"See also our analysis of the role of population growth in <a href=\"/solution/habitat/kuznets\">human environmental impacts</a> and <a href=\"/solution/habitat/pop_ethics\">philosophical concerns</a>."
+		]
+	}
+]

@@ -1,0 +1,15 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,    0.09,"[tkm] CH: transport, lorry 20-28t, fleet average [Intermediate flows]","(3,1,1,1,1,na)"
+1,Input,, 3.8e-05,"[m3] CH: treatment, sewage, to wastewater treatment, class 2 [Intermediate flows]","(3,3,3,3,4,5)"
+2,Input,,   0.126,"[MJ] Electricity, AC, consumption mix, at consumer [Intermediate flows]","(2,3,2,3,1,5)"
+3,Input,, 8.5e-06,"[m3] RER: building, multi-storey [Intermediate flows]","(3,3,1,1,1,na)"
+4,Input,,   0.145,"[MJ] RER: natural gas, burned in industrial furnace >100kW [Intermediate flows]","(2,3,2,3,1,5)"
+5,Input,,   0.056,"[kg] RER: tap water, at user [Intermediate flows]","(3,3,3,3,4,5)"
+6,Input,,     0.1,"[tkm] RER: transport, lorry >16t, fleet average [Intermediate flows]","(3,1,1,1,1,na)"
+7,Input,,       1,[kg] salmon feed pre-mill - yeast [Intermediate flows],
+8,Input,,   2e-06,[m2*a] construction site [Land occupation],"(3,3,1,1,1,na)"
+9,Input,,   5e-05,[m2*a] industrial area [Land occupation],"(3,3,1,1,1,na)"
+10,Input,,   1e-06,[m2] from unspecified [Land transformation],"(3,3,1,1,1,na)"
+11,Input,,   1e-06,[m2] to industrial area [Land transformation],"(3,3,1,1,1,na)"
+12,Output,,   0.126,"[MJ] waste heat [Emissions to air, unspecified]","(2,3,2,3,1,5)"
+13,Output,X,       1,[kg] salmon feed pre-mix - yeast [Intermediate flows],

@@ -1,0 +1,26 @@
+[
+	{
+		"content":[
+			"Environmental impacts can be understood as the result of several forces: rising population and wealth tend to increase impacts, while improved technology decreases impacts. The IPAT (Impact = Population &times; Affluence &times; Technology) formula quantifies these three tends [ipat]. Relatedly, greenhouse gas emissions from energy can be expressed with the Kaya identity: Emissions = Population &times; Affluence &times; Energy Intensity &times; Greenhouse Gas Intensity of Emissions [kaya]. World trends since 1990 are as follows.",
+			"-kaya.jpg",
+			"!Kaya decomposition of world greenhouse gas emissions from energy from 1990 to 2018. Population figures are from the UN [wpp2019]. World GDP figures are taken on a purchasing power parity basis and derived from the World Bank [world_bank_ppp2019]. Energy is taken as primary energy and reported from BP [bp2019]. Only greenhouse gas emissions from energy are considered, and emissions are also taken from BP. All times series are scaled so as to have a value of 1 in 1990.",
+			"Compared to the world, the United States has seen slower population and GDP growth and faster improvements to energy intensity and carbon intensity of energy. As a result, US emissions appear to have peaked in 2007 and are close to 1990 levels.",
+			"-us_kaya.jpg",
+			"!Kaya decomposion of United States greenhouse gas emissions from energy from 1990 to 2018. Population figures are from the UN [wpp2019]. World GDP figures are taken on a purchasing power parity basis and derived from the World Bank [world_bank_ppp2019]. Energy is taken as primary energy and reported from BP [bp2019]. Only greenhouse gas emissions from energy are considered, and emissions are also taken from BP. All times series are scaled so as to have a value of 1 in 1990.",
+			"Energy intensity is driven by several factors: technical efficiency, urban design, climate, personal behavior, and the composition of the economy [doe_ei].  For individual countries, trade of energy-intensive products can affect observed intensity [nelder]. Some of the observed improvement in intensity is the result of switching to higher quality fuels [kaufman][stern_world_ei]. In general, the efficiency metric covers many factors that are unrelated to technical energy efficiency [doe_alt_ei].",
+			"On a world basis, factors other than energy intensity become somewhat less important than on a national basis.",
+			"-decomp.jpg",
+			"!Contributions to world energy consumption growth from 1990 to 2010, estimated by Lan et al. [decomp]."
+		]
+	},
+	{
+		"name":"Trade",
+		"content":[
+			"With international trade, statistics on national environmental impacts can be misleading, since the impacts of national consumption might be \"embodied\" in imports and attributed to the country of origin of the imports.",
+			"-trade_emissions.jpg",
+			"!Emissions for select countries and the EU (including the UK) in 2015, based on production and consumption. Countries such as the United States \"export\" emissions by importing carbon-intensive products, and thus the full emissions required to support American lifestyles are not typically fully attributed to the United States. Source: OECD [oecd_trade].",
+			"In addition to shifting around environmental impacts, trade can increase impacts by shifting production from more to less efficient countries. This effect accounts for an estimated 18% of world CO<sub>2</sub> emissions growth from 1995 to 2007 [emissions_trade], or an additional 1.46 billion tons per year by 2007 [bp2020]. A similar effect has increased global usage of biomass, metals, non-metallic minerals, and fossil fuels [trade_rmc].",
+			"Environmental regulation, such as carbon pricing, can cause \"leakage\", whereby imports from less regulated or taxed countries increase as a result. A solution is a border adjustment tax, whereby imports are taxed in accordance to their embodied environmental impacts, if the exporting country does not do so [border_adjustment]."
+		]
+	}
+]

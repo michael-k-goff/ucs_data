@@ -1,0 +1,27 @@
+[
+	{
+		"content":[
+			"Aside from avoiding <a href=\"/solution/habitat/health_socio\">premature death</a>, people have material and social needs to live prosperous lives. Life satisfaction is a measure of well-being that asks people to rate their overall satisfaction with life on a scale from 0 to 10 [happy_choice]. Life events and changes have been estimated to have the following impacts on life satisfaction.",
+			"-event_satisfaction.jpg-60",
+			"!Increases in air pollution compare to safe standards of 150 micrograms/m<sup>3</sup> for PM<sub>10</sub> [epa_pm10] and 200 micrograms/m<sup>3</sup> for SO<sub>2</sub> [epa_so2] as specified by the U. S. Environmental Protection Agency. Source: Frijters et al. [happy_choice]."
+		]
+	},
+	{
+		"name":"Income and Well-Being",
+		"content":[
+			"Of great interest, in considering national economic policy, is the link between national income or GDP and overall well-being. The Easterlin Paradox [easterlin1974] holds that, beyond a certain level of economic development, additional national income does not improve national happiness. Since then, several studies have examined the relationship further, with the weight of evidence that even wealthier countries see happiness gains from additional economic growth. Following is a summary of select studies.",
+			"-income_happiness.jpg-60",
+			"!Select studies that examine the relationship between national GDP or income and happiness. Studies cited: [diener2][diener][easterlin][kahneman][layard][wolfers][veenhoven][yuchen].",
+			"Studies generally find a linear relationship between well-being and the log of income (e.g. [wolfers] and [veenhoven]). This means that, at higher levels of wealth, a greater increase of income is needed to produce the same increase of well-being."
+		]
+	},
+	{
+		"name":"Measures of Well-Being",
+		"content":[
+			"Several alternatives to gross domestic product (GDP) have been proposed as measures of national well-being.",
+			"-gdp_alt.jpg",
+			"!Many sources assert that economists and politicians pursue \"economic growth at all costs\", and while this is an exaggeration [growth] (policies that pursue other social goals at the expense of GDP are prevalent around the world), other metrics of social well-being are welcome. Decisions on how to weigh factors, and which factors to include, in any metric that purports to be a universal measure of well-being are necessarily political decisions. Sources: [gpi][sweden_wellbeing][hdi][bhutan].",
+			"Building on the work of Easterlin [easterlin] (see also Layard [layard]), many researchers assert that happiness and human well-being saturate at a wealth point which much of the world has now surpassed. Several other researchers (for example, see [diener2], [diener], [kahneman], [wolfers], [veenhoven]) have come to the conclusion that well-being continues to increase at income levels at least as high as the highest in the world today."
+		]
+	}
+]

@@ -1,0 +1,22 @@
+analysis,impact,standard,bacteria,yeast
+meal,Acidification (kg SO2 eq.),0.01495,0.0115,0.00103
+meal,Climate Change (kg CO2 eq.),8.55145,8.26,0.20595
+meal,Freshwater Consumption (m3),0.09556,0.103,0.0059
+meal,Freshwater Eutrophication (kg P eq.),0.00043,0.00026,0.00008
+meal,Land Occupation (m2a),3.72356,0.14772,0.24271
+meal,Marine Eutrophication (kg N eq.),0.00333,0.00006,0.00024
+meal,Primary Production Requirement (kg C),1.06054,0,0.5822
+FA1,Acidification (kg SO2 eq.),0.01229,0.0114,0.00888
+FA1,Climate Change (kg CO2 eq.),3.03955,3,1.05
+FA1,Freshwater Consumption (m3),0.05501,0.0584,0.0348
+FA1,Freshwater Eutrophication (kg P eq.),0.00033,0.00029,0.00025
+FA1,Land Occupation (m2yr),2.67791,1.82298,1.84579
+FA1,Marine Eutrophication (kg N eq.),0.00255,0.00177,0.00181
+FA1,Primary Production Requirement,22.62294,22.53962,22.55025
+FA2,Acidification (kg SO2 eq.),0.01229,0.0106,0.0104
+FA2,Climate Change (kg CO2 eq.),3.03955,2.99112,1.04
+FA2,Freshwater Consumption (m3),0.05501,0.06364,0.0394
+FA2,Freshwater Eutrophication (kg P eq.),0.00033,0.00029,0.00025
+FA2,Land Occupation (m2yr),2.67791,1.89975,1.92257
+FA2,Marine Eutrophication (kg N eq.),0.00255,0.00193,0.00198
+FA2,Primary Production Requirement,22.62294,22.41271,22.51433

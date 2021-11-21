@@ -1,0 +1,26 @@
+[
+	{
+		"content":[
+			"In this section, we examine select questions of space and time at the cosmic scale."
+		]
+	},
+	{
+		"name":"Origin and Fate of the Universe",
+		"content":[
+			"The Big Bang is a widely accepted model of how the universe began. About 13.8 billion years ago, all observable matter and energy expanded from a single point, coalescing into the galaxies, stars, and planets we see today [age_universe]. Theories about the long term fate of the universe vary.",
+			"?Theory|Explanation|Time Until the End|Notes?      Heat Death|Universe reaches thermal equilibrium, after which no useful work is possible|Up to 10<sup>1000</sup> years [chem_europe_hd]|Currently viewed as most likely [wmap_heat_death].?      Big Crunch|All matter gravitationally contracts on itself, reversing the Big Bang|100 billion years [big_crunch2]|With the discovery of dark energy, this view is generally rejected [big_crunch]?      Big Rip|Increasing repulsive forces overcome all else, including spacetime itself|22 billion years [big_rip]|Could happen with phantom energy, a model of dark energy [big_rip]?     Steady State|Density of universe remains constant due to creation of new matter|Forever|No longer generally believed [steady_state].",
+			"!Aside from religious views, the above are some major theories of the ultimate fate of the universe."
+		]
+	},
+	{
+		"name":"Shape of the Universe",
+		"content":[
+			"Basic questions of the shape of the universe remain unanswered and the best answers are in flux over historical time scales. For example, we have gone from believing the Earth to be the center of the universe, to the Sun, to the modern view of there being no particular center.",
+			"The observable universe is now understood to be roughly a sphere of about 47 billion light years in radius. It is defined to be the region of space that we could theoretically observe with a signal that moves at the speed of light. The actual universe is likely much larger; under interpretations of the theory of cosmic inflation, it may be about 250 times the size of the observable universe, or 3 &times; 10<sup>23</sup> times larger [cosmic_inflation], or even infinite.",
+			"The way that the universe is curved, which under general relativity depends on its mass, greatly affects our understanding of the likely size and shape of the universe.",
+			"?Condition|Curvature|Size?      &Omega; = 1|Flat|Possibly Infinite?     &Omega; > 1|Spherical|Finite?    &Omega; < 1|Hyperbolic|Possibly Infinite",
+			"!Source: [cosmic_top]. Observational evidence suggests that the universe is flat, or close to being flat [flat2][flat1].",
+			"Even the dimensionality of the universe is not firmly established. Our universe appears to be four-dimensional (three spatial dimensions and one time dimension). Under some models of string theory, the universe may have 10, 11, or 26 dimensions [string_theory], with all but the familiar four \"compactified\" and impossible to currently detect. Alternately, the observable universe may be subspace of a higher dimensional space [string_theory2]."
+		]
+	}
+]

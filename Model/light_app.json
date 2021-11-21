@@ -1,0 +1,17 @@
+[
+	{
+		"content": [
+			"The advent of LED lighting is a major driver of energy efficiency. While the lighting market is transitioning to LEDs on its own, public support to accelerate the transition could save over 1.4 EJ of primary energy per year by 2030 [led_forecast]. Replacing all outdoor parking, roadway, and highway lighting with LEDs would save about 0.4 EJ of primary energy [outdoor_led].",
+			"-light_efficiency.jpg",
+			"!Figures assess the prevailing efficacy (lumans per watt) of modern light sources, as well as future expected efficacies of laser diodes and organic LEDs (OLED). Both laser diodes and OLED are commercial technologies, but both are small segments of overall lighting and have not yet achieved technical potential. Sources: Guttag [guttag] for laser diodes, U. S. DOE [oled] for OLED, and United 4 Efficiency [u4elight] for all others."
+		],
+		"name": "Lighting"
+	},
+	{
+		"name":"Appliances",
+		"content":[
+			"Household and commercial building appliances, such as refrigerators, dishwashers, clothes washers and dryers, and microwaves, typically improve in energy efficiency by about 4% per year [us_appliance_trend][eu_appliance_trend]. Continuing to invest in appliance efficiency should save the United States about 1.6 EJ of primary energy per year by 2040.",
+			"See also our <a href=\"/solution/foodwater/cooking\">analysis of cooking</a>."
+		]
+	}
+]

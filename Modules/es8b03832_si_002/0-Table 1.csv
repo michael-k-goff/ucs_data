@@ -1,0 +1,12 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,       1,"[kg] CH: grain maize IP, at feed mill [Intermediate flows]",
+1,Input,,   0.878,[MJ] CN: electricity mix [Intermediate flows],
+2,Input,, 0.00177,[kg] Peroxitan [Intermediate flows],
+3,Input,, 0.00093,[kg] Sulphur (CAS 007704-34-9) [Intermediate flows],
+4,Input,,    4.26,[MJ] natural gas [Non-renewable energy resources from ground],
+5,Output,, 0.00306,[kg] biological oxygen demand [Emissions to fresh water],
+6,Output,, 0.00061,[kg] chemical oxygen demand [Emissions to fresh water],
+7,Output,X,    0.85,[kg] Corn Germ Meal (17% CP) [Intermediate flows],
+8,Output,X,   0.238,[kg] Corn Gluten Feed (21.5% CP) [Intermediate flows],
+9,Output,X,   0.067,[kg] Corn Gluten Meal (60% CP) [Intermediate flows],
+10,Output,X,    0.61,[kg] Corn Starch [Intermediate flows],

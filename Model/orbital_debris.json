@@ -1,0 +1,46 @@
+[
+	{
+		"content":[
+			"Orbital debris, also known as space junk, refers to objects in orbit around Earth that do not (anymore) serve a useful function. Although orbital space is vast, high speeds create a growing risk of an orbital collision. It is necessary to take actions to mitigate the problem."
+		]
+	},
+	{
+		"name":"Extent",
+		"content":[
+			"Although vast, Earth's orbital face contains many pieces of dangerous debris, especially small pieces that are difficult to track.",
+			"-num_orbital_debris.jpg",
+			"!Source: Liou [num_debris].",
+			"Orbital debris have many sources, especially anti-satellite (ASAT) tests and accidental explosions [nap_debris]. Two events in particular have been problematic.",
+			"?Event|Number of Large Pieces (>10 cm) Created?       2007 Chinese anti-satellite test [chineseasat]|3000?         2009 Iridium-Cosmos satellite collision [iridium_cosmos]|2000",
+			"Debris is less of a worry at altitudes below 600 kilometers, as a very thin atmosphere will cause objects to fall within years or less. Above 600 km, and especially above 1000 km, debris is more worrisome because atmospheric drag will not cause objects to fall in reasonable time [debris_time].",
+			"The presence of small debris requires that satellites install shields, which adds 5-10% to the cost of satellite missions [oecd_debris]."
+		]
+	},
+	{
+		"name":"Kessler Syndrome",
+		"content":[
+			"If a satellite is struck by a piece of debris, the explosion creates new debris, which in turn increases the risk of collision. Kessler Syndrom is a scenario in which this process becomes an uncontrollable cascade [kessler_syndrome]. The prediction market Metaculus indicates (as of August 18, 2021) a 15% chance of Kessler Syndrome by 2050, formally defined as the loss of at least 10% of satellites due to collisions with debris in one year [metaculus_kessler]. Another estimate is that in 200 years, there could be a catastrophic collision every 5-9 years, like the 2009 satellite collision [kessler2].",
+			"In the worst case, Kessler Syndrome may put so much debris into certain orbital lanes that they become unusable. This would deny humanity the benefits of GPS, climate monitoring, satellite communications, and other services."
+		]
+	},
+	{
+		"name":"Mitigation",
+		"content":[
+			"Satellite operators are supposed to move satellites at the end of their useful lives, whether that is atmospheric reentry for low-Earth orbit satellites or a graveyard orbit for geosynchronous orbit satellites. A graveyard orbit is at least 200 kilometers above GEO.",
+			"?Satellite Location|Intended End-of-Life Destination|Compliance Rate?    Low-Earth Orbit|Atmospheric Reentry|20%?      Geosynchronous Orbit|Graveyard Orbit|80%",
+			"!Source: OECD [oecd_debris]. Satellite disposal compliance rates have been going up over time. Stronger regulation may be needed to boost compliance rates [nasa_oig].",
+			"Moving a satellite from GEO to a graveyard orbit requires a &Delta;v of 11 meters per second, which subtracts three months from the useful life of a satellite [graveyard_orbit]. Graveyard orbits themselves have limited capacity before the collision risk is too great and threatens other orbits, making them only a temporary solution [graveyard_orbit2].",
+			"An orbital use fee, rising to $235,000 per satellite-year in 2040, is a tool for internalizing the cost of usage of the satellite commons. Such a policy would greatly increase the value of the space industry [orbital_fee].",
+			"There are two major tools to protect satellites and the International Space Station against debris.",
+			"?Stategy|Debris Size Effective Against?     Avoidance maneuver [nasa_debris]|5+ cm?      Whipple Shields [whipple]|3- mm",
+			"!Current debris protection efforts leave a gap between 3 millimeters and 5 centimeters for which there is not an effective defense. Research is ongoing into telescopes that will be able to track smaller pieces of debris [debris_telescope]."
+		]
+	},
+	{
+		"name":"Active Debris Removal",
+		"content":[
+			"Even if launches cease today, there will continue to be orbital collisions and growth in the total amount of debris [debris_growing], so efforts to remove debris from orbit (active debris removal, or ADR) are necessary. The removal of 5-10 well-chosen objects should be enough to stabilize the debris environment [esa_active]. Removing 15 objects per year would cost about an estimated $600 million [adr_cost].",
+			"At present, no ADR occurs, though there are many possible methods [adr_methods]. A demonstration mission, ClearSpace-1, is scheduled for 2025 [esa_adr]."
+		]
+	}
+]

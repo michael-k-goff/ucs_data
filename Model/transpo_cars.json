@@ -1,0 +1,56 @@
+[
+	{
+		"content": [
+			"The energy intensity of driving depends on many factors, including four in particular: the number of passengers in the car, the type of car, the type of fuel the car consumes, and the way in which it is used. Intercity trips tend to have a lower energy intensity due to better fuel economy on the highway and the fact that there are typically more passengers on a longer trip [minn]. See our analysis of the <a href=\"/solution/cities/cities_transportation\">broader impacts of transportation</a> for more information."
+		]
+	},
+	{
+		"content": [
+			"Based on Model Year 2018 vehicles, pickup trucks consume 58% more energy per passenger-kilometer than sedans.",
+			"-img2019_05_23_fuelecon.jpg-60",
+			"!Source: Environmental Protection Agency [auto_trends]. Figures might slightly overestimate energy consumption of larger cars, as they do not account for a possibly greater number of passengers on average."
+		],
+		"name": "Type of Car"
+	},
+	{
+		"content": [
+			"A car's primary energy consumption also depends on the type of fuel. Despite having greater upstream primary energy requirements, electric vehicles are the most energy efficient in general, saving about 35% primary energy relative to gasoline cars in the case of sedans. The following compares energy consumption of the average sedan and SUV in the U.S. Model Year 2018 fleet.",
+			"-img2019_05_23_byfuel.jpg-60",
+			"!Primary energy consumption of the average sedan and SUV in the U.S. Model Year 2018 fleet. Most estimates are based on figures provided by fueleconomy.gov [econgov] and the EPA [auto_trends], with data on natural gas provided by the Office of Energy Efficiency and Renewable Energy [fuelcell_comp]. The hydrogen fuel cell scenario assumes that the hydrogen is produced by methane steam reforming.",
+			"For a typical light-duty vehicle, greenhouse gases emissions vary by fuel source as follows.",
+			"-ghg_by_fuel.jpg-65",
+			"!Sources: most figures from the GREET model [greet] and methanol figures from Joseck and Elgowainy [methanol_car]."
+		],
+		"name": "Fuel Source"
+	},
+	{
+		"name":"Electric Cars",
+		"content":[
+			"Electric vehicles have higher up-front energy and emissions, mainly due to the battery pack, but even so generally have lower life cycle emissions except possibly in a highly emissions-intensive grid.",
+			"-automobile_lca.jpg-60",
+			"!Comparison of per-kilometer life cycle emissions of a Ford Focus and Mitsibushi i-MiEV, as estimated by Kukreja [ev_ice], in British Columbia's low-carbon, predominantly hydropower grid, the U. S. average grid as reported by the Scott Institute [emissions_index], and a grid powered entirely by coal, as indicated by our analysis of <a href=\"/solution/energy/coal\">coal emissions</a>. The scenarios assume the car is driven 150,000 km.",
+			"There have been many studies on the life cycle impacts of electric vehicles, most of which (for example [ev_ice2] and [ev_ice3]) confirm the general pattern described above. However, EVs have been found to be worse than ICE cars on life cycle particulate matter and human toxicity [ev_ice4].",
+			"While unsubsidized electric vehicles save customers money over the car's lifetime, uptake may be hampered by the fact that EVs typically cost more at purchase and save money later. Over time, a decline in the cost of batteries should accelerate EV purchasing.",
+			"@Electric Vehicles Advancing Too Slowly!Congress Should Institute Greater Up-Front Incentives@     <b>Description:</b> We recommend that Congress increase up-front incentives for electric vehicles purchases to at least $14000 per car, up from the present level of $2500-7500 per car [us_ev_credit].     @-electric_incentives.jpg-80@<b>Calculations:</b> To estimate the costs and benefits of a single electric car, we use the cost figures of Balali and Stegen [car_cost], which are based on average costs for light duty vehicles, and the maintenance and fuel costs reported by Consumer Reports [consumer_reports_ev].         @Reported lifecycle greenhouse gas emissions are as above and include those in manufacturing the vehicle, transporting the vehicle to the consumer, fuel, and disposal. For the EV scenario, emissions assume the vehicle is fueled with average electricity in the U. S. grid. Costs and benefits are not discounted. We assume the vehicles are driven 150,000 kilometers (about 90,000 miles) over their lifetimes. Monetization of some factors, such as vehicle size, weight, and range, is not estimated.      @Overall benefits are estimated by multiplying the benefit of a single vehicle by the number of vehicles likely to be sold under enhanced policies. Almost 70% of new cars sold in Norway are now electric vehicles [norway_ev_sales]. We estimate 50% annual EV sales in the United States out of about 17 million total cars sold [us_car_sales].         @<b>Implementation:</b> Norway offers a variety of subsidies for electric vehicles, ranging an estimated $14,000 to $24,000 (2020 USD) in value [norway_ev_subsidy]. The most important of these subsidies have been measures to reduce up-front costs of EVs, such as exemptions from the value-added tax and purchases taxes [norway_ev].      @Some tax breaks that Norway has offered, we would not recommend, as they would conflict with efforts to reduce car dependency in general. Such breaks include exemption from tolling (or congestion pricing), access to bus lanes, and free municipal parking. Aside from tolling exemptions, these breaks have minor effects on consumer decisions to purchase EVs [norway_ev]. For this reason, we estimate the market potential from policy for EVs in the United States is 50%, less than rate achieved by Norway."
+		]
+	},
+	{
+		"name":"Fuel Economy Improvements",
+		"content":[
+			"The fuel economy of internal combustion engines can be nearly doubled from Model Year 2018 values through standards and incremental improvements to technology.",
+			"-ice_fuel_econ.jpg-55",
+			"!Sources: Model Year 2018 with 1980 horsepower and torque from Knittel [knittel], 2025 CAFE standards from Lipman [lipman], expected technological advancements from Middleton et al. [fuelecon2025], Model Year 2018 from EPA [auto_trends].",
+			"Average Model Year 1980 fuel economy was 20.5 MPG [auto_trends], indicating that most improvement in automotive technology of the last 40 years has gone to vehicle size and performance rather than energy savings.",
+			"The International Energy Agency has a target of about a 39% increase in world fuel economy from 2017 to 2030 [iea_fuel_econ]."
+		]
+	},
+	{
+		"content": [
+			"The way in which a car is used also has a major impact on energy intensity. Ride hailing services, such as Uber and Lyft, tend to have greater energy intensity per passenger-km because the passenger is more likely to be alone (except for the driver), and the rate of deadheading--the car in motion without a passenger--is about 41% [ridehail]. This figure does not account for the possibility that, due to greater use, the car's upstream energy usage per passenger-km may be less.",
+			"The potential advent of autonomous vehicle opens a range of possibilities. In the most optimistic case, fuel economy could be improved through a combination of more efficient driving, lighter vehicles, congestion mitigation, platooning, crash avoidance, and the use of fleets that prioritize fuel economy over other performance charateristics. In the pessimistic case, fuel economy may be worsened by higher highway speeds and new features such as in-car entertainment systems [av].",
+			"-img2019_05_23_use.jpg-60",
+			"!Energy performance of the average Model Year 2018 car. For normal driving, see above. The estimate for ride hailing is reported by Henao and Marshall [ridehail]. High and lost estimates for autonomous vehicles are reported by Chen et al. [av]. Estimates are on a per passenger-kilometer basis and do not attempt to account for changes in overall quanitity of travel."
+		],
+		"name": "How a Car is Used"
+	}
+]

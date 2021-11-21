@@ -1,0 +1,60 @@
+[
+	{
+		"content":[
+			"In this section, we consider several ways in which energy is over- or under-priced."
+		]
+	},
+	{
+		"content": [
+			"Greenhouse gas emissions, primarily from energy, have harmful impacts on the future climate that are generally externalized from the emitter. Imposing a tax at the point of emission internalizes those costs. Following are select estimates of damages.",
+			"-scc.jpg-60",
+			"!Select estimates of the social cost of carbon, assessed per ton of CO<sub>2</sub>, 2019 USD. Sources: Hänsel et al. [hansel], Interagency Working Group on Social Cost of Carbon [social_cost_carbon], Moore and Diaz [stanford_scc], Nordhaus [scc_nordhaus], Ricke et al [scc_country], and Wang et al. [scc_meta]. A major source of variation in SCC estimates is the discount rate, or the extent to which future economic damage should be valued less than present costs. Rennert and Kingdon [rennert] illustrate how an SCC estimate can vary by discount rate.",
+			"Major damages in climate economic modeling include rising sea level, severe weather, wider range of tropical disease, direct impact of heat, and increased cooling costs. Models generally take into account the benefits of lower heating costs and CO<sub>2</sub> fertilization of crops [scc_cat]. Most countries will be harmed by climate change, with India hit particularly hard, though Russia, Canada, and Scandinavian countries could benefit [scc_country].",
+			"Throughout Urban Cruise Ship, unless stated otherwise, we use a social cost of carbon of $50/ton CO<sub>2</sub>e. This translates to 45 &cent;/gallon for gasoline [eia_gas]."
+		],
+		"name": "Social Cost of Carbon"
+	},
+	{
+		"name":"Carbon Pricing Policies",
+		"content":[
+			"A carbon price typically imposes near-term economic costs with long-term climate benefits and more immediate health benefits by reducing other forms of pollution. Recent modeling has found the following costs, climate benefits, and health benefits from recent carbon pricing proposals in the United States Congress.",
+			"-carbon_plan.jpg",
+			"!Analysis of carbon pricing proposals. A carbon price of $52/ton CO<sub>2</sub>e is assumed. Source: Hafstead [rff_calc]. The proposals analyzed are the Climate Action Rebate Act (Coons) [carbon_bill2], the Energy Innovation and Carbon Dividend Act (Deutch) [carbon_bill3], the America's Clean Future Fund Act (Durbin) [carbon_bill8], the MARKET CHOICE Act (Fitzpatrick) [carbon_bill5], the America Wins Act (Larson) [carbon_bill7], the Raise Wages, Cut Carbon Act (Lipinski) [carbon_bill9], the SWAP Act (Rooney) [carbon_bill6], the Healthy Climate and Family Security Act (van Hollen) [carbon_bill4], and the American Opportunity Carbon Fee Act (Whitehouse) [carbon_bill1]."
+		]
+	},
+	{
+		"name":"Fossil Fuel Subsidies",
+		"content":[
+			"The International Monetary Fund has released several reports detailed energy subsidies and unpriced externalities. The 2019 values are as follows.",
+			"-energy_subsidies.jpg",
+			"!Energy subsidies and unpriced externalities, as estimated by the IMF [imf_subsidy].",
+			"Direct subsidies include tax breaks or direct payments, often to consumers. \"Other Externalities\" include externalities related to traffic, such as congestion. While we believe that such externalities should be internalized, such as through congestion pricing, it is debatable whether they could be termed energy subsidies when they apply regardless of how a car is powered."
+		]
+	},
+	{
+		"name":"Clean Energy Subsidies",
+		"content":[
+			"In our <a href=\"/solution/energy/policy_se\">deployment section</a>, we note that technology deployment has social value via the learning-by-doing effect. We estimate the learning-by-doing value as follows.",
+			"-clean_energy_subsidy.jpg",
+			"!Estimated learning-by-doing value for clean energy technologies.",
+			"Not all of the value estimated here is necessarily an appropriate subsidy, as the developer of the energy system will capture some of the learning benefits."
+		]
+	},
+	{
+		"name":"Carbon Offsets",
+		"content":[
+			"Sometimes it is too expensive or infeasible to reduce onsite emissions, and in that case one may purchase carbon offsets to reduce emissions elsewhere. Such purchases may be done voluntarily or to comply with a cap-and-trade law. As of January-March 2018, the prevailing price for carbon offsets was $3-6 [carbon_offsets1].",
+			"Among certified offsets, forestry and land use projects are currently the most popular.",
+			"-carbon_offsets.jpg",
+			"!Certified carbon offsets in the first quarter, 2018, by type of projects. Source: [carbon_offsets1]",
+			"Carbon offsets have come under considerable criticism for failing to deliver the promised emissions reductions [carbon_offsets2][carbon_offsets5][carbon_offsets3][carbon_offsets6][carbon_offsets4]. An estimated 85% of forestry projects under the Clean Development Mechanisms, one of the main certifications of carbon offsets, are estimated to overstate emissions reductions [carbon_offsets7]. Independently, it is estimated that 37% of REDD+ projects (deforestation and land use projects) and 24% of ARR (Afforestation, Reforestation and Revegetation) projects overlap areas that are already protected [carbon_offsets8]. Carbon offsets have also been criticized for obstructing deep decarbonization of sectors such as transportation [carbon_offsets9]. However, offsets in California have been observed to reduce emissions [carbon_offsets10]."
+		]
+	},
+	{
+		"name":"Corporate and Municipal Clean Energy",
+		"content":[
+			"A Renewable Energy Certificate is similar in concept to a carbon offset, in that one REC represents a megawatt-hour of renewable energy generation. Typically, when corporations such as Google or Apple announce that they run on \"100% renewable energy\", it means that they purchased enough RECs to cover their full usage portfolio [recs1].",
+			"RECs are useful to renewable energy generators in that they represent an additional revenue stream. However, the price of RECs has fallen to 97 &cent/MWh in the West to $64/MWh in the Northeast, in most the country too low a price to meaningfully incentivize new renewable energy generation [recs2]."
+		]
+	}
+]

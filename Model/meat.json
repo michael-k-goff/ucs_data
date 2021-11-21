@@ -1,0 +1,65 @@
+[
+	{
+		"content":[
+			"In this section we consider several aspects of meat consumption. See also our analysis of <a href=\"/solution/oceans/seafood\">seafood</a>."
+		]
+	},
+	{
+		"name":"Consumption Trends",
+		"content":[
+			"Meat consumption, as a share of total diet, has been increasing worldwide and varies considerably by country and region.",
+			"-meat_share.jpg-60",
+			"!Source: FAOSTAT [faostat].",
+			"Historically, increased wealth has been associated with a \"nutrition transition\", or a move to diets heavier in meat and dairy [nutrition_transition]. The evidence is that humans have an innate preference for energy-dense foods, particularly those heavy in fats and sugar [fat_preference].",
+			"-nutrient_density.jpg-60",
+			"!Figures are derived from the Food Balances data from FAOSTAT [faostat]."
+		]
+	},
+	{
+		"name":"Environmental and Welfare Impacts",
+		"content":[
+			"Animal products, especially beef, tend to have much greater land use, greenhouse gas, and water <a href=\"/topic/foodwater/ag_env\">impacts</a> than plant-based products.",
+			"The feed conversion efficiency of an animal (or substitute) is the ratio of input feed to edible output product, measured by mass. Feed conversion efficiency is highly correlated with lifecycle land use and greenhouse gases [alexander_fcr].",
+			"-fcr.jpg-60",
+			"!Data sources: Alexander et al. (2016) [alexander_fcr] for poultry, pork, beef, lamb and mutton, eggs, and milk; Alexander et al. (2017) [alexander_fcr2] for mealworm, crickets, tilapia, Chinese carp, cultured meat, and imitation meat; Froehlich et al. [aq_land_use] for crustaceans. Values vary depending on the choice of feed, method of raising animals, and other factors.",
+			"Following is an estimate of the number of animals that are slaughtered, or that are required to produce over their lifetimes, to provide 5% of a human's lifetime nutritional needs.",
+			"-animal_count.jpg-60",
+			"!Sources: Compassion in World Farming [dairy_cow_life], FAO ([nutritive], [fao_egg], [faostat]).",
+			"In the United States, the trend has been toward more efficient beef production, though not at a rate that is sufficient to fundamentally change beef's high impacts relative to other foods.",
+			"-beef_improvement.jpg-60",
+			"!Source: Capper [grassfed].",
+			"On metrics such as yield per animal [faostat], meat production tends to perform better in wealthier countries than in poorer countries."
+		]
+	},
+	{
+		"name":"Animal Feed",
+		"content":[
+			"Livestock feed is derived as follows",
+			"-feed_sources.jpg",
+			"!Source: Xu et al. [ag_ghg_2021].",
+			"About 5% of feed by mass, 6% by calories, and 8% by protein is converted into meat that is sold [ag_ghg_2021].",
+			"Following is a comparison of estimated impacts of grass-fed beef, relative to feedlot beef.",
+			"-grass_fed.jpg-60",
+			"!Sources: Clapper [grassfed], Lupo et al. [grassfed2], Tichenor et al. [grassfed3].",
+			"Grass-fed cattle may play a role in sequestering carbon in the soil, though the magnitude of this effect is of considerable controversy. Even with the sequestration effect, the lifecycle emissions of grass-fed beef is likely to be only marginally lower than those of feedlot beef [grassfed2].",
+			"As an additive to animal feed, seaweed has the potential to reduce enteric fermentation by 50-95% [seaweed1][seaweed2].",
+			"Insects [mealworm] and algae [algae_feed2] are of interest as a partial replacement for fishmeal in feed for cattle, poultry, and aquaculture."
+		]
+	},
+	{
+		"name":"Potential for Dietary Shift",
+		"content":[
+			"Price is not necessarily a barrier in shifting to established meat alternatives.",
+			"-protein_price.jpg-60",
+			"!Sources Bashi et al. [mckinsey_altmeat], Diet & Fitness Today [salmon_protein], FAO [nutritive], IndexMundi [indexmundi].",
+			"It is unclear if emerging meat alternatives, such as cultured meat, will be better able to gain consumer acceptance than established alternatives. Such acceptance depends on politics and culture, in addition to cost, taste, and nutrition [rich_protein]. Furthermore, in wealthier countries, protein and fat intake already exceed healthy levels [rich_protein]."
+		]
+	},
+	{
+		"name": "For Further Reading",
+		"content": [
+			"<I>National Geographic</I> goes into greater detail on the <a href='http://www.nationalgeographic.com/foodfeatures/aquaculture/'>outlook for aquaculture</a>.",
+			"<a href='http://modernfarmer.com/2015/12/is-eating-lettuce-really-worse-for-the-environment-than-eating-bacon/'><I>Modern Farmer</I></a> explains how animal products generally have greater environmental impacts than plant products and circumstances under which the reverse can be true."
+		]
+	}
+]

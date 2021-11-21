@@ -1,0 +1,30 @@
+[
+	{
+		"content":[
+			"The ability to make good forecasts, aided by the use of satellites, is potentially critical for human well-being."
+		]
+	},
+	{
+		"name":"Asteroid Impact",
+		"content":[
+			"A large asteroid impact, though unlike, could be a catastrophic event. As of September 2021, the last asteroid impact to do significant damage was the 2013 Chelybinsk impact, which caused 1600 injuries [talbert]. The much larger Tunguska impact of 1908 would have had devastating effect if it has hit in a populated area [tunguska]. NASA estimates the risk of asteroid impacts as follows.",
+			"-asteroid_impact.jpg",
+			"!Source: NASA [asteroid_table].",
+			"Efforts are ongoing to detect potentially threatening near Earth asteroids by ground- or space-based telescopes. So far, most of only the most threatening class of asteroids have been found.",
+			"-asteroid_finds.jpg",
+			"!NASA's search for civilization-threatening asteroids is proceeding, but fewer potentially dangerous classes, such as the Tunguska impactor (about 50 meters) or the Chelybinsk impactor (about 20 meters) are known. Sources: Wall [asteroid_find1][asteroid_find2] and NASA [asteroid_find3]. It is not feasible to find 100% of even large potential impactors, and thus the threat of an unexpected impact cannot be eliminated entirely [nrc_asteroid].",
+			"If an asteroid with high risk of impact with Earth is found, it can be deflected or destroyed with nuclear devices, kinetic energy such as from striking it with a spacecraft, or momentum imparted by solar sails [asteroid_deflection]. It may require 5-10 years to conduct a successful deflection mission [nasa_exercise]. No such mission has yet been demonstrated.",
+			"NASA's budget for planetary defense (asteroid detection and impact mitigation) was about $150 million each for Fiscal Years 2018 and 2019 [asteroid_budget]."
+		]
+	},
+	{
+		"name":"Solar Storms",
+		"content":[
+			"The most severe solar storm known in history was the Carrington Event of 1859, which disrupted telegraphs and causes auroras to be visible throughout most of the world. If a similar event happened today, damages could be in the trillions of dollars [solar_storm_cost]. The likelihood of such storms is uncertain but estimated as follows.",
+			"-geomagnetic_storms.jpg",
+			"!The severity of geomagnetic storms is often measured in Dst (disturbance – storm time), a measure of the change of magnetic field. The figures are typically in nanoteslas (nT). In a quiet period, the disturbance is typically between -20 nT and +20 nT. Sources: [reuters_geostorm] and [oecd_geostorm]. Separately, the risk of an event at least as severe as the Carrington Event has been estimated at 12% over a decade [carr_risk], or 0.46-1.88% over a decade [carr_risk2].",
+			"The European Space Agency and the National Aeronautics and Space Administration (NASA) operate the Solar and Heliospheric Observatory (SOHO) and other space- and ground-based space weather monitors that will give us a few hours, or a day or two, of advance warning in the event of a geomagnetic storm [esa_solar]. Advance warning gives power grid operators time to shut off and harden vulnerable components [geostorm_mit].",
+			"It has been proposed that the U. S. Federal Government establish a strategic reserve of transformers and mobile substations to mitigate against a severe geomagnetic storm or an electromagnetic pulse (EMP) attack, but this has not been found to be cost-effective [energy_str]."
+		]
+	}
+]

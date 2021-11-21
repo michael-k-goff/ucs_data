@@ -1,0 +1,85 @@
+[
+	{
+		"content": [
+			"In this section, we discuss various methods by which solar power can be harnessed.",
+			"We recommend <a href=\"/solution/energy/rd\">research and development</a> programs into concentrated solar, advanced solar cells, and luminescent solar concentrators, but not space-based solar power. These solutions are detailed below."
+		]
+	},
+	{
+		"content": [
+			"While there are outliers, utility-scale solar photovoltaics typically produce power at a competitive 4-6 &cent;/kWh. Solar PV technologies that are still under development, such as organic PV and perovskites, may achieve this range as well.",
+			"-Cost of Solar Power.jpg-65",
+			"!Estimates of mainstream PV technology from the Electric Power Research Institute [epri_lcoe], International Renewable Energy Agency [irena], Kost et al. [fraunhofer], Lazard [lazard], Logan et al. [nrel_lcoe], OpenEI[openei], EIA [eia_lcoe]. Projected costs from perovskite and organic PVs are given by Cai et al. [perovskite] and Guo and Min [organic_pv] respectively.",
+			"Following are estimated costs of concentrated solar power, distributed solar, and several emerging and speculative non-PV technologies.",
+			"-Cost of Solar Power 2.jpg-65",
+			"!For concentrated solar power, see the Electric Power Research Institute [epri_lcoe], International Renewable Energy Agency [irena], Lazard [lazard], Logan et al. [nrel_lcoe], OpenEI [openei], EIA [eia_lcoe], World Energy Council[wec_survey]. For distributed PV, see EPRI [epri_lcoe], Guo et al. [community_solar], Kost et al. [fraunhofer], and Lazard [lazard]. For concentrated PV, see Phillips et al. [cpv_cost]. For solar updraft towers, see Schlaich Bergermann Solar GmbH [solar_updraft1] and Zhu et al. [solar_updraft2]. For space-based solar, see Mankins [sbsp2]."
+		],
+		"name": "Costs"
+	},
+	{
+		"content": [
+			"Distributed (e.g. rooftop) solar has the advantage of not requiring dedicated land, but the costs of installation logistics and grid management are higher. In the United States, rooftop solar could in theory provide 1432 terawatt-hours [rooftop_potential], of which 297 TWh would be economical [renewable_potential]. These figures are 34% and 7% of U.S. electricity production, respectively [us_elec2018]. About a third of US solar comes from distributed sources [eia_monthly].",
+			"As the price of solar cells decreases, soft (non-hardware) costs of the system become more important.",
+			"-solar_bos.jpg-60",
+			"!Hardware and soft (non-hardware) costs of solar PVs as of 2018, given by Fu, Feldman, Margolis [benchmark].",
+			"Distributed energy sources complete in the retail electricity market, not the wholesale market, and thus the threshhold for grid parity is higher. In 2015, Deutsche Bank found that rooftop solar has achieved grid parity in half the countries surveyed and 14 U.S. states [deutsche_solar].",
+			"Regulatory reforms could cut US solar soft costs. A residential solar installation in the United States is over twice as expensive as in Australia, due primarily to the lengthier and costlier installation process mandated by the U.S. National Electrical Code, as well as higher U.S. permitting costs [solar_reg].",
+			"<b>Solar Roads</b>",
+			"Several pilot projects have been attempted placing solar panels on roadways. Test results have been disappointing and the concept is not likely to be feasible [solar_road]."
+		],
+		"name": "Distributed Solar"
+	},
+	{
+		"content": [
+			"Solar power shows the following median environmental impacts.",
+			"-solar_external.jpg-60",
+			"!Environmental impacts of solar power, assessed on a per-kWh basis. While solar power does not emit greenhouse gases directly, there are indirect emissions arising from the manufacture, distribution, and maintenance of equipment, as estimated by Schlömer et al. [techco2] and valued at $50/ton CO<sub>2</sub>-equivalent [social_cost_carbon]. Non-greenhouse gas pollution impacts are estimated by Samadi [samadi], and land use is estimated by Ong et al. [nrel_solar_land]. Among solar thermal systems, tower systems are the most land-efficient [nrel_solar_land].",
+			"To put the land use issue into perspective, supplying all the electricity demand of the United States with solar power would require about 33,000 square kilometers, or 0.4% of all land in the U.S. [mit_solar].  This is close to what is currently disturbed by coal mining, less than the area taken by major roads, and about half of what is devoted to growing corn ethanol [mit_solar].",
+			"The manufacture of solar cells requires toxic heavy metals and imposes local habitat disruption [solar_external]. There are additional costs, unquantified above, in the disposal of panels at the end of their life [solar_eol].",
+			"Due to the intermittent nature of solar power, grid integration costs have been estimated at 1.5 &cent;/kWh [system_effects]."
+		],
+		"name": "Environmental and Externalized Impacts"
+	},
+	{
+		"content": [
+			"A solar thermal plant, including concentrating solar power (CSP), concentrates sunlight for the production of heat, which can then be used either directly for industrial applications or to generate electricity. As of 2018, there is about 1.5% as much solar thermal electrical generation capacity as solar PV [iea_solar]. Modern CSP plants include thermal storage, often in the form of molten salt, to reduce intermittency [ste_roadmap].",
+			"A solar thermal plant can produce heat for <a href=\"/solution/energy/industrial_heat\">industrial processes</a>. Modern solar thermal could, in priciple, supply up to about half of industrial heat demand, though at significantly higher cost than fossil fuel options. Higher temperature CSP plants for direct heat, which would be suitable for metallic minerals and thermochemical hydrogen production, are under development [solpart].",
+			"Interest in solar thermal has diminished due to the decrease in PV prices. Even with subsidies, CSP is not competitive in the United States [mit_solar]. By its nature, CSP installations need to be large to be economical.  This makes it difficult for private investors to build experimental projects, and a significant public R&amp;D gap is in building pilot projects to test new designs [mit_solar].",
+			"@Concentrated Solar Research and Development@We estimated the expected benefit of a concentrated solar research program to be $66 billion and the cost to be $8 billion. The ultimate cost of concentrated solar is estimated to reach 5 &cent/kWh, and we estimate that it will have the same life cycle greenhouse gas emissions and other externalities to conventional solar. Based on research done by the Department of Energy [csp_cost]. we estimate that a CSP research program will take 10 years to bear fruit, and the cost is the same $830 million per year that a <a href=\"/solution/energy/mhk\">wave energy</a> research program would require. See our <a href=\"/solution/energy/rd\">research and development</a> analysis for more information."
+		],
+		"name": "Solar Thermal"
+	},
+	{
+		"content": [
+			"The SunShot Vision study recognizes that their aggressive cost reduction goals may require commercialization of new technologies [sunshot_vision]. As the cells themselves are now a small portion of the cost of a solar installation, the most important advances in solar cell technology are improved efficiency to reduce system costs.",
+			"The following are state of the art solar cell efficiencies, current efficiencies for utility solar, current efficiencies for distributed solar, and conversion efficiency of plants to bioenergy.",
+			"-cell_efficiency.jpg-60",
+			"!State of the art solar cell efficiency reported by the National Renewable Energy Laboratory [nrel_solar_eff], current utility efficiency from Bolinger and Seel [utility_efficiency], distributed efficiency from Fu et al. [benchmark], algae conversion efficiency from Larkum [larkum], and C<sub>3</sub> and C<sub>4</sub> crops from Sarkar and Shimizu [sarkar]. It should be noted that biomass, the energy product of plants, is a lower quality fuel than electricity.",
+			"The dominant commercial solar technology is crystalline silicon, while CdTe (cadmium telluride), CIGS (copper indium gallium selenide), and amorphous silicon are the main thin film technologies. Multijunction cells are used in spacecraft and concentrator photovoltaics.",
+			"Any solar technology that relies on rare materials may be unable to scale to provide a large fraction of the world's electricity. Therefore, R&amp;D should emphasize technologies that use Earth-abundant materials, such as CZTS (copper zinc tin sulfide), rather than tellerium, gallium, indium, or selenium [mit_solar]. Among solar technologies under development, perovskites have advanced rapidly and may be the most promising [perovskite2], with a potential LCOE of 3.5-4.9 &cent;/kWh [perovskite_lcoe].",
+			"@Advanced Solar Cell Research and Development@We estimate that a research program into advanced solar cells has an expected benefit of about $125 billion and a cost of about $8 billion. We estimate the eventual cost to be 4 &cent;/kWh, with the same greenhouse gas and pollution costs as other forms of solar, and that it will take 10 years to commercialize new technology, with spending at the same $830 million per year as suggested by a <a href=\"/solution/energy/mhk\">wave energy</a> program. See our analysis of <a href=\"/solution/energy/rd\">research and development</a> for more information."
+		],
+		"name": "Advanced Solar Cells"
+	},
+	{
+		"content": [
+			"There are several advanced solar concepts under development. See also our analysis of <a href=\"/solution/space/space_resources\">space-based solar pwer</a> in the context of resources from space.",
+			"<b>Concentrating Photovoltaics</b>",
+			"Concentrating PV (CPV) is a method of solar energy capture in which an optical device concentrates sunlight at a rate of anywhere from 2-1200 suns onto a high-efficiency photovoltaic cell. Multijunction cells, which harvest a larger portion of the solar spectrum, may achieve efficiencies as high as 50% [irena_solar], saving land relative to conventional PV [kurtz]. The long-term economics may be more promising than conventional PV [cpv_cost], but deployment has fallen since 2014 [fraunhofer2018]. Challenges include reliability of the optics and the tracking system and longevity of cells under high radiation [kurtz].",
+			"@Concentrated PV Research and Development@We estimate the expected benefit of a concentrated PV research program to be about $54 billion and the cost to be about $4 billion. As the technology has already been commercialized on a limited scale, we estimate that only five years of research would be required, and the cost is estimated to be the same $830 million annually as a <a href=\"/solution/energy/mhk\">wave energy</a> research program. We estimate the final price of such a research program to be 7 &cent/kWh, with the same greenhouse gas and other external costs as other forms of solar. See our <a href=\"/solution/energy/rd\">research and development</a> analysis for more details.",
+			"For a large-scale CPV industry, availability of germanium for high-efficiency multijunction cells may also be an issue [cpv_cost].",
+			"<b>Luminescent Solar Concentrators</b>",
+			"A luminescent solar concentrator (LSC) is a flat device that collects solar energy and redirects it to a solar cell. Unlike traditional solar collectors, an LSC can function with diffuse sunlight. This allows harvesting of energy on cloudy days, dispensing of tracking systems, and reduction of intermittency [lsc2]. LSC could be especially useful in building integration [lsc_bld]. The technology is not yet commercially available.",
+			"@Building Integrated Solar Research and Development@We estimate the expected benefit of a building-integrated solar (LSC) research program to be about $44 billion and the cost to be $21 billion. The potential LCOE of LSC has been estimated at 3.72 &cent;/kWh [lsc_lcoe1], a remarkably low value that would outcompete most other electricity sources. We estimate that a BIS research program would take 25 years, as the technology is still not well-developed, and the annual cost would be $830 million, the same as a <a href=\"/solution/energy/mhk\">wave</a> research program. See our <a href=\"/solution/energy/rd\">research and development</a> analysis for more information.",
+			"<b>Solar Updraft Tower</b>",
+			"A solar updraft tower is a proposed design that uses concentrated sunlight to heat the air in a base structure, causing the air to rise through a chimney and turn a turbine. After the failed Manzanares experiment in the 1980s, there have been no physical prototypes [solar_updraft3]."
+		],
+		"name": "Emerging Solar Technology"
+	},
+	{
+		"content": [
+			"Detailed <I>IEEE Spectrum</I> article on <a href='http://spectrum.ieee.org/green-tech/solar/how-japan-plans-to-build-an-orbital-solar-farm'>JAXA's space solar program</a>."
+		],
+		"name": "For Further Reading"
+	}
+]

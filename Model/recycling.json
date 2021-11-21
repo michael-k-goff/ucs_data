@@ -1,0 +1,60 @@
+[
+	{
+		"content": [
+			"In our analysis of <a href='/solution/major_commodities'>major industrial commodities</a>, we demonstrated that substantial energy savings are possible through material recycling. In this section we quantify the potential benefits of recycling and examine some policies that will realize those benefits."
+		]
+	},
+	{
+		"content": [
+			"Recycling rates of municipal solid waste (MSW) grew rapidly in the late 1980s and 1990s, and since 2000 are showing stagnation.",
+			"-recycling_history.jpg",
+			"!Recycling rates in the United States from 1960 to 2015. Source: EPA [msw_stats15].",
+			"Rates of combustion of solid waste are likewise stagnant.",
+			"-combustion_history.jpg",
+			"!Combustion rates in the United States from 1960 to 2015. Source: EPA [msw_stats15].",
+			"There is room to increase recycling rates for all major commodities in MSW.",
+			"-recycling_rates.jpg",
+			"!Recycling in the United States by commodity. Source: EPA [msw_stats15]."
+		],
+		"name": "Recycling Overview"
+	},
+	{
+		"content": [
+			"Recycling of major commodities saves energy and greenhouse gas emissions.",
+			"-recycling_energy.jpg",
+			"!Energy required for recycling and for virgin production of material. Source: EPA [warm15].",
+			"-recycling_ghg.jpg",
+			"!Greenhouse gas emissions from recycling and from virgin production of material. Source: EPA [warm15].",
+			"The following shows energy and greenhouse gas savings from current recycling practices (relative to landfilling all materials) and how much additional energy and emissions could be saved by recycling or composting material that is currently landfilled or combusted.",
+			"-recycling_savings.jpg",
+			"!Energy and emissions savings from current and potential recycling. Source: EPA ([msw_stats15] and [warm15]). Figures do not include savings from recycling construction and demolition waste, nor do they include some materials for which we lack data, including leather, textiles, and plastics other than PET and HDPE.",
+			"Applying the WARM figures to world waste data [wb_waste], we estimate that 100% recycling could save about 10 exajoules of primary energy and 1800 million tons CO<sub>2</sub>-equivalent of greenhouse gases per year."
+		],
+		"name": "Energy and Greenhouse Gas Savings"
+	},
+	{
+		"content": [
+			"Municipalities have a significant opportunity to create local jobs by boosting recycling. Waste management options show the following job creation potential.",
+			"-recycling_jobs.jpg",
+			"!Job creation in waste management. Source: Tellus Institute with Sound Resource Management [morejobs].",
+			"Municipalities have an incentive to finance effective collection systems and advanced material recovery facilities for economic development. A South Carolina study [sc_recycle] finds $288 of benefits (today's currency) per ton of recovered material."
+		],
+		"name": "Recycling and Job Creation"
+	},
+	{
+		"content": [
+			"A government-assessed fee on landfilling, which takes into account economic and environmental losses, would boost recycling rates. An increase of $10 per ton in the tipping fee at a landfill increases the recycling rate by about 7% [calrecycle]. In Denmark, a landfill tax was introduced in 1987 and increased to 50 Euros per ton in 2006 [peck]. Over the same period, the recycling rate increased from 21% to 60%.",
+			"A study in Western Australia, focusing on externalities of landfills, found a socially optimum landfill tax of about $32 per ton [wa].  This figure does not account for the externalities of manufacturing from virgin material that would be reduced from recycling.",
+			"Based on the above figures, a carbon price of $50/ton would raise the cost of MSW disposal, relative to recycling, by $83/ton for the current U.S. waste stream."
+		],
+		"name": "Market Solutions"
+	},
+	{
+		"content": [
+			"Since waste management is typically either publicly run or highly regulated, the industry might not respond efficiently to market signals. Cities can invest directly in single stream or mixed waste material recovery facilities (MRF), which collect and sort mixed waste, diverting economically useful materials for reprocessing. The combined capital, infrastructure, and operating costs for an advanced MRF has been estimated at $72 to $189 (2019 dollars) per ton of material processed [mrf2][mrf3][mrf4][kessler][mrf1][serdc]. With prices of recycled commodities <a href='https://www.theguardian.com/environment/2015/jun/27/recycling-unprofitable-oil-china-dollar'>highly variable</a>, municipalities should evaluate whether investment in an advanced MRF makes sense, taking externalities into account.",
+			"The city of San Jose, California has achieved a 74% recycling rate through a <a href='https://www.epa.gov/transforming-waste-tool/less-waste-case-study-san-jose-ca'>franchise system</a>, under which the city offers exclusive waste handling contracts with mandates or incentives for high recycling rates.",
+			"Deposit-return systems are effective tools for recovering high-value beverage containers.  The system works by adding a charge on the price of beverage containers, which is refunded when the container is returned.  In the United States, recovery of bottles and cans was 82% in 2002 in the state of Oregon, which has a deposit-return program.  The figure is only 30% in states without such a program [peck]."
+		],
+		"name": "Regulatory Solutions"
+	}
+]

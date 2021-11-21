@@ -1,0 +1,17 @@
+[
+	{
+		"content": [
+			"Here we consider the ethics and practical considerations of Solar System exploration in light of the possibility of life."
+		]
+	},
+	{
+		"name":"Guidelines",
+		"content":[
+			"As humanity gains greater ability to explore the Solar System, it is necessarily to consider the ethical principles that apply to doing so, as well as the risks of introducing life forms to other planets (forward contamination), or life from other planets to Earth (backward contamination). Currently, all spacefaring nations are governed by the following guidelines of the Committee on Space Research (COSPAR), implemented by the Outer Space Treaty.",
+			"-cospar.jpg-60",
+			"!Source: COSPAR [cospar].",
+			"The Outer Space Treaty takes an anthropocentric view of planetary protection, seeking to avoid forward contamination to preserve the possibility of scientific exploration, and to prevent backward contamination to protect humans from possibly dangerous outbreaks [planetary_protection]. The Moon Treaty, which few nations have ratified, has a more ecocentric ethos, seeking to preserve planets for their own sake [planetary_protection]. It is also debated whether non-biotic extraterrestrial sites should be perserved, and to what extent [pp2].",
+			"Experiments have indeed suggested that microbial life could indeed be transmitted between planets inadvertently via spacecraft [pp3][pp4]. It may also be possible for life to travel between planets naturally via panspermia, which is the transportation of microbial life by rocks that are knocked to escape velocity by asteroids or some other means [panspermia2][panspermia3][panspermia1]."
+		]
+	}
+]

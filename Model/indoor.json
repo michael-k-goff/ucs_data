@@ -1,0 +1,40 @@
+[
+	{
+		"content": [
+			"Greenhouses are an increasingly widely used tool for producing vegetables [greenhouse_market]. Greenhouses are estimated to have the following environmental impacts relative to outdoor farming, often spending more energy to save land and water.",
+			"-greenhouse.jpg-60",
+			"!The above figures are the range of estimates sources as follows: land use [meat_land_use][greenhouse_yield], energy [bartzas][meat_land_use][greenhouse_energy][grape_energy], greenhouse gases [bartzas][meat_land_use], eutrophication [bartzas][meat_land_use], acidification [bartzas][meat_land_use].",
+			"Following is an illustration of the energy required to produce all world tomatoes from greenhouses.",
+			"-greenhouse_scenario.jpg-60",
+			"!Energy requirements are the 25th and 75th percentiles figures for greenhouse tomato production as reported by Clark and Tilman [meat_land_use]. Overall tomato and food production is determined from FAOSTAT [faostat]. Due to the wide variation in life cycle analysis results, precise figures are not available.",
+			"Greenhouses can be used to grains, such as barley [bartzas], but the environmental case for doing so may be weaker than it is for vegetables.",
+			"The Netherlands is <a href=\"https://www.nationalgeographic.com/magazine/2017/09/holland-agriculture-sustainable-farming/\">the world leader</a> in effective use of greenhouses. They have drastically cut water and pesticide usage, and the Netherlands, a country that is not naturally well-suited for agriculture, is the number two food exporter by monetary value.",
+			"-netherlands_tomato.jpg-30",
+			"!A tomato greenhouse in The Netherlands. (Source: <a href=\"https://en.wikipedia.org/wiki/Greenhouse#/media/File:TomateJungpflanzenAnzuchtNiederlande.jpg\">Wikipedia</a>. <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>)"
+		],
+		"name": "Greenhouses"
+	},
+	{
+		"content": [
+			"Hydroponics--the practice of growing plants with a nutrient solution instead of soil--may also save land and water at the cost of greater energy consumption. The following impacts, relative to open field farming, have been estimated.",
+			"-hydroponics.jpg-60",
+			"!Numbers are highly uncertain due to limited data and wide variance in both hydroponic and open field practices. Sources: [ponics_comp][hydroponic_energy][hydro_yields][khandelwal][hydroponic_lca][romeo].",
+			"Over 80% of the energy consumption identified by Barbosa et al. [hydroponic_energy] is for heating and cooling, an area for which a clean source of <a href=\"/solution/energy/industrial_heat\">low-temperature industrial heat</a> would be valuable. Passive ventilation [hydroponic_energy] and efficient LED lighting [led] would also save energy.",
+			"Related growing techniques are aquaponics, which is a symbiotic combination of an aquaculture and hydroponic system, and aeroponics, which does not use a growing medium. Their water, fertilizer, and land use impacts have been estimated as follows.",
+			"-ponics_comp.jpg-60",
+			"!Source: AlShrouf [ponics_comp].",
+			"An aquaponics system can save fertilizer consumption by using excretion from the fish [aquaponics_fertilizer].",
+			"Labor intensity is a barrier to expansion of hydroponics [labor_cost] and aquaponics [aquaponics_econ], which can be addressed through greater automation."
+		],
+		"name": "Hydroponics"
+	},
+	{
+		"content": [
+			"Vertical farming is the concept of growing food in layers. This may refer to the food-producing skyscrapers described by Dickson Despommier [ddvf], or more commonly, any indoor growing that relies mostly on artificial lighting [crowley]. Even more so than greenhouses, vertical farm conserves land and water at the cost of additional energy consumption.",
+			"-vertical_farm.jpg-60",
+			"!Source: Hallikainen [hallikainen].",
+			"Most of the energy cost of a vertical farm is for artificial lighting, and vertical farms also have higher labor costs per unit product than other forms of farming [vf_econ]. Due to high energy and other costs, vertical farms for the foreseeable future will probably be confined to producing leafy greens, herbs, and berries, which together constitute 6% of global caloric intake [vf_market]."
+		],
+		"name": "Vertical Farming"
+	}
+]

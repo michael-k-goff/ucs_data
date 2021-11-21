@@ -1,0 +1,34 @@
+[
+	{
+		"content": [
+			"Buildings use about 20% of energy worldwide and 40% in the United States. Each major category of building energy usage can be reduced through better technology. Overall building energy usage, particularly <a href=\"/solution/energy/heating\">heating and cooling</a>, can be reduced through <a href=\"/solution/cities/density\">density</a>."
+		]
+	},
+	{
+			"content": [
+			"Worldwide, buildings constitute about 20% of world energy consumption in the following way.",
+			"-World Primary Energy Consumption in Buildings.jpg-55",
+			"!Main uses of energy in buildings worldwide. Source: IEA [iea_buildings].",
+			"In the United States as of 2015, residential buildings used 21% of total energy, and commercial buildings used 19% [eia_total]. Commercial buildings include offices, retail, school, hospitals, hotels, churches, warehouses, and public buildings, but not factories. The majority of residential and commercial energy goes to various forms of heating.",
+			"-us_building_primary.jpg-55",
+			"!Energy usage in American residential and commercial buildings. Sources: Residential Energy Consumption Survey [recs] and Commercial Building Energy Consumption Survey [cbecs]."
+		],
+		"name": "How Building Energy is Used"
+	},
+	{
+		"content": [
+			"American households use primary energy as follows and show the following potential for savings.",
+			"-housing_energy_savings.jpg-80",
+			"!Sources: Residential Energy Consumption Survey [recs] on current energy by category. Potential savings is estimated as follows: LED lighting from Penning et al. [led_forecast], HVAC and building envelope retrofits from the IEA [iea_envelope] and the Rockefeller Foundation and DB Climate Change Advisors [rockefeller], emerging HVAC and cooling technologies from Goetzler et al. [bto_hvac], and ongoing applicance efficiency from Boustani et al. [us_appliance_trend]. For LED lighting, since the available data is not specific to residential lighting, overall lighting energy consumtion figures for the residential and commercial sectors, reported by RECS [recs] and CBECS [cbecs] respectively, are used to apportion the LED savings potential to the residential sector."
+		],
+		"name": "Household Energy Savings"
+	},
+	{
+		"content": [
+			"Commercial buildings in the United States use 17 EJ of primary energy as of 2012 [cbecs], broken down by the following categories. We estimate the following potential for energy savings.",
+			"-Energy Consumption and Savings in Commercial Buildings.jpg-80",
+			"!Overall energy consumption in commercial buildings in the United States and potential for savings. Overall energy is reported by the Commercial Building Energy Consumption Survey [cbecs]. Potential savings is estimated as follows: LED lighting from Penning et al. [led_forecast], HVAC and building envelope retrofits from the IEA [iea_envelope] and the Rockefeller Foundation and DB Climate Change Advisors [rockefeller], emerging HVAC and cooling technologies from Goetzler et al. [bto_hvac], and ongoing applicance efficiency from Boustani et al. [us_appliance_trend]. For LED lighting, since the available data is not specific to commercial lighting, overall lighting energy consumtion figures for the residential and commercial sectors, reported by RECS [recs] and CBECS [cbecs] respectively, are used to apportion the LED savings potential to the commercial sector."
+			],
+		"name": "Commercial Energy Savings"
+	}
+]

@@ -1,0 +1,45 @@
+[
+	{
+		"content": [
+			"In 2016, the world chemical and petrochemical industries consumed 66 exajoules of primary energy [iea_sankey]. There are thousands of industrial chemical products on the market, though four classes--Olefins (ethylene and propylene, key precursors to plastics), <a href=\"/solution/ammonia\">ammonia</a>, BTX aromatics (benzene, toluene, xylene), and <a href=\"/solution/methanol\">methanol</a>--account for about half of the energy usage [chemical_roadmap]."
+		]
+	},
+	{
+		"name":"Environmental Performance",
+		"content":[
+			"Following are estimates of energy that might saved through new catalytic processes, bringing the world chemical industry to best practices, and maximal plastic recycling.",
+			"-chemical_energy_savings.jpg-60",
+			"!Energy savings potential from new catalytic processes estimated by the IEA et al. [chemical_roadmap]. Savings from best practices are estimated from Saygin et al. [saygin], with the IEA Sankey diagram [iea_sankey] used to estimate primary energy savings. Savings potential from plastics recycling is estimated by taking savings per ton, given by Hopewell et al. [plastic_recycling], and applying to total plastics usage worldwide, given by PlasticsEurope [plasticseurope], minus the portion already recycling, estimated by the IEA [futureofpetrochemicals].",
+			"The use of engineered organisms in manufacturing may reduce energy and financial costs and make biomaterial usage more viable [nap_ind_bio]. Recycling also brings significant savings in water consumption and greenhouse gas emissions [plastic_recycling].",
+			"As with <a href=\"/solution/ammonia\">ammonia</a> and <a href=\"/solution/methanol\">methanol</a>, the fossil fuel feedstock for high value chemicals, such as olefins and BTX, can be be replaced by biomass or electrolyzed hydrogen. However, electrolysis can reduce greenhouse gas emissions only if the electricity is generated from a low carbon source [futureofpetrochemicals]. The electrolysis route for the chemical industry is technically possible but economically infeasible at present.",
+			"-chemical_electrolysis.jpg",
+			"!In 2030, it would take almost all world electricity to replace the leading 20 chemicals--representing 75% of world greenhouse gas emissions--with electrolyzed alternatives with established technology, and more than half with technologies that are under development but not yet commercalized. Source: Kätelhön et al. [ccu_chemical]."
+		]
+	},
+	{
+		"name":"Chemical Pollution and Other Hazardous Substances",
+		"content":[
+			"Dangerous elements and chemicals, transmitted through the air, water, food, consumer products, industrial production, or building materials are a major cause of illness and environmental damage. Due the wide range of hazardous substances, the full cost is highly uncertain. Following, we estimate damages from major classes of chemical pollution.",
+			"-hazardous_exposure.jpg",
+			"!Estimates of the numbers of deaths for which exposure to hazard substances contribute. Sources: Flanagan et al. [arsenic], Gibbs et al. [foodmetals], Global Burden of Disease [disease_burden].",
+			"Some hazardous substances, such as mercury--especially methylmercury chemicals that accumulate in life and food--cause debilitating illness, even if it is difficult to directly attribute deaths.",
+			"-daly_exposure.jpg",
+			"!Estimates of the numbers of disability-adjusted life years lost due to hazardous substance exposure. The DALY metric measures the number of years of life lost, which partial years attributed to years living with illness or disability. Sources: Gibbs et al. [foodmetals], Global Burden of Disease [disease_burden].",
+			"Following are select estimates of monetized damages from the health impact of hazardous material exposure.",
+			"-chemical_econ_damage.jpg",
+			"!Estimates of the health impact, expressed as monetized damages from suffering and lost productivity. As only select materials are considered, only the United States and the European Union except in the case of lead are assessed, and ecosystem damages are not considered, these figures significantly underestimate the full cost of chemical exposure. Source: Grandjean and Bellanger [grandjean].",
+			"Among sources of ionizing radiation, radon is the greatest threat to human health.",
+			"-radiation_exposure.jpg",
+			"!Sources of ionizing radiation received by the average American over a year. Actual dosage can vary widely, with high concentration of radon a particular threat when the gas accumulates in a confined space. Medical exposure varies widely depending on medical needs. Sources: Schauer and Linton [ncrp], with explanatory notes from the World Nuclear Association [nrc_rad].",
+			"There are additional potentially hazardous material exposures, such as from unclassified neurotoxicants and endocrine disruptors, chemical pesticides, pharmaceutical waste, and emerging nanomaterials, for which the risk is not yet established [lancet_pollution]."
+		]
+	},
+	{
+		"name":"Plastic Pollution",
+		"content":[
+			"Plastics, a major portion of the chemicals industry, are of particular concern from a pollution standpoint. Poor waste management practices, rather than the absolute volume of plastic waste generated, is the main factor that determines how much oceanic pollution occurs.",
+			"-plastic_pollution.jpg-60",
+			"!Overall plastic consumption and mismanaged plastic waste by country. Source: Ritchie and Roser [owid_plastic], who draw upon Jambeck et al. [plastic_mis] and Li et al. [plastic_marine]."
+		]
+	}
+]

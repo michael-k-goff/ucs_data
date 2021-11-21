@@ -1,0 +1,31 @@
+[
+	{
+		"name":"Extent",
+		"content":[
+			"Noise pollution, defined by a level of sound that is harmful to humans and the ecology, is pervasive in modern cities.",
+			"-noise_level.jpg",
+			"!Sources: Iberdrola [iberdrola], McAlexander et al. [nyc_noise], National Geographic [natgeo_noise], CDC [cdc_noise], World Health Organization ([who_noise] and [who_noise2]).",
+			"The biggest contributors to urban noise pollution are road traffic and aircraft [wit_noise].",
+			"-annoyance_index.jpg",
+			"!The Noise Annoyance Index, compiled by the statistical agency of Norway, is a measure of how often people complain about noise from a given source. Source: [norway_noise].",
+			"Water transmits sound faster and farther than air, and marine noise is a major environmental problem, driven mainly by military functions.",
+			"-underwater_noise.jpg",
+			"!Source: Hildebrand [ocean_noise]. Energy figures are those estimated to be the total released from the given sources as acoustic energy. Underwater nuclear weapons testing is banned under the Comprehensive Test Ban Treaty; while the treaty is not in force, underwater testing has not occurred since it was signed in 1996. The figure assumes one device is detonated every 20 years, as geopolitical circumstances may evolve toward additional testing in the future."
+		]
+	},
+	{
+		"name":"Impact",
+		"content":[
+			"Noise pollution has severe, chronic impacts on human health, including disruption of the circadian rhythm and sleep patterns [noise_circadian], hearing difficulty, hypertension, high cholesterol [noise_impact], and heart conditions [noise_impact2]. The following loss of quality of life has been found in Europe.",
+			"-noise_daly.jpg",
+			"!This study assesses disability-adjusted life-years (DALYs) lost due to noise pollution from several factors. A full year is lost is a person dies prematurely, and a fractional year is lost for a health problem or disturbance, with the fraction determined by the severity of the disturbance. Source: [eu_noise_daly].",
+			"Noise pollution has been found to have a major negative effect on ecosystems, such as a decline of bird populations [noise_birds]. In marine environments, noise has been implicated in a widespread loss of animals [noise_marine1], including invertebrates [noise_marine2]."
+		]
+	},
+	{
+		"name":"Mitigation",
+		"content":[
+			"Several strategies are available for cities to reduce noise pollution. From cars and roads, typically the largest source, cities can use quieter pavements and noise barriers [noise_mitigation]."
+		]
+	}
+]

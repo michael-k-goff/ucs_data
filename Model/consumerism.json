@@ -1,0 +1,42 @@
+[
+	{
+		"content":[
+			"Consumerism is a value system that places non-economic importance, such as social status or a sense of personal fulfillment, on consumer items [consumerism1]. Like environmentalism, consumerism has developed from a post-industrial, post-materialistic intellectual milieu [consumerism2]. Although consumerism can be antithetical to the environmental ethic of conserving resources, environmental ideas have themselves been commodified [consumerism3]."
+		]
+	},
+	{
+		"name":"Consumerism and Economic Growth",
+		"content":[
+			"A common critique of the modern economy is that it requires an increasing level of consumption to meet increasing supply (see e.g. [magnuson]). Almost 70% of the US economy is directed toward consumer spending.",
+			"-us_gdp_breakdown.jpg",
+			"!About 70% of US GDP went to consumer goods and services in 2019. Source: [amadeo].",
+			"The role of supply in long-term economic growth is well studied but not well understood; researchers posit that growth is driven by factors such as investment, technology, institutions, and culture [szostak], as well as availability of energy [ayres_warr_2012]. The role of demand by contrast is not well studied. Consumption appears to be a result, but not a cause, of long-term economic growth [consumerism_ir]."
+		]
+	},
+	{
+		"name":"Green Consumption",
+		"content":[
+			"Green consumption refers to consumer choices that are motivated in part by environmental or social concerns, such as organic produce and Fair Trade coffee. In the 2000s, green consumption gained ground but is still generally a small part of their overall respective markets.",
+			"-green_consumerism.jpg",
+			"!Source: [green_consumerism].",
+			"Marketing techniques such as green labels are generally effective among a segment of the population [green_consumerism4][green_consumerism2][green_consumerism5][green_consumerism3], but they cannot substitute for other environmental measures [green_consumerism7][green_consumerism6]."
+		]
+	},
+	{
+		"name":"Advertising",
+		"content":[
+			"Advertising may play a role in fostering consumerism and its corresponding environmental impacts [galbraith]. However, evidence from advertising of cigarettes [cigarette_adv2][cigarette_adv1], alcohol [alcohol_adv2][alcohol_adv1], and of products in general [advertising2][advertising1] suggest that, while advertising is effective in promoting demand for particular brands, it does not generally promote demand for larger product categories."
+		]
+	},
+	{
+		"name":"Planned Obsolescence",
+		"content":[
+			"Planned obsolescence, a concept developed in Vance Packard's <i>The Waste Makers</i> [waste_makers], is the offering of products with uneconomically short lifespans. Many product lifetimes have indeed been getting shorter [wieser].",
+			"?Product|Time span|Fall in lifespan? LCD monitors|Unspecified|17%? TVs|Unspecified|17%? PCs and Laptops|2000-2010|10%? Mobile Phones|2000-2010|10%? Large household appliances, Netherlands|2000-2010|7%? Large household appliances, Germany|2004-2012|7.8%",
+			"Planned obsolescence can take several forms [maycroft].",
+			"?Form|Explanation?Technological Obsolescence|Regulatory of technological changes make older products unusable or undesirable.?Sylistic Obsolescence|Otherwise functional products are perceived to be out of fashion.?The superfluous within the necessary|Products have excess features that are mostly unused, or they require additional products be purchased to achieve full functionality.",
+			"Planned obsolescence happens most frequently when a monopoly or an oligopoly controls a market [po_bulow], but it can happen in competitive markets as well [po_grout]. Despite the name, companies seldom intentionally design products to fail or be replace prematurely, but rather short lifespans occur through market pressures [po_planners].",
+			"Planned obsolescence is an environmental concern because shorter product lifespans require more frequent replacements and increase associated environmental impacts [po_env1][po_env2]."
+		]
+	}
+]

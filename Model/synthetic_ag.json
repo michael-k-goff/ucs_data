@@ -1,0 +1,35 @@
+[
+	{
+		"content": [
+			"Cellular agriculture refers to the cultivation of single-celled organisms for food. In some form, cellular agriculture goes back centuries in the cultivation of yeast and algae. Expanded use of new techniques could radically transform food production.",
+			"Today, single-cell organisms are typically grown from agricultural residue, thus inheriting the environmental impacts of conventional farming. Even so, expanded use of such organisms could reduce impacts.",
+			"-scp_feed.jpg-60",
+			"!Comparison of soy-based salmon feed, which is commonly used today, with yeast- and bacteria-based alternatives. Source: Couture et al. [scp_feed].",
+			"If electrolytically produced inputs, such as hydrogen, methanol, and ammonia, are used, most land use can be saved, but at the cost of very high energy input.",
+			"-power_to_food.jpg-60",
+			"!The results of two power-to-food studies: a hydrogen-based, <i>Chlamydomonas reinhardtii</i> route compared to conventional wheat by Bogdahn [bogdahn], and a methanol-based, <i>Methylophilus methylotrophus</i> route compared to soy by Linder [linder]. Impacts of wheat and soy are given by Clark and Tilman [meat_land_use]. Bogdahn reports the <i>Chlamydomonas reinhardtii</i> route's estimated energy need. Linder reports 1 gram of methanol is needed to produce 0.52 grams of dry mass from <i>Methylophilus methylotrophus</i>; the energy input is based on the energy density and electricity-to-methanol conversion efficiency given by Dana et al. [dana]. Figures do not include energy embodied in equipment or other potentially needed inputs, such as ammonia and trace nutrients. Greenhouse gas estimates for the bacteria routes are those of the energy inputs, with carbon intensity reported by the IPCC [ipcc_ghg]. Land use figures for the bacteria routes are those of the energy inputs as given by van Zalk and Behrens [vanzalk], plus an additional 0.0018 m<sup>2</sup>/kg for the facilities themselves, as given by Linder but applied to both bacteria routes.",
+			"At 25 kWh per kg crop, replacing all cereal and soy crops [faostat] in the world would require about 83 petawatt-hours of electricity each year, or triple current world production [bp]. At <a href=\"/solution/energy/production\">5&cent;/kWh</a>, electricity costs alone are $1.25 per kilogram of food, well in excess of the 30-40&cent;/kg price recently observed for soybeans [soybean_price]."
+		],
+		"name": "Single-cell organisms"
+	},
+	{
+		"name":"Algaculture",
+		"content":[
+			"Algaculture is the cultivation of algae for food, fuel, or other purposes. Today algaculture is used primarily for high value applications, such as nutritional supplements and food additives [algae_use]. There is particular interest in algae as animal feed [algae_feed].",
+			"Algaculture typically has a much higher yield that conventional farming.",
+			"-aglaculture_yield.jpg",
+			"!Yield of algae cultivation, in terms of protein per hectare per year, compared to common staple crops. Algae yields are reported by Walsh et al. [algae_feed], with protein density of algae given by Lavens and Sorgeloos [algae_protein]. As Walsh et al. estimate yields under idealized conditions, we compare algae yields to highest yield values reported by Clark and Tilman [meat_land_use] for wheat, maize, soybeans, and rice.",
+			"The highest yielding algaculture systems require a carbon dioxide source in greater concentration than is available in the atmosphere [algae_feed], which can be achieved by direct air capture or <a href=\"/solution/energy/ccs\">colocation</a> with an emissions source."
+		]
+	},
+	{
+		"content": [
+			"Cultured meat, also called <i>in vitro</i> meat or synthetic meat, is grown in a reactor from animal muscle cells. Aside from the cells that are used to begin the growth process, cultured meat is never part of a living animal.",
+			"As with other forms of intensive food production, cultured meat is likely to save land at the cost of greater energy input. The following are estimated impacts of common meats, cultured meat, and other meat alternatives.",
+			"-alt_meat.jpg-60",
+			"!Impacts for beef, poultry, and pork are the average of life cycle assessments as reported by Clark and Tilman [meat_land_use]. Estimates for cultured meat are given by Tuomisto et al. [tuomisto_cm], Mattick et al. [ivm_energy2], and Smetana et al. [smetana]. Smetana et al. also report estimated impacts for other meat alternatives.",
+			"Cultured meat is still not a commercial product, and consumer acceptance is uncertain [ivm_future]. Additionally, the reliance on fetal bovine serum and other animal products for cell culturing may be problematic for those who avoid meat for animal welfare concerns, though alternatives to animal products for growth media are active areas of research [bovine_serum]."
+		],
+		"name": "Cultured Meat"
+	}
+]

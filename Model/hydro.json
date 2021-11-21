@@ -1,0 +1,33 @@
+[
+	{
+		"content": [
+			"Hydroelectric power harnesses the kinetic energy of falling water in a river for electricity production.  In this section we focus specifically on dammed rivers."
+		]
+	},
+	{
+		"content": [
+			"The cost of hydroelectric power is highly variable and site specific.",
+			"-Cost of Hydro Power.jpg-60",
+			"!The threshold between small and large hydro varies by source and is typically between 10 and 50 megawatts of capacity. Source: International Renewable Energy Agency ([irena_hydro] and [irena]), Logan et al. [nrel_lcoe], OpenEI, [openei], Salvatore et al. [wec_lcoe], Energy Information Administration [eia_lcoe].",
+			"Hydropower is highly capital intensive, with operations and maintenance comprising only 2-2.5% of the total cost [irena_hydro]. Generally, projects in remote areas or that otherwise have logistical challenges are more expensive, as are smaller projects. Cost estimates are complicated by the fact that dams often have additional economic functions, such as irrigation and flood control, which can be worth 4-100% of the electricity the dam produces [ifc].",
+			"As a mature technology, there are no clear pathways for significant cost reduction in hydropower other than general improvements in civil engineering [irena_hydro]. Despite their maturity, the American and world hydro industries still have potential to grow.",
+			"-hydro_potential.jpg-65",
+			"!Current, economic, and technical potential for hydropower in the United States and in the world. Technical potential is the maximum amount of hydropower that can be extracted with current technology; economic potential the maximum feasible production that is economically viable under current conditions. Sources: Deng et al. [deng], International Energy Agency [iea_hydro], World Energy Council [wec_survey].",
+			"In the United States and globally, pumped hydro comprises 13-20% of all hydro installation.",
+			"-hydro_by_type.jpg-65",
+			"!Hydropower can be used for pumping water as energy storage or as energy production. Sources: Department of Energy [hydro_vision] for the United States, International Hydropower Association [iha] for the world."
+		],
+		"name": "Economics and Future Potential"
+	},
+	{
+		"content": [
+			"Like the economic impact, the environmental and social impacts of hydroelectricity are highly site specific, and it is difficult to generalize to all projects.  Major impacts include the following:",
+			"|loss of biodiversity [hydro_biodiversity],|damage to local ecology, particularly by impeding the flow of a river,|climate impacts of the construction and operation of a dam,|displacement of communities and agriculture through flooding,|loss of archeological heritage [hydro_culture],|risk of a catastrophic failure.",
+			"The following internal and external costs of hydropower are estimated.",
+			"-hydro_external.jpg-60",
+			"!Sources: Sheridan [sheridan], Tajziehchi et al. [dam_external], Bruckner et al. [ipcc_ghg], Kumar et al. [ipcc_hydro], Mattmann et al. [mattmann].",
+			"Small hydro generally has higher environmental costs per-kWh than large hydro [bakken][kibler][kuby][mayor]. Run-of-river hydropower, which operates with little or no energy storage in the form of a reservoir, tends to have lower environmental impacts but still disrupts riverine ecosystems [ror]."
+		],
+		"name": "Environmental and Social Impact"
+	}
+]

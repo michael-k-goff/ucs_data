@@ -1,0 +1,44 @@
+[
+	{
+		"content": [
+			"In this section, we compare environmental impacts for methods of producing electricity and liquid fuels from primary energy. Most energy today is used for electricity, liquid fuels, or heat, and we separately analyze production of <a href=\"/solution/energy/heating\">residential, commercial</a>, and <a href=\"/solution/energy/industrial_heat\">industrial</a> heat."
+		]
+	},
+	{
+		"content": [
+			"Following are ranges of estimates of the greenhouse gas impacts of electricity generation.",
+			"-img2019_06_11_elec_ghg.jpg-70",
+			"!Fossil fuel generally have higher greenhouse gas emissions than other electricity options, though hydropower and biomass can be highly variable depending on the local ecology around the dam or the manner in which biomass is sourced. Source: IPCC [ipcc_ghg].",
+			"Coal and biomass have significantly higher externalized costs, aside from greenhouse gas emissions, than other options.",
+			"-img2019_06_11_elec_external.jpg-60",
+			"!Most costs measured are air pollution damages, both at the power plant and from upstream processes. Figures also include an estimated visual disamenity cost for wind power of 0.68 &cent;/kWh (onshore) and 0.27 &cent;/kWh (offshore), as well as a 0.54 &cent;/kWh cost resulting from the risk of nuclear accidents--both of which are highly debated. Costs are generally highly variable, depending on factors such as the location of the plant and pollution controls. Sources: [externe][grausz][samadi].",
+			"The following portrays the land use requirements to produce power from different sources.",
+			"-img2019_06_11_elec_land.jpg-60",
+			"!Generally, biomass and hydropower are the most land-intensive, though with variation depending on how biomass is sourced, and fossil fuels and nuclear are the most compact. Note that hydroelectric dams often have multiple functions, such as irrigation and flood control, and consequently land use figures might not be directly comparable to plants that are strictly for power production. The value for Wind power assesses the full landscape land use; the direct footprint is much lower and is compatible with other uses. Sources: Geothermal and solar thermal from [trainor], transmission from [strata_landuse], and others from [vanzalk].",
+			"The following portrays the water requirements to produce power.",
+			"-img2019_06_11_elec_water.jpg-60",
+			"!With the except of hydropower, most water is used for thermal cooling, and thus non-thermal plants generally have low water needs. Note that the hydropower figures are not necessarily directly comparable to other power sources, due to the secondary uses of dams for such purposes as irrigation and flood control. Estimates on water intensity of thermal generation and hydropower are taken from Tidwell and Moreland [tidwell], while estimates of the water intensity of wind and solar, and of fuel preparation, are from Spang et al. [spang].",
+			"Generally, renewable sources require more physical material than nonrenewable sources.",
+			"-img2019_06_11_elec_material.jpg-60",
+			"!Source: Department of Energy [qtr].",
+			"Considering higher impact materials (excluding steel, aluminum, and glass), renewable energy generally requires more material than fossil fuel energy, while electric cars require more material than internal combustion cars. However, renewables and electric cars still have lower lifecycle greenhouse gas impacts than their conventional counterparts.",
+			"-energy_car_material.jpg",
+			"!Source: Materials assessed include copper, lithium, nickel, manganese, cobalt, graphite, chromium, molybdenum, zinc, rare earths, silicon, and \"other\" (which makes a negligible contribution in all cases). IEA [iea_mining]."
+		],
+		"name": "Electricity"
+	},
+	{
+		"content": [
+			"In this section, we review the environmental impacts of petroleum and biomass-based methods of producing liquid fuels. The following illustrates greenhouse gas emissions.",
+			"-img2019_06_11_liquid_ghg.jpg-60",
+			"!Sources: Tu et al. [algae_lca] for algal biodiesel, EPA [epa_biofuel] for the others.",
+			"Biofuels have much greater land use requirements than petroleum-based fuels.",
+			"-img2019_06_11_liquid_land.jpg-60",
+			"!For fuel derived from petroleum, land disturbed is measured over the life of the oil field. For biofuels, land disturbed assumes 50 years of production. Sources: [biodiesel_review][yeh].",
+			"Biofuels also have far greater water needs than petroleum-based fuels, mostly for growing crops.",
+			"-img2019_06_11_liquid_water.jpg-60",
+			"!Sources: Tu et al. [algae_lca] for algal biodiesel, Spang et al. [spang] for other options."
+		],
+		"name": "Liquid Fuels"
+	}
+]

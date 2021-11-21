@@ -1,0 +1,16 @@
+[
+	{
+		"name":"Genetic Modification",
+		"content":[
+			"Genetic modification (GM), or genetic engineering (GE), refers to any technique of modifying crop genetics through transgenics or direct editing. The most common modified traits today are herbicide resistance and insect resistance [nas_gmo]. Both the range of traits engineered for and the techniques for doing so are likely to expand greatly in the coming years [nas_gmo]. Currently, about 10% of world crops, by planting area, use biotechnology [isaaa].",
+			"Current GM technology has brought about the following estimated increases in crop yields.",
+			"-gmo_yield.jpg-60",
+			"!Sources: Brooks and Barfoot [gmo_yield2], Klümper and Qaim [gmo_yield1], Pellegrino et al. [gmo_yield3].",
+			"Following are a sampling of notable GM projects under development, demonstrating the potential for significant gains from future research.",
+			"-gmo_projects.jpg-60",
+			"!Sources: C<sub>4</sub> rice [c4], rationale for nitrogen-fixing cereals [nfc], risk from nitrogen-fixing cereals [nfc_biotech], and Golden Rice [golden_rice].",
+			"Insect-resistant crops reduce the amount of insecticide needed by about 8% [insecticide_use], while the use of herbicide-resistance crops has led to an increase in glyphosate usage due to the advent of glyphosate-resistant weeds [glyphosate].",
+			"In 2016, the U. S. National Academy of Sciences conducted a literature review and found no evidence of a general risk to human health or the environment from GM crops [nas_gmo]. However, there is a need to carefully each individual project for particular risks it may pose [nas_gmo]. An earlier EU review also failed to find a general risk from GM crops [eu_gmo]."
+		]
+	}
+]

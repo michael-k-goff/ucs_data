@@ -1,0 +1,19 @@
+[
+	{
+		"content":[
+			"Deforestation is a major driver of harmful <a href=\"/solution/habitat/land_use\">land use impacts</a>, and deforestation is responsible for 2.6 billion tons of carbon dioxide emissions worldwide annually [deforestation3], about 6% of the total. Since 6000 BC, forest cover has decreased from about 47% of the Earth's surface to 30%, though the rate of forest loss has slowed from 7.3 million hectares per year from 1990-2000 to 3.3 million hectares per year from 2000-2015 [deforestation5]."
+		]
+	},
+	{
+		"name":"Drivers of Deforestation",
+		"content":[
+			"Most deforestation is to clear room for expansion of agriculture and other crops. While the clearing of forests for cities gets much attention, this comprises a small portion of total deforestation.",
+			"-deforestation_causes.jpg",
+			"!Source: Curtis et al. [deforestation].",
+			"Another way to look at drivers of deforestation is by crop. Beef and oil crops, such as oil palm for biofuels, are the most important drivers.",
+			"-deforestation_causes2.jpg",
+			"!The above figures assess the contribution of crops to tropical deforestation, which comprises about 95% of all deforestation worldwide. Source: Pendrill et al. [deforestation3], with figures presented by Our World in Data [deforestation2].",
+			"Other assessments of deforestation use somewhat different methodologies but come to similar conclusions (e.g. [deforestation4], [deforestation6])."
+		]
+	}
+]

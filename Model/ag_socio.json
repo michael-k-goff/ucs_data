@@ -1,0 +1,32 @@
+[
+	{
+		"content":[
+			"In this section, we review several aspects of farmer well-being and livelihood."
+		]
+	},
+	{
+		"name":"Urbanization",
+		"content":[
+			"The world has steadily become more urbanized over time, and this is likely to continue.",
+			"-urbanization_rate.jpg",
+			"!Source: The World Bank [wb_urbanization].",
+			"As urbanization proceeds, rural land tends to be converted to urban land, which has a greater economic value. However, as urban land is still only about <a href=\"/solution/habitat/land_use_socio\">1% of all land</a>, this conversion is not likely to threaten food security [urb_trends]. Rural to urban conversion is driven by a combination of migration to cities, population growth within cities, and the reclassification of rural villages into urban [rural_urban_cause].",
+			"The conversion of rural to urban land is generally driven by economics; when land is more valuable for urban purposes, conversion occurs [urb_trends]. However, farmers can lose income in the process of converting. Of particular concern are rural to urban conversions that are involuntary, without adequate compensation to farmers [rural_urban][rural_urban2][rural_urban3][rural_urban5][rural_urban4]."
+		]
+	},
+	{
+		"name":"Urban Agriculture",
+		"content":[
+			"Yields of organic agriculture within cities have been found to be comparable with other forms of organic agriculture.",
+			"-urban_ag.jpg",
+			"!Comparisons of urban and conventional agriculture are difficult, and numbers should be regarded as highly approximate. Source: Taylor [urban_ag1].",
+			"Additional research from Australia [urban_ag2] has found that urban agriculture tends to have higher yields (food per unit area) but also higher cost, labor needs, and energy requirements. For community gardens in particular, the health and well-being of people and communities involved is a high priority [urban_ag3]. However, given the small area of cities relative to farmland, urban agriculture cannot be a significant replacement for conventional agriculture unless of a <a href=\"/solution/foodwater/indoor\">very</a> <a href=\"/solution/foodwater/synthetic_ag\">high yield</a>."
+		]
+	},
+	{
+		"name":"Local Knowledge",
+		"content":[
+			"Local knowledge of agriculture can contain information on yields, pest management, and other factors that is not readily avaialable to widespread scientific knowledge. Several studies have confirmed the value of local knowledge [local_knowledge][local_knowledge3][local_knowledge4][local_knowledge2]. However, little information is available to quantify the value of local knowledge."
+		]
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"content":[
+			"In this section, we consider health issues related to human habitation outside of Earth, particularly long-duration trips. The Office of the Inspector General has found that NASA should do more to protect astronaut health, particularly on long-duration missions to deep space [oig_space_health]."
+		]
+	},
+	{
+		"name":"Gravity",
+		"content":[
+			"Long-term exposure to zero gravity has many negative health impacts, including bone and muscle loss [microgravity_health]. The limited evidence available suggests that low but nonzero gravity, such as seen on Mars, has negative impacts as well, but not as severe as those of microgravity [low_gravity_health].",
+			"-gravity_comp.jpg",
+			"!Zero gravity in an orbital habitat assumes no artificial gravity is created through spinning. Figures are readily available in standard references.",
+			"Rotation in an orbital habitat could simulate gravity, but at the cost of introducing a Coriolis force. The radius of rotation would have to be at least an estimated 12-24 meters before the Coriolis force is tolerable [rotating_gravity]."
+		]
+	},
+	{
+		"name":"Radiation",
+		"content":[
+			"Without the protection of Earth's atmosphere and magnetic field, exposure to radiation is a concern for long-duration missions, especially beyond low-Earth orbit. Radiation exposure is estimated as follows.",
+			"-space_radiation.jpg",
+			"!Sources: ICRP [sievert_def] and NASA [nasa_radiation].",
+			"Currently NASA protects astronauts from radiation by limiting overall flight time, spacewalk time, and scheduling spacewalk time for periods of low solar activity. Radiation shielding, diets rich in Vitamins C, A, and D, and drugs also protect astronaut health [nasa_radiation]."
+		]
+	},
+	{
+		"name":"Medical Care",
+		"content":[
+			"NASA has in place training and procedures for certan non-emergency and some common emergency medical treatment in space [space_medical], but some emergencies cannot be adequately addressed with the limited training and equipment available. On long-duration submarine missions, an average of 2.3 medical evacuations are needed for every 1000 person-months [space_medical2]. Based on experience with long-duration activities, such as submarine missions, Antarctic missions, mountain climbing, and present-day space missions, it is estimate that a 6 person crew on a 2.5 year Mars mission would require an average of 0.9 medical evacuations [space_medical2]."
+		]
+	},
+	{
+		"name":"Mental Health",
+		"content":[
+			"For a long-duration mission, especially one far from Earth for which communication will be severely delayed, might inflict psychological stress on astronauts [space_mental_health1]. Evidence from the Space Shuttle program and the Mir space station suggests that such stress may materialize [space_mental_health2].",
+			"Research has also found positive effects, such a greater sense of appreciation, spirituality, and power after space flight [space_benefit]. The cognitive shift toward seeing unity on Earth after space flight has been termed the overview effect [overview_effect]."
+		]
+	}
+]

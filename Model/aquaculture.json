@@ -1,0 +1,59 @@
+[
+	{
+		"content": [
+			"Human demands on the oceans are growing [fisheries_fao].",
+			"?Year|Seafood Production, Millions of Tons|Wild Capture, mmt|Aquaculture, mmt?   2007|141|91|50|?    2012|158|91|67?    2022 (projection)|188|96|92",
+			"In 2010, fish provided 16.7% of animal protein, 6.5% of all protein, and is especially important to diets in densely populated countries that otherwise have limited access to animal protein [fisheries_fao].",
+			"Most seafood growth is coming and must continue to come from <a href=\"/solution/aquaculture\">aquaculture</a>. As of 2011, only 9.9% of the world's fishing stocks were underfished, while 28.8% were overfished [fisheries_fao]."
+		],
+		"name": "Seafood Demand"
+	},
+	{
+		"content": [
+			"Aquaculture, the farming of fish, aquatic plants, or other aquatic life, is a <a href='/solution/ag_overview'>rapidly growing</a> contributor to the world's seafood supply.",
+			"There are many kinds of aquacultural practices, each with different environmental and economic performances and suited to different circumstances.  Broadly speaking, we may divide them as follows [aqua_energy].  Extensive practices, which are the most common for fish today, are low-density, carried out in ocean conditions and rely heavily on the natural environment for feedstock.  Intensive aquaculture is conducted in tanks, ponds, and open-water cages, is much denser, and relies almost entirely on industrial feedstock.  Today, extensive farming is most common, but industry is shifting toward intensive production [aqua_energy]."
+		],
+		"name": "Aquaculture Overview"
+	},
+	{
+		"content": [
+			"On the surface, aquaculture is more efficient than <a href='/solution/ag_animals'>land-based livestock</a>.  Salmon, for instance, has a reported feed conversion ratio (FCR) of 1.2 [salmon_fcr], much less than beef and other kinds of meat.  This means that 1.2 kilograms of feed are required to gain one kilogram of salmon growth. However, feed for salmon and other carnivorous fish requires protein from animal sources rather than plants.",
+			"In considering the sustainability of ocean resources and fish farming, a more relevant measure is the forage fish dependency ratio (FFDR), which measures the weight of fish needed to produce a weight of final product.  A recent Norwegian study [fifo_norway] found that the FFDR of Norwegian salmon has improved from 4.4 in 1990 to 0.7 in 2013, and also that 0.7 kg of marine protein were needed to produce 1 kg of salmon protein.  These figures show that, at least in terms of fish biomass harvested from the ocean, salmon farming can have a lighter footprint than wild catching if done properly.  This dramatic improvement has been achieved in part by reducing the marine-originating content of the salmon feed from 90% to 30% [fifo_norway].  Recycling discarded fish trimmings into fish meal can further improve the FFDR [fifo_norway].",
+			"Tacon and Metian [tacon] found that herbivorous and omnivorous fish require much less input than carnivorous fish such as salmon.  They use the fish in/fish out metric (FIFO), closely related to FFDR [fifo_def]. They found the following world average ratios [tacon].",
+			"?Fish|FIFO?    Salmon|4.9?    Freshwater Crustaceans|0.6?    Tilapia|0.4?    Chiense Carp|0.2?    Milkfish|0.2",
+			"All categories of aquaculture have shown improving FIFO values and are projected to continue to improve through 2020 [tacon].",
+			"The energy requirements of aquaculture can be measured as the ratio of energy input (both direct operations and energy required to produce material and feedstock) to the protein energy output. The following values are estimated for different types of aquaculture operations, with some land-based crops for comparison [aqua_energy].",
+			"?Produce|Energy In to Protein Energy Out?    Intensive Mussel Farming|7?     Intensive Shrimp Farming|47?     Tilapia Culture in Indonesia|8?    Rainbow Trout Culture|8-24?     Atlantic Salmon Culture|40-50?     Vegetable Crops|2-4?     Shrimp Fisheries|17-53?    Feedlot Beef|53",
+			"The AquAdvantage salmon is notable as the first transgenic animal <a href='http://www.fda.gov/AnimalVeterinary/DevelopmentApprovalProcess/GeneticEngineering/GeneticallyEngineeredAnimals/ucm280853.htm'>approved by the U.S. Food and Drug Agency</a> for human consumption.  The new salmon differs from traditional salmon in a Chinook salmon gene was spliced to accelerate growth [aquadvantage], which should further reduce FFDR."
+		],
+		"name": "Resource Requirements"
+	},
+	{
+		"content": [
+			"Shellfish and finfish farming causes waste to accumulate in the ocean and can cause damage, can deplete ocean nutrients, can introduce pests or pathogens into the environment, and causes other impacts [aqua_impact]. If farmed fish escape into the wild, this can cause unwanted changes in the wild population [aqua_impact2]. Aquaculture has been implicated in the loss of mangroves [aqua_impact3].",
+			"One tool for reducing the impact of aquaculture is integrated multitrophic aquaculture (IMTA) [aqua_impact3].  IMTA is a system that farms different species at different trophic levels (i.e. different positions on the food chain), which allows internal recycling of nutrients and reduces pollution [aqua_impact3].  Compared to monoculture, IMTA requires less feed per unit of seafood farmed [fifo_def].",
+			"Detailed and reliable lifecycle analyses of aquaculture are limited.  A 2011 study [aqua_lca] aggregated several environmental factors and found that farmed salmon has four times the impact of fished cod (per kilogram of fish) and a greater impact than all terrestrial meat except veal. Comparing intensive and extensive aquaculture, a 2012 analysis [aqua_lca2] found that their lifecycle impacts were similar, with intensive aquaculture having a slightly higher global warming potential due to higher energy usage, and extensive aquaculture with a slightly higher land use requirement for feed production."
+		],
+		"name": "Environmental Considerations"
+	},
+	{
+		"content": [
+			"A particularly intensive form of aquaculture is a recirculating aquaculture system (RAS), which is an enclosed tank.  An RAS brings several potential advantages over conventional aquaculture.  Pollution is greatly reduced, as is the risk of gene flow in the ocean; land and water requirements are lower compared to open pond and raceway aquaculture systems; and the control over the tank allows for much better management of disease [ras].  However, an RAS is more expensive due to greater labor, capital, and energy requirements [ras].  In particular, as a result of the high electricity demands, an RAS is estimated to have about four times the acidification potential, four time the global warming potential, and 40% more land requirement (including upstream requirements) [aqua_lca2].",
+			"RAS is still a niche technology.  In 2015, RAS constituted 6% of the aquaculture market in China, and 12% in the U.S. and Europe [lux].  Lux Research projects that by 2030, RAS will grow to 40% of all aquaculture and provide 25% of the world's fish [lux].  A 2014 Scottish study [ras2] found that RAS needs about a 20% price premium to be economically competitive.",
+			"RAS appears to be a promising technology that warrants research and development support. To be viable as a large scale solution, RAS must reduce its energy requirements and use electricity from clean sources."
+		],
+		"name": "Recirculating Aquaculture Systems"
+	},
+	{
+		"content": [
+			"Aquaculture is an important and growing part of the world's food system, and it it needed to ensure a sustainable supply of fish to meet growing world demand. Aquaculture should be conducted according to strong standards set by a body such as the <a href='http://www.asc-aqua.org/'>Aquaculture Stewardship Council</a>. The standards should emphasize in particular lowest FFDR ratios that are achievable by industry."
+		],
+		"name": "Conclusion"
+	},
+	{
+		"content": [
+			"<I>National Geographic</I> goes into greater detail on the <a href='http://www.nationalgeographic.com/foodfeatures/aquaculture/'>outlook for aquaculture</a>."
+		],
+		"name": "For Further Reading"
+	}
+]

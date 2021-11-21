@@ -1,0 +1,46 @@
+[
+	{
+		"content":[
+			"Our knowledge of the universe remains very limited, but we are continuing to make remarkable observations."
+		]
+	},
+	{
+		"name":"Composition of the Universe",
+		"content":[
+			"To the best of present knowledge, the universe is mostly dark energy and dark matter.",
+			"-dark_comp.jpg",
+			"!Source: [dark]. The nature of dark energy and dark matter is not well-established, and even their very existence is not universally accepted.",
+			"By element, the baryonic matter is estimated as follows",
+			"-baryonic_comp.jpg",
+			"!Source: [element_composition].",
+			"By macroscopic structure, baryonic matter is estimated as follows",
+			"-baryonic_comp2.jpg",
+			"!Source: [fukugita].",
+			"Additionally, the full mass-energy of the universe comprises small quantities of neutrinos, radiation, nuclear binding energy, gravitational binding energy, cosmic rays, magnetic fields, and kinetic energy [fukugita]."
+		]
+	},
+	{
+		"name":"Dark Energy",
+		"content":[
+			"Dark energy is a hypothetical substance that, although at a low density, permeates the universe and comprises most of its mass-energy balance. Dark energy imparts an expansive force and was posited in the late 1990s to explain the observed acceleration of the universe's expansion [dark_energy2][dark_energy1]. However, dark energy has not yet been observed in a laboratory and its nature remains mysterious. Following are some leading hypotheses.",
+			"?Hypothesis|Explanation       ?Cosmological Constant [dark_energy3]|An intrinsic positive energy of space that exercises a repulsive force countering gravity.?          Quintessence [quintessence]|A fifth fundamental force of nature. Differences from the cosmological constant in that this form of dark energy is dynamic rather than constant.?       Modified Gravity [modified_gravity]|The observation of dark energy may stem from inaccuracies in our understanding of general relativity, but this seems unlikely [modified_gravity2].?       Observational Error [dark_energy4]|This is possible but viewed as unlikely [dark_energy5].",
+			"!The above represents a partial list of explanations offered for dark energy and is not intended to be complete."
+		]
+	},
+	{
+		"name":"Dark Matter",
+		"content":[
+			"Dark matter is a hypothesized form of matter that interacts with ordinary matter through gravity but not through electromagnetism, hence we cannot see it [dark_matter_general]. The existence of dark matter is proposed as an explanation for the way galaxies rotate [dark_matter_ev], gravitational lensing observations [dark_matter_ev2], and other phenomena, which cannot be explained with ordinary matter that is observed. Several candidate explanations have been offered.",
+			"?Explanation|Notes?     Weakly Interacting Massive Particles (WIMPs) [dark_matter_wimp]|A leading explanation, but no evidence for WIMPs has yet been found.?     Supersymmetric Particles [dark_matter_atlas]|The theoretical framework of supersymmetry predict dark matter particles. Particle accelerator research is ongoing.?     Primordial Black Holes [dark_matter_bh]|Hawking radiation expected from primordial black holes not observed [dark_matter_bh2].?     Modified Gravity [modified_gravity]|No adequate theory of modified gravity has been found that explains dark matter observations [modified_gravity2].",
+			"!A partial list of possible explanations of dark matter. Physicists lead toward a non-baryonic explanation, such as WIMPs, supersymmetric particles, or others not listed above. Additional explanations are considered by Bertone and Tait [dark_matter_cand]."
+		]
+	},
+	{
+		"name":"Matter and Antimatter",
+		"content":[
+			"Every particle is associated with an antiparticle, which has the same mass but opposite electric charge and other physical charges. Antimatter is similar to ordinary matter but composed of antiparticles instead of ordinary particles. Matter and antimatter are extremely reactive with each other, and only a few billions of a gram have been produced in particle accelerators [symmetry_antimatter]. Antimatter, specifically positrons (the antiparticles of electrons) are used today in positron emission tomography (PET) scanning for medical imaging [pet_scan].",
+			"The baryonic portion of the universe appears to be almost entirely regular matter and not antimatter, and why this is the case is a major open question in cosmology. There is one surviving matter particle for every billion matter-antimatter reactions in the early universe [antimatter1996].",
+			"Research has found CP (charge conjugation parity) violations, indicating that the laws of physics are different between matter and antimatter [cp_violation3][cp_violation1][cp_violation2]. However, these asymmetries are insufficient to explain the predominance of matter in the universe. It is hoped that further particle accelerator research will yield more information [lhc_antimatter]."
+		]
+	}
+]

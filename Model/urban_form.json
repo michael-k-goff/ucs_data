@@ -1,0 +1,51 @@
+[
+	{
+		"content": [
+			"<a href=\"/solution/energy/density\">Urban density</a> is one of the most important strategies for cities to reduce their energy consumption, but it is only one piece in an integrated strategy of good urban design. Density alone--in this scenario going from single-family homes with the median American lot size to high rise urban development--can reduce vehicle-miles traveled by 29%, but an integrated strategy that uses all of the following tools may decrease VMT by 61%.",
+			"-Urban Form and VMT.jpg",
+			"!Sources: density and the integrated strategy from the National Research Council [nap_vmt], mixed used development from Ewing and Cervero [ewing_cervero], centralized urban shape and polycentricitiy from Lee [urban_shape], rail and buses from Tal et al. [bus_rail], sidewalks from Handy et al. [walking], and bike lanes from Tal et al. [biking]. Additional discussion of VMT-reducing strategies from Litman [vtpi_travel] and the Oregon Department of Transportation [odot_lus]."
+		]
+	},
+	{
+		"content": [
+			"It is more efficient for cities to mix land uses rather than segregate them. Going from a city with entirely segregated land uses to a city with entirely mixed land uses--the technical term is entropy--should reduce VMT by 9% [ewing_cervero]. Evidence from Arizona also shows that cities with more retail and service opportunities within walking distance of residents have less driving [az_mixed_use].",
+			"Kentlands, a neighborhood of Gaithersburg, Maryland, is one of the premier examples of New Urbanist design and a partial success in achieving the efficiencies of density. Kentlands hosts a diverse housing mix, including 27% single-family detached homes, 20% townhomes, 46% multi-family, and 7% urban cottages, and has about three times the population density of Gaithersburg [texas_smart_growth]. Indicating a market demand for dense and walkable neighborhoods, homes in Kentlands sell at a premium of 13% relative to comparable homes in the region [full_circle]. While travel data is limited, Kentlands remains a highly automobile-dependent neighborhood, due in part to the failure to plan for adequate transit [texas_smart_growth].",
+			"-kentlands.jpg-30",
+			"!Kentlands. (Source: <a href=\"https://en.wikipedia.org/wiki/Kentlands,_Gaithersburg,_Maryland#/media/File:Kentlandshouses.jpg\">Wikipedia</a>. <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>)"
+		],
+		"name": "Mixing Land Uses"
+	},
+	{
+		"content": [
+			"Cities reduce VMT by concentrating population and businesses in the core, rather than spreading evenly over a large area. Going from the 20th to the 80th percentile in the United States for urban centralization reduces VMT by 12% [urban_shape].",
+			"As cities grow, they by necessity become polycentric, meaning that they develop new employment centers beyond the central business district. However, when a city becomes too polycentric, it has difficulty running efficient mass transit and VMT tends to increase. Going from the 80th to the 20th percentile for polycentricity decreases VMT by 10% [urban_shape]."
+		],
+		"name": "Centralized Urban Shape"
+	},
+	{
+		"content": [
+			"When combined with efficient urban layout, alternatives to driving also reduce VMT. If all residents have a rail station within 0.75 miles, then VMT is reduced by 9% compared to having no rail system [bus_rail]. Similarly, if all residents have a bus stop within 0.25 miles, then VMT is reduced by 4% compared to having no bus system [bus_rail]. However, mass transit alone, without density or good design, will <a href=\"/solution/cities/cities_transpo_demand\">induce sprawl</a>."
+		],
+		"name": "Mass Transit"
+	},
+	{
+		"content": [
+			"Adding 100% sidwalk coverage to all city streets reduces VMT by an estimated 5%, compared to no sidewalks [walking]. Similarly, adding 100% bike lane coverage to all city streets reduces VMT by an estimated 1%, compared to no bike lanes [biking].",
+			"While bike lanes in and of themselves have little impact on VMT, a long-term, multifaceted commitment to promoting bicycling can pay off, as happened in The Netherlands. In 2016, cycling accounted for 27% of all trips [cycling_facts], the highest of any large country, and VMT from cycling was about 9% of VMT from driving [vmt_comparison]. The Dutch achieved high rates of cycling through separated bike lanes, bicycling parking, bike share programs, intercity bike networks, safety and liability regulations that favor cyclists, urban density, integration with public transport, and restrictions on driving. These policies have been sustained by cities and the national government since the 1970s [wardlaw].",
+			"-hovenring.jpg-40",
+			"!Hovenring, a suspended cyclist roundabout in The Netherlands. (Source: <a href=\"https://en.wikipedia.org/wiki/Hovenring#/media/File:Hovenring-night-shot.jpg\">Wikipedia</a>. <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>)"
+		],
+		"name": "Active Transit"
+	},
+	{
+		"content": [
+			"The New York and Los Angeles metropolitan areas have roughly the same overall population density (2826 and 2646 people per square mile respectively [pop_weighted]) but very different urban forms. One measure of a metro's centrality is population-weighted density, which is the average neighborhood-level density experienced by each person. The respective figures for New York and Los Angeles are about 31,000 and 12,000 people per square mile, reflecting New York's much greater centrality [pop_weighted].",
+			"As a consequence, LA has over 60% greater VMT per capita than NYC (5959 VMT per capita vs. 3658) [brookings_vmt]. New York's centralized structure supports the highest rate of transit usage in the United States and five times the trips per capita as LA [apta_stats]. The combination of density and decentralization is a major reason for LA's notorious traffic congestion problems [access_la].",
+			"-nyc_panorama.jpg-60",
+			"!Centralized density in Manhattan. (Source: <a href=\"https://en.wikipedia.org/wiki/New_York_City#/media/File:26_-_New_York_-_Octobre_2008.jpg\">Wikipedia</a>. <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>)",
+			"-los_angeles.jpg-60",
+			"!Dense sprawl in Los Angeles. (Source: <a href=\"https://en.wikipedia.org/wiki/Los_Angeles#/media/File:Los_Angeles_Panorama_from_Griffith_Observatory_2013.jpg\">Wikipedia</a>. <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>)"
+		],
+		"name": "Urban Form Case Study: New York City and Los Angeles"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"content":[
+			"Following, we examine the health and environmental impacts of several hazard exposures. See also our analysis of the <a href=\"/solution/energy/chemicals_energy\">chemical industry</a>.",
+			"There are additional potentially hazardous material exposures, such as from unclassified neurotoxicants and endocrine disruptors, chemical pesticides, pharmaceutical waste, and emerging nanomaterials, for which the risk is not yet established [lancet_pollution]."
+		]
+	},
+	{
+		"name":"Chemical Exposure",
+		"content":[
+			"Dangerous elements and chemicals, transmitted through the air, water, food, consumer products, industrial production, or building materials are a major cause of illness and environmental damage. Due to the wide range of hazardous substances, the full cost is highly uncertain. Following, we estimate damages from major classes of chemical pollution.",
+			"-hazardous_exposure.jpg-60",
+			"!Sources: Flanagan et al. [arsenic], Gibbs et al. [foodmetals], Global Burden of Disease [disease_burden].",
+			"Some hazardous substances, such as mercury--especially methylmercury chemicals that accumulate in life and food--cause debilitating illness, even if it is difficult to directly attribute deaths.",
+			"-daly_exposure.jpg-60",
+			"!The DALY metric measures the number of years of life lost, with partial years attributed to years living with illness or disability. Sources: Gibbs et al. [foodmetals], Global Burden of Disease [disease_burden].",
+			"Following are select estimates of monetized damages from the health impact of hazardous material exposure.",
+			"-chemical_econ_damage.jpg-60",
+			"!Estimates of the health impact, expressed as monetized damages from suffering and lost productivity. As only select materials are considered, only the United States and the European Union except in the case of lead are assessed, and ecosystem damages are not considered, these figures significantly underestimate the full cost of chemical exposure. Source: Grandjean and Bellanger [grandjean]."
+		]
+	},
+	{
+		"name":"Radiation",
+		"content":[
+			"Among sources of ionizing radiation, radon is the greatest threat to human health.",
+			"-radiation_exposure.jpg-60",
+			"!Actual dosage can vary widely, with high concentration of radon a particular threat when the gas accumulates in a confined space. Medical exposure varies widely depending on medical needs. Sources: Schauer and Linton [ncrp], with explanatory notes from the World Nuclear Association [nrc_rad]."
+		]
+	}
+]

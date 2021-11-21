@@ -1,0 +1,26 @@
+[
+	{
+		"content": [
+			"In this section, we compare several methods for transporting fossil fuels."
+		]
+	},
+	{
+		"content": [
+			"For overland transportation of oil, pipelines are generally the safest, cleanest, and cheapest [oil_spill] mode of transportation available.",
+			"-oil_transport_externality.jpg-60",
+			"!Source: Clay et al. [oil_transport].",
+			"Nevertheless, pipelines may spill more of the oil that they transport, relative to rail.",
+			"-oil_spill.jpg-60",
+			"!Source: Frittelli et al. [oil_spill]."
+		],
+		"name": "Transportion of Oil"
+	},
+	{
+		"name":"Transportation of Natural Gas",
+		"content":[
+			"The two main methods of transporting natural gas are by pipeline and by shipping in the form of liquified natural gas (LNG). These methods consume energy, as a share of the gas being transported, as follows.",
+			"-gas_transport_efficiency.jpg-60",
+			"!Energy lost in transporting natural gas. Sources: Interstate Natural Gas Association of America [pipeline_efficiency] for pipelines, Nagi et al. [lng_efficiency] for LNG."
+		]
+	}
+]

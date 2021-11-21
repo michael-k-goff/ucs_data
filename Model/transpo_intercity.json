@@ -1,0 +1,31 @@
+[
+	{
+		"content": [
+			"The energy required to move a passenger one kilometer over long distances varies widely both between and within modes. The occupancy rate (percentage of seats occupied by passengers) and efficiency of the vehicle are two key variables that affect performance. In general, though, buses and electric rail tend to be the most efficient systems, while diesel rail such as Amtrak, aviation, and driving are less efficient.",
+			"-img2019_05_23_intercity.jpg-60",
+			"!Primary energy is greater than the energy used directly by the vehicle, especially for electric modes. See below for details on aviation and rail, and our analysis of <a href=\"/solution/energy/transpo_cars\">automobiles</a>. For estimates on the energy needs of intercity buses, see the Bureau of Transportation Statistics [bts], John Dunham & Associates [dunham], M. J. Bradley and Associates [james_river], and Minn [minn]."
+		]
+	},
+	{
+		"content": [
+			"Commercial aviation has improved its energy efficiency over time, and recent mainstream estimates place its energy consumption at 1200-3700 kilojoules per passenger-kilometer. Short flights (under 1000 km) and intercontinental flights tend to be in the same range, per-km.",
+			"-img2019_05_23_air.jpg-60",
+			"!Figures for general air travel are estimated from the Federal Aviation Administration [faa], the IEA [future_of_rail], and the National Cooperative Rail Research Program [ncrrp], for short flights (under 1000 km) from the Bureau of Transportation Statistics [bts], Kwan [kwan], and Prussi and Lonza [prussi], and for intercontinental flights from Abdul et al. [abdul], the BTS [bts], and Kwan [kwan]. Energy for vertical takeoff and landing (VTOL) is estimated from Kasliwal et al. [flying_cars] and is assessed for a single passenger over a distance of 75-250 km, with lower per-km energy needs at longer distances. Energy for supersonic flight is estimated from Kharina et al. [supersonic].",
+			"Emerging aviation technologies, such as personal electric vertical takeoff and landing (VTOL) vehicles, could increase energy demand. While there are no commercial supersonic flights available today, several companies are working to bring them back for business travelers in the 2020s. They will be significantly more energy-intenstive than comparable subsonic flights. Even more advanced forms of flight, such as hypersonic (at least five times the speed of sound) aircraft [hypersonic] and suborbital aircraft [suborbital], are under development but far from commercialization.",
+			"Long-haul aviation requires fuel with <a href=\"/solution/energy/transpo_fuels\">density</a> comparable to kerosene or greater. Barring major aircraft redesign or a technological breakthrough, methanol, ethanol, ammonia, hydrogen, and batteries are unsuitable for aviation except possibly for short distances or for small or personal aircraft [turner]. Low carbon alternatives to petroleum-based jet fuel include <a href=\"/solution/energy/bio\">biofuels</a> and <a href=\"/solution/energy/synfuels\">electrofuels</a>.",
+			"-aviation_fuel.jpg",
+			"!Sources: de Jong et al. [aviation_fuel_ghg] and Katebi and Carlsson [electrofuel_ghg]."
+		],
+		"name": "Aviation"
+	},
+	{
+		"content": [
+			"Worldwide, rail travel is generally more efficient on a per-km basis than driving or aviation, though less than motorcoach buses. Diesel rail, such as Amtrak, tends to be less efficient, while electric rail, including high speed rail, tends to be more efficient.",
+			"Magnetic levitation (maglev) technology remains limited due to high cost. At the same speed, maglev is more efficient than conventional high speed rail due to avoidance of direct contact with the track, but air resistance lowers efficiency at higher speeds. More speculatively, if the Hyperloop system is brought to fruition, its energy needs are unknown but could exceed that of today's rail.",
+			"-img2019_05_23_rail.jpg-60",
+			"!Estimates are sourced from the Bureau of Transportation Statistics [bts] and Minn [minn] for diesel rail; Minn [minn] for electric rail; the BTS [bts], EV World [shinkansen_ev], and Minn [minn] for high speed rail; Hoffrichter for hydrogen rail [hydrogen_rail] (with and without regenerative braking), based on the diesel figures and assuming that hydrogen is produced through steam methane reforming of natural gas; EV World [shinkansen_ev], MacKay [hotair], and Ziemke [ziemke] for maglev; and Goeverden et al. [hyperloop] for the Hyperloop.",
+			"Hydrogen rail is most advantageous where it is cost-prohibitive to directly electrify tracks [hydrogen_rail]."
+		],
+		"name": "Rail"
+	}
+]

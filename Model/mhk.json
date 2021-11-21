@@ -1,0 +1,74 @@
+[
+	{
+		"content": [
+			"Ocean power, or marine and hydrokinetic (MHK) power, refers to a form of power generation that harnesses the kinetic energy of water, excluding <a href=\"/solution/energy/hydro\">hydropower</a>.",
+			"We recommend a <a href=\"/solution/energy/rd\">research and development</a> program into wave energy, but not tidal energy or OTEC. These and other options are detailed below."
+		]
+	},
+	{
+		"content": [
+			"No forms of MHK are in widespread usage today, but some have the potential to be affordable in the future.",
+			"-mhk_cost.jpg-65",
+			"!Sources: Carbon Trust [carbon_trust_mhk],  Energy Technologies Institute [eti_tidal], Helfer et al. [pro1], IEA et al. [lcoe2015], International Renewable Energy Agency ([irena_otec] and [irena_salinity]), Khasawneh et al. [hypersaline], Neary et al. 2016 [neary2], Neary et al. 2014 [neary], Ocean Energy Systems [oes_lcoe], OpenEI [openei], Salvatore et al. [wec_lcoe]."
+		],
+		"name": "Current and Potential Cost"
+	},
+	{
+		"content": [
+			"MHK technologies show the production potential worldwide and in the United States.",
+			"-mhk_potential.jpg-60",
+			"!World figures are from Helfer et al. [pro1] and Stenzel and Wagner [stenzel] for osmotic power, Stenzel and Wagner [stenzel] for osmotic power with ecological constraints, IRENA [irena_tidal] for tidal, Lockheed Martin [lm_otec] for OTEC, Minerals Management Service et al. [marine_current] for marine current, and Pelc and Fujita [pelc] for wave. US figures are from the Electric Power Research Institute [epri_riverine] for river current, Georgia Tech Research Corporation [georgia_tidal] for tidal stream, Lockheed Martin [lm_otec] for OTEC, the US Department of energy for wave energy in the Continental US, and the Wave Power Technologies Office [us_mhk] for overall wave potential.",
+			"All MHK technologies show modest greenhouse gas impacts.",
+			"-mhk_ghg.jpg-60",
+			"!Figures for wave from S&ouml;rensen and Naef [sorensen], tidal current and tidal stream from Lewis et al. [ipcc_ocean], and OTEC from Banerjee et al. [otec_emissions]."
+		],
+		"name": "Resource Base and Environmental Concerns"
+	},
+	{
+		"content": [
+			"Wave power refers to any technology that harnesses kinetic energy from ocean waves.",
+			"@Wave Energy Developing Slowly!Fund Wave Energy R&D at $8.3 billion over 10 years.          @<b>Description:</b> We recommend that the U. S. Department of Energy invest $8.3 billion over 10 years to support wave energy research and development.        @-fund_wave_energy.jpg-80@Previsic [re_vision] estimates that a full wave energy R&D program would require $2.5 billion on research, $300 million for early commercialization efforts, and $5.5 billion for subsidies as the industry develops, for a total of $8.3 billion.        @<b>Calculations:</b> Benefits are based on a model such that, after a 10 year research period, wave energy grows by 2% of its ultimate market potential per year. Based on a learning curve analysis, we estimate that wave energy could fall from its present high price to 6 &cent;/kWh. As wave energy is suitable on the coast and where there is good wave resource, we estimate that 20% of the world electricity market would be suitable for wave energy. Financial and environmental benefits are calculated by assuming that wave energy displaces other sources of electricity that are more expensive. By focusing early commercialization on islands and other areas with expensive electricity, the needed subsidy might be reduced. See our analysis of <a href=\"/solution/energy/rd\">research and development</a> for more information.       @-wave_deployment.jpg-70@!Sources: Coggins [coggins], OREC [orec], Previsic [re_vision], Department of Energy [doe15].              @<b>Implementation: </b>Congress recently increased the DOE's budget for ocean energy research to $109 million, a welcome move but still only about 13% of the value we recommend if continued for 10 years [marine109]. A full research program will support all aspects of companies' efforts to commercialize wave technology, particularly development of test sites that can simulate the harsh ocean environment [wave_test].",
+			"More research is needed on ecological impacts. Wave capture devices could benefit marine life by serving as artificial reefs, while harmful impacts include noise and electromagnetic fields [eu_wave]. Deployment of wave energy must also take into account competition with other sea uses, such as shipping and fishing."
+		],
+		"name": "Wave Power"
+	},
+	{
+		"content": [
+			"Tidal power refers to any technology that harnesses the kinetic energy of water induced by tides.",
+			"Tidal technology has faced greater-than-expected engineering challenges, with costs in the UK of 46 to 53 &cent;/kWh [carbon_trust_mhk]. Through research and development and learning-by-doing, tidal power has been estimated to be able to reach 16 &cent; or less [carbon_trust_mhk], or 10.6 &cent [tidal_cost].",
+			"Turbine blades and electromagnetic effects may harm the local environment [mhk_env]. Additionally, tidal power might disrupt the local ecology by altering the flow of water [tidal_env].",
+			"We estimate that the research costs of advancing tidal power would be $8.3 billion, with the same cost and time frame as wave energy. The expected benefits of doing so would be about $2 billion, with the ultimate cost of tidal power estimated at about 10.6 &cent;/kWh. Based on the limited geography for which tidal power is usuable, we estimate that is has a market potential of 4% of world electricity.",
+			"The low market potential and high likely cost, even after a research program, make tidal power a poor investment."
+		],
+		"name": "Tidal Power"
+	},
+	{
+		"content": [
+			"An ocean thermal device (OTEC) harnesses the ocean's temperature differential for electricity production or to harvest cool water for a district cooling system. OTEC may be able to supply all of the world's electricity without disrupting the temperature profile of the oceans [irena_otec].",
+			"For electricity alone, OTEC will almost certainly be expensive, with capital costs for mature technology at least $7750/kW [otec_overview]. OTEC has the potential to create useful coproducts, such as cold water for district cooling systems or for tropical agriculture [otec_overview], nutrient pumping to support open-ocean mariculture [otec_overview], or fresh water [vega2010]. The economic feasibility of OTEC may require accounting for coproducts [irena_otec][otec_overview][vega2010].",
+			"Potential environmental impacts of OTEC include the release of CO<sub>2</sub> in quantities comparable with other renewable energy sources and the risk of the leakage of working fluids [otec_overview].",
+			"We estimate that an OTEC research program would have an expected benefit of about $1.7 billion and an expected cost of about $21 billion. The benefit is based on a possible final price of 13 &cent;/kWh and a market potential of 1200 terawatt-hours per year, as suggested by Boshell et al. [otec_potential]. The cost assumes that an OTEC research program would cost the same $830 million per year that a wave research program would cost, but it would take 25 years to bring to fruition. See our analysis of <a href=\"/solution/energy/rd\">research and development</a> for more information.",
+			"The poor return of OTEC research is based on the long research time, the limited market potential, and the high ultimate cost. The economics might be somewhat improved if coproducts are taken into account."
+		],
+		"name": "Ocean Thermal"
+	},
+	{
+		"content": [
+			"An osmotic, or salinity-gradient, power plant harvests the potential energy in the pressure difference between fresh and salt water, where fresh water rivers meet the ocean. An osmotic power plant runs at nearly full capacity and could serve as reliable base load power. Improvements in membrane technology, driven by water desalination, have improved prospects for osmotic power in recent years. The industry expectation is that a membrane power density of 5 W/m<sup>2</sup> is needed to produce osmotic power profitably at 7-13 &cent;/kWh, and this has been achieved by several designs in the laboratory [pro1].",
+			"More research is needed on the environmental risks of osmotic power. Concerns include eutrophication, water temperature changes, and discharge of chemicals [pro1]."
+		],
+		"name": "Osmotic Power"
+	},
+	{
+		"content": [
+			"River current power harnesses the kinetic energy of water flowing in a river. River current differs from hydroelectric power in that no dam is used to build a reservoir or impede the flow of water. River current power poses the risk of collisions between marine animals and turbine blades, as well as electromagnetic effects, but the wildlife and ecological impact should be less than conventional hydropower [riverine_fish]."
+		],
+		"name": "River Current"
+	},
+	{
+		"content": [
+			"Marine current power harnesses the kinetic energy of oceanic currents. As with river current power, marine current power poses risks from turbine collisions and electromagnetic effects [mhk_env]. Additionally, it is uncertain what effect widespread usage of marine current power would have on ocean currents [marine_current]."
+		],
+		"name": "Marine Current"
+	}
+]

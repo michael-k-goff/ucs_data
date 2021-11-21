@@ -1,0 +1,12 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,     104,"[MJ] Electricity, AC, consumption mix, at consumer [Intermediate flows]",
+1,Input,,       2,[kg] Hydrochloric acid (100%) (CAS 007647-01-0) [Intermediate flows],
+2,Input,,       2,[kg] Sodium hydroxide (100%; caustic soda) (CAS 001310-73-2) [Intermediate flows],
+3,Input,,    33.2,"[kg] Soybean meal, hexane extracted (48% CP) [Intermediate flows]",
+4,Input,,     504,[MJ] Thermal energy from fuel oil (MJ) [Intermediate flows],
+5,Input,,     300,[kg] freshwater (CAS 007732-18-5) [Renewable material resources from water],
+6,Output,,     700,"[kg] water vapour (CAS 007732-18-5) [Emissions to air, unspecified]",
+7,Output,,       2,[kg] Water from cooling (CAS 007732-18-5) [Emissions to fresh water],
+8,Output,,    13.2,[kg] Biogenic residues [Intermediate flows],
+9,Output,X,      20,[kg] Soy protein concentrate [Intermediate flows],
+10,Output,,     400,[kg] sodium chloride (CAS 007647-14-5) [Non-renewable material resources from ground],

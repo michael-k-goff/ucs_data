@@ -1,0 +1,39 @@
+[
+	{
+		"content":[
+			"In this section, we review several ideas related to politics, the economic system, and environmentalism."
+		]
+	},
+	{
+		"name":"Capitalism and Socialism",
+		"content":[
+			"Many researchers have argued that a socialist economic system, rather than the prevailing capitalist system, would yield better environmental outcomes (for examples, see [ecosocialism3], [ecosocialism8], [ecosocialism4], [ecosocialism6], [ecosocialism2], [ecosocialism5], [ecosocialism1], [ecosocialism7]). The common usage of the terms \"capitalism\" and \"socialism\" can be broad and imprecise. Following, we investigate one aspect of the relationship between economic system and environmental performance, namely economic freedom.",
+			"-economic_system.jpg",
+			"!The top 50 environmental performers, as indicated by the EPI [epi], are arranged into five equally-sized quintile groups of countries by economic freedom [economic_freedom_2010]. Results show correlation between economic freedom and environmental performance, but not causation.",
+			"!The EPI is based on air quality, water and sanitation, climate change, biodiversity and habitat, and several other environmental metrics. Economic freedom is as defined on our <a href=\"/solution/habitat/social_wellbeing\">Social Well-Being analysis</a>; it refers to the ability of private actors to make free economic decisions. The 10 year gap is based on that policy changes now will have environmental impacts in the future.",
+			"Most studies confirm (e.g. [efe2], [efe4], [efe3], [efe1], [efe5]) that environmental performance is associated with economic freedom, though some (e.g. [efe6]) come to an opposite conclusion. Historically, communist countries have tended to have poor environmental records [socialism_record5][socialism_record1][socialism_record3][socialism_record4][socialism_record2], though the presence of environmental parties within a democratic framework was found to help the environment [environmental_parties]."
+		]
+	},
+	{
+		"name":"Economic Growth",
+		"content":[
+			"Economic growth, as it manifests itself as the demand for more goods and services, is the main factor driving rising environmental impacts. Population growth and international trade are lesser factors driving impacts.",
+			"-material_sda.jpg",
+			"!The main objective of an SDA is to determine the factors that drive increase or decrease in environmental impacts. This study breaks down the total growth in material usage from 1990-2010 (+33 billion tons total, from 37 to 70 billion tons). The 78 billion tons for final demand, for example, mean that total material usage would have grown 78 billion tons if final demand grew as in reality and all other factors stayed the same. The -66 for material efficiency means that if material efficiency happened as in real life, and everything else stayed the same, total material usage would have gone down 66 billion tons. These figures are mathematical formalisms, as negative resource usage is clearly impossible. \"Production recipe\" refers to the structure, but not the size, of inputs into final goods. \"Import structures\" refers to material moving, via imports, from generally more to less efficient countries. Source: Plank et al. [material_sda].",
+			"Similar results hold for global CO<sub>2</sub> emissions [co2_sda].",
+			"Due to the importance of consumption growth in driving environmental impacts, several authors have called for an end or reversal to economic growth, known as degrowth (for example, see [degrowth4], [degrowth2], [degrowth1], [degrowth5], [degrowth3]). See our analysis of <a href=\"/solution/habitat/wellbeing_socio\">well-being</a> for the impact of growth of human well-being in particular."
+		]
+	},
+	{
+		"name":"Far Right Ecologism",
+		"content":[
+			"Far right ecologism, known pejoratively as ecofascism, sits at the intersection of evironmental or ecological thinking and right wing political movements. Some (alleged) representatives of far right ecological thought include Garrett Hardin's Lifeboat Ethics [hardin], the Unabomber Manifesto [unabomber], environmental opposition to immigration [neumayer], some anxiety about \"overpopulation\" [dyett], and that disasters such as the COVID-19 pandemic are good for the Earth [newton], among other views."
+		]
+	},
+	{
+		"name":"Impact Investing",
+		"content":[
+			"Impact investing is a form of financial investing with social goals, such as environmental protection or labor standards. Today and in the foreseeable future, ESG (environmental, social and corporate governance) divestitures are too small to have a meaningful impact on investment decisions [impact_investing]."
+		]
+	}
+]

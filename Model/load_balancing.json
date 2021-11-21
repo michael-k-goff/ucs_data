@@ -1,0 +1,46 @@
+[
+	{
+		"content": [
+			"The supply and demand of power on a grid must be nearly identical at all times. This is a challenge regardless of the source of electricity, and the challenge compounds with large sources of intermittent energy."
+		]
+	},
+	{
+		"content": [
+			"Major sources of electricity have the following grid integration costs, though they vary widely depending on local grid conditions.",
+			"-integration_costs.jpg-60",
+			"!Sources: Agora Energiewende [agora], Change et al. [brattle], Hirth et al. [hirth], Nuclear Energy Agency [system_costs].",
+			"The main source of integration costs for wind and solar is transmission, as power plant sites tend to be far from demand centers. At current renewable levels, load balancing costs are smaller [agora].",
+			"As renewable penetration grows, electricity prices are depressed at the times when renewables are most productive, hurting their economics.",
+			"-value_deflation.jpg-60",
+			"!Illustration of value deflation, or the phenomenon by which high renewable penetration hurts renewable economics. Source: MIT [future_of_solar].",
+			"Until better grid management options, such as <a href=\"/solution/energy/grid_storage\">storage</a> or <a href=\"/solution/energy/grid_design\">supergrids</a> are deployed, value deflation is an economic barrier to the growth of renewables."
+		],
+		"name": "Integration Costs"
+	},
+	{
+		"content": [
+			"Dispatchable power plants are those whose production can quickly be ramped up or down as needed. Such flexibility is needed on a power grid, especially in the presence of variable renewable generation [plant_types]. Natural gas, especially simple cycle, and hydropower are the most flexible dispatchable power options.",
+			"-ramp_rates.jpg-60",
+			"!Ramping rates, reported as the percentage of maximum power that a power plant can increase or decrease production per minute, and cold start time, reported as the number of minutes it takes for a power plant to go from being shut down to full power. Sources: DeHaan [ramp3], Nuclear Energy Agency [system_costs], Pescia [ramp1].",
+			"A rule of thumb is that every megawatt of wind capacity requires a megawatt of dispatchable backup [eurelectric]. Simple cycle gas plants are less efficient than combined cycle plants, and the act of cycling a baseload plant reduces efficiency, and so high renewable penetration balanced by thermal plant cycling may negate some of the expected greenhouse gas savings [coal_cycling]. Nuclear plants are generally not run in a flexible manner, due to high capital costs and low fuel costs, but they can be built or retrofitted for greater flexibility [ramp2]."
+		],
+		"name": "Dispatchable Power"
+	},
+	{
+		"content": [
+			"At times of negative wholesale electricity prices, curtailment of power sources may be necessary. Due to the expense of shutting down and restarting fuel-burning plants, renewables sources are more likely to be curtailed [eurelectric]. Following are estimates of curtailment rates in leading renewable grids [curtailment3][curtailment1][curtailment2].",
+			"-curtailment.jpg-60",
+			"!Rates of curtailment and share of variable renewable on the power grid for select regions. Sources: California ISO [curtailment3], Joos and Staffell [curtailment1], and Ye et al. [curtailment2]. China's high curtailment rate is a result of poor planning, not a fundamental limit on renewable penetration [curtailment2].",
+			"By overbuilding solar and curtailing 20-40% of generation, it is possible to convert solar power into a firm source, and this may be a cheaper solution to intermittency than storage [solar_overbuild]. It is estimated that wind power can grow to as much as 50% of peak grid capacity before curtailment cuts deeply into wind power profitability [hart_wind]."
+		],
+		"name": "Curtailment"
+	},
+	{
+		"content": [
+			"Demand response is a practice of using real-time price signals or other methods to regulate electricity demand. With achievable participation rates, demand response could reduce peak electricity demand by 138 GW, relative to the 950 GW peak demand with no demand response [ferc_dsm]. A demand response program could increase the economic solar carrying capacity in Florida by 0.5-2% of total electricity [florida_dr]. The usefulness of demand response in renewable integration is limited by the fact that it can shift demand by only a few hours [germany_dr].",
+			"Geographic dispersion of wind energy can reduce volatility by up to 70% [sovacool]. When wind farms in a grid are dispersed over 100 kilometers, volatility on the scale of hours drops off rapidly [hart_wind]. Combining multiple intermittent sources (solar, wind, wave, etc.) further reduces volatility [hart_wind].",
+			"Two other major load-balancing strategies are <a href=\"/solution/energy/grid_design\">changing the structure of the grid</a> and <a href=\"/solution/energy/grid_storage\">energy storage</a>."
+		],
+		"name": "Additional Load Balancing Strategies"
+	}
+]

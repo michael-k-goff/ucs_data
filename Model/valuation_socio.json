@@ -1,0 +1,26 @@
+[
+	{
+		"content":[
+			"In this section, we examine several potential forms of environmental pricing and how valuing environmental goods can help make decisions."
+		]
+	},
+	{
+		"name":"Ecosystem Services",
+		"content":[
+			"Estimated values of ecosystem services are approximately equal to the formal world gross domestic product.",
+			"-ecosystem_services.jpg-60",
+			"!Values by biome are presented by Costanza et al. [costanza] in terms of dollars (2020) per hectare per year. Values by biome are gross global totals, estimated by de Groot et al. [degroot]. Valuations differ slightly between the two sources.",
+			"In using ecosystem service valuation, several points need to be kept in mind. Valuations by biome are global averages across studies reported in the Ecosystem Services Partnership [esp], and even for the same biome estimates can vary widely depending on location and study methodology. Local use of habitat valuation should be based on local measurements, rather than global averages. Valuations are based on instrumental value of ecosystems for human needs and do not take into account a conservationist ethic."
+		]
+	},
+	{
+		"content": [
+			"The social cost of carbon is an attempt to monetize future damages from greenhouse gas emissions. Following are select estimates of damages.",
+			"-scc.jpg-60",
+			"!Select estimates of the social cost of carbon, assessed per ton of CO<sub>2</sub>, 2019 USD. Sources: Interagency Working Group on Social Cost of Carbon [social_cost_carbon], Moore and Diaz [stanford_scc], Nordhaus [scc_nordhaus], and Wang et al. [scc_meta]. A major source of variation in SCC estimates is the discount rate, or the extent to which future economic damage should be valued less than present costs. Rennert and Kingdon [rennert] illustrate how an SCC estimate can vary by discount rate.",
+			"Major damages in climate economic modeling include rising sea level, severe weather, wider range of tropical disease, direct impact of heat, and increased cooling costs. Models generally take into account the benefits of lower heating costs and CO<sub>2</sub> fertilization of crops [scc_cat]. Most countries will be harmed by climate change, with India hit particularly hard, though Russia, Canada, and Scandinavian countries could benefit [scc_country].",
+			"Throughout Urban Cruise Ship, unless stated otherwise, we use a social cost of carbon of $50/ton CO<sub>2</sub>e. This translates to 45 &cent;/gallon for gasoline [eia_gas]."
+		],
+		"name": "Social Cost of Carbon"
+	}
+]

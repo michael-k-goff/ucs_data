@@ -1,0 +1,48 @@
+[
+	{
+		"content":[
+			"In this section, we review some options for material recovery facilities and their costs."
+		]
+	},
+	{
+		"name":"Material Recovery Facilities",
+		"content":[
+			"Since waste management is typically either publicly run or highly regulated, the industry might not respond efficiently to market signals. Cities can invest directly in single stream or mixed waste material recovery facilities (MRF), which collect and sort mixed waste, diverting economically useful materials for reprocessing.",
+			"-mrf_cost.jpg",
+			"!All cost figures are CPI-adjusted to 2020 and assess the total capital, operating, and infrastructure cost of running a MRF. Sources: [mrf2][mrf3][mrf4][monty_recycling][mrf1][resource_recycling]. Other studies confirm this price range [kessler][serdc].",
+			"With prices of recycled commodities <a href='https://www.theguardian.com/environment/2015/jun/27/recycling-unprofitable-oil-china-dollar'>highly variable</a>, municipalities should evaluate whether investment in an advanced MRF makes sense, taking externalities into account."
+		]
+	},
+	{
+		"name":"Value of Recycled Materials",
+		"content":[
+			"The cost of a material recovery facility can be partially offset by the sale of recovered materials. The following prices were observed in 2018.",
+			"-mrf_comm_price.jpg",
+			"!Commodity prices are reported in a 2018 presentation and fluctuate over time. MSW commodities by mass do not add to 100% due to incomplete characterization. Source: [mrf_economics]."
+		]
+	},
+	{
+		"name":"Other Recycling Options",
+		"content": [
+			"The city of San Jose, California has achieved a 74% recycling rate through a <a href='https://www.epa.gov/transforming-waste-tool/less-waste-case-study-san-jose-ca'>franchise system</a>, under which the city offers exclusive waste handling contracts with mandates or incentives for high recycling rates.",
+			"Deposit-return systems are effective tools for recovering high-value beverage containers.  The system works by adding a charge on the price of beverage containers, which is refunded when the container is returned.  In the United States, recovery of bottles and cans was 82% in 2002 in the state of Oregon, which has a deposit-return program.  The figure is only 30% in states without such a program [peck]."
+		]
+	},
+	{
+		"name":"Use of Recycled Materials",
+		"content":[
+			"Here we consider the prospects for reusing material recovered from municipal solid waste.",
+			"<b>Composting</b>",
+			"There will almost certainly be market demand for any amount of compost that would feasibly be produced.",
+			"-compost_demand.jpg",
+			"!Source: [compost_battelle]. Souces of compost assessed include municipal solid waste, biosolids (products from wastewater treatment), horticultural and silvicultural (forestry) waste, and agricultural waste. Although the study is old, we expect the basic conclusion, that there is sufficient demand for any amount of compost that could reasonably be produced, remains true.",
+			"The average American <a href=\"/solution/waste/waste_composition\">generates</a> almost a third of a ton of yard and food waste per year. Of 94 facilities examined in a recent survey, 17 composted fewer than 5000 tons of organic matter per year [compost_survey], and so a compost facility can be viable serving as few as 15,000 residents, though larger facilities tend to have lower per-ton costs [compost_cca].",
+			"<b>Injection Molding</b>",
+			"It is possible to use fibers that are not widely otherwise recycled, such as agricultural waste [molding1], degraded paper fibers [molding1], or plastics other than HDPE and PET [molding2], for injection molding to make plastic parts. Recycled material saves energy relative to injection molding with virgin material.",
+			"-energy_molding.jpg",
+			"!Source: [molding1].",
+			"<b>Aggregates</b>",
+			"Construction aggregates refer to a range of particulate construction material, including sand and gravel. Recycled material, such as construction and demolition waste, fly ash, can be used in place of freshly mined material [rca1]. Recycled aggregates tend to be cheaper than virgin aggregates, but their mechanical properties are often inferior [rca2]. About three quarters of aggregates used are for non-structural purposes [rca2], creating an opportunity for recycled material, and recycled aggregates can be used for some structural purposes as well [rca3]."
+		]
+	}
+]

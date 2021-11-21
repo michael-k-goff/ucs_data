@@ -1,0 +1,58 @@
+[
+	{
+		"content":[
+			"Concerns that humanity may run out of natural resources date at least as far back at Thomas Malthus [malthus], who at the dawn of the Industrial Revolution argued that food supply should grow arithmetically, population should grow geometrically, and thus any country will eventually be pushed to subsistence. More recently, Paul Ehrlich argued in 1968 that there would be near-term, unavoidable famines due to overpopulation [ehrlich]. Starting in 1972, the Club of Rome has echoed the similar concern that a growing world population will lead to the exhaustion of food and other resources [limits_growth].",
+			"Such concerns have not generally materialized. By contrast, Julian Simon argued in 1980 that, given a credible threat of resource shortage, the price signal would bring about new supply or technological substitution [popecon5].",
+			"Taken together, commodities have generally become cheaper over time, even relative to population.",
+			"-simon_abundance.png",
+			"!The Simon Abundance Index tracks how the price of a basket of commodities has evolved with time. From 1980 to 2017, the price of commodities fell by almost two thirds and world population increased by almost 70%. Source: Pooley and Tupy [simon_ab]. Figure licensed by the Cato Institute under the <a href=\"https://creativecommons.org/licenses/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+		]
+	},
+	{
+		"name":"Energy",
+		"content":[
+			"Since the beginning of the oil age, there has been much concern about when an ultimate peak in oil production would occur. As energy is linked to other commodities, a sustained rise in energy, especially oil, prices would likely raise the price of other commodities [energy_comm2][energy_comm1][energy_comm3].",
+			"Recent predictions have de-emphasized geologic limits to oil production and emphasized limits to demand. Following are some select predictions.",
+			"-peak_oil.jpg",
+			"!Sources: [oil_peak_1953][deffeyes_peak][hubbert_peak2][hubbert_peak][energy_forecast][oil_peak_1919][yergin_peak].",
+			"Past projections about peak oil have often failed to take into account responses to price and new technology and thereby been too pessimistic [gold_peak_oil]. For example, the United States followed the peak-and-decline prediction of M. King Hubbert [hubbert_peak] fairly well until 2005, after which production began rising due to the proliferation of hydraulic fracturing [patterson]. In 2018, the United States exceeded the 1970 peak [cnbc_oil].",
+			"Historically, oil availability has <a href=\"/solution/energy/economics_se\">increased incomes</a>, and oil shortages and periods of high prices have been linked with recessions [oilshocks][imf2011]. A protracted period of high prices and dwindling oil supply is likely to cause severe hardship for the world's population, unless this energy has a suitable replacement. An estimated 20 years of research and development into alternatives, in advance of peak oil, would be needed to avoid hardship [hirsch_report].",
+			"-income_elasticity.jpg-60",
+			"!Estimated increase in energy consumption with a 10% increase in income. Source: IMF [imf2011].",
+			"Despite abundant reserves, the peak in coal production was in 2013 [iea_coal]. The International Energy Agency expects this peak to hold at least to 2025, and perhaps forever, due to declining demand and climate policies [iea_coal].",
+			"The eventual peak of natural gas production has been estimated at around 2035 [peak_gas2] or beyond 2040 [peak_gas1].",
+			"At current rates and known reserves, uranium production has been predicted to last for 65 years [wec2016], 100 years [uranium_reserves2], or multiple centuries [uranium_hopf], and the ultimate peak date has been estimated at 2076 [peak_uranium]. If unconventional sources of uranium, such as from sea water or breeder reactors are developed, then the supply may be effectively unlimited."
+		]
+	},
+	{
+		"name":"Farmland",
+		"content":[
+			"The world is generally better fed today than in the past.",
+			"-food_adequacy.jpg",
+			"!Source: Food and Agriculture Organization [fao_stats].",
+			"Due to improved yields and declining population growth, not much additional land for harvesting crops is expected to be needed after 2030.",
+			"-ag_projections.jpg",
+			"!Industrial crops (e.g. fiber crops, rubber) and cash crops (e.g. coffee, tea, tobacco) are included in estimates of harvested land and crop production. Source: FAO [fao_projection].",
+			"Climate change is expected to have a negative impact on crop yields.",
+			"-climate_yields.jpg",
+			"!Source: [climate_yields]. Several other studies, e.g. [climate_yields3] and [climate_yields2], also find that climate change will depress crop yields.",
+			"Both the potential increase in farmable land, estimated by the FAO [fao_yield_proj] and World Bank [wb_arable], and expected increased farmland needs as estimated by the FAO [fao_projection] are about 30%. If food prices rise due to perceived shortage, producers can be respond with, for example, high-yield agriculture such as <a href=\"/solution/foodwater/indoor\">greenhouses</a>. For these reasons we regard famine, as a result of inability grow enough food, to be an unlikely prospect, but there is a danger of growing environmental impacts from agriculture and higher prices."
+		]
+	},
+	{
+		"name":"Metals and Minerals",
+		"content":[
+			"Several metals and minerals also raise concerns about depletion or overuse. A select few are reviewed as follows.",
+			"<b>Sand</b>",
+			"Sand is ubiquitous on the Earth's surface, but the right kind of sand, with coarse properties, is more scarce. World production is 40-50 billion tons per year, used in largest parts for building construction and land reclamation, as well as glass, ceramics, and other uses [sand_production], while 12.6 billion tons per year are created through natural weathering processes [mining_tech_sand]. Beyond potentially excessive resource use, sand mining, especially from rivers and sea shores, carries environmental and social sustainability problems [e360_sand]. The price of sand in the United States has been going up in the 2010s.",
+			"-sand_price.jpg",
+			"!Sources: Yahoo&#33; Finance [yahoo_sand] and YCharts [ycharts_sand]. Monetary values are CPI-adjusted to 2020.",
+			"<b>Metals</b>",
+			"There should not be a peak in copper and other metals strictly as a result of depletion, but declining ore quality and weakening demand are expected to lead to peaks at the following dates.",
+			"-peak_metals.jpg",
+			"!Estimated peak dates are for primary metal consumption; peak may be later when recycling is taken into account. Source: Sverdrup et al. [peak_copper].",
+			"<b>Phosphorous</b>",
+			"World economical reserves of phosphate rock, the main source of the critical element phosphorous in fertilizers, are between 60 [ifdc] and 69 billion [usgs2016] tons, or about 270-310 years of production at 2014 levels [usgs2016]. However, most known reserves are in Morocco [usgs2016], posing a risk to security of supply, and reserve estimates are in doubt [phosphate_critique]. There is not a clear reason to worry, but a thorough audit of reserves from an organization such as the Food and Agriculture Organization of the United Nations would be of value."
+		]
+	}
+]

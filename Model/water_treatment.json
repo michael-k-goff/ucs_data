@@ -1,0 +1,50 @@
+[
+	{
+		"name":"Source of Water",
+		"content":[
+			"Worldwide, most water withdrawals are fresh water from surface or ground sources, with small amounts from treated, recycled, or desalinated water.",
+			"-water_source.jpg-60",
+			"!Source: AQUASTAT [aquastat]."
+		]
+	},
+	{
+		"name":"Cost of Water Provision",
+		"content":[
+			"Worldwide, water treatment and distribution requires 10.2 exajoules of primary energy, almost 2% of the world total consumption, and about 4% of world electricity [cooling]. The energy intensity of water may vary widely depending on how it is treated and distributed.",
+			"-water_supply.jpg-60",
+			"!Sources: Gandiglio et al. [gandiglio], IRENA [irena_desal], Pan et al. [cooling], Reekie [epri_water], WaterReuse [desal_energy].",
+			"In expensive coastal water markets such as California, desalinated water can be competitive with conventional options and serve as a backstop against the risk of shortage. However, desalination makes little sense where freshwater sources are abundant.",
+			"-water_cost.jpg-60",
+			"!Sources: Cooley et al. [cooley], Ghaffour et al. [kaust_desal]."
+		]
+	},
+	{
+		"content": [
+			"Most wastewater today is discarded without treatment, but in principle it can mostly be recycled, extending freshwater resources and reducing pollution.",
+			"-water_treatment.jpg-60",
+			"!Sources: UN [un_water2014], Water Authority of Israel [israel_water].",
+			"In theory, the energy that can be extracted from wastewater exceeds the energy required for treatment by a factor of 5-10 [us_nexus], and in practice, emerging technology might make wastewater recovery a net energy producer [us_nexus]. Electricity, biogas, hydrogen, and nutrients can potentially be extracted from wastewater [us_nexus].",
+			"The United States treats about 47 km<sup>3</sup> wastewater per year, which, if fully recycled, would supply about 10% of total water withdrawl [us_ww]."
+		],
+		"name": "Waste Water Treatment"
+	},
+	{
+		"content": [
+			"Desalination is currently a niche but rapidly growing source of water [un_water2014].",
+			"Desalination has several significant environmental impacts. Aquatic organisms are entrapped or entrained by the intake or processing equipment. Additionally, discharge of the highly saline brine, which may be mixed with harmful chemicals and heavy metals, harms marine life [pacific_mar]."
+		],
+		"name": "Desalination"
+	},
+	{
+		"content": [
+			"Better use of captured rainwater can mitigate the need for irrigation, costly treatment, groundwater depletion, or desalination. It is estimated that rainwater harvesting could reduce the world need for water withdrawal by 500 km<sup>3</sup> per year [rainwater_potential], or a bit over 10% of current withdrawal, though the economic potential is uncertain."
+		],
+		"name": "Rainwater Capture"
+	},
+	{
+		"name":"Atmospheric Water Generation",
+		"content":[
+			"Even in deserts, the atmosphere contains water vapor that can, in principle, be collected as potable water. One vendor advertises a power consumption of 130 to 250 kWh per cubic meter of collected water, depending on atmospheric conditions [awg5000], perhaps suitable for drinking water where there are no other options, but prohibitive to supply water on a large scale."
+		]
+	}
+]

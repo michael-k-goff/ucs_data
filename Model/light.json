@@ -1,0 +1,33 @@
+[
+	{
+		"name":"Extent",
+		"content":[
+			"Light pollution, characterized by the presence of unwanted light at night, is a pervasive and growing phenomenon.",
+			"-lp_extent.jpg",
+			"!Total nighttime lights (TNL) is a measure of total light that is visible in the atmosphere of a region. See Hu and Zhang [tnl] for technical details on how TNL is defined. Light pollution is characterized by the presence of artificial light that is at least 8% of natural light at the darkest point, around 1 AM [lp_stats]. The Milky Way becomes invisible when artificial light exceeds about 400% of natural light [lp_stats]. Sources: Hu and Zhang [tnl] and Falch et al. [lp_stats].",
+			"Street lights receive heavy attention as a contributor to light pollution, though recent satellite observations in Tucson, Arizona found that street lights contribute 16-21% of overall light pollution [tucson]. Other major contributors include building lighting, car lights, fishing boats, cruise ships, security lights, vehicles lamps, offshore oil platforms flares, and undersea research vessels [lp_sources].",
+			"Modern technology, and particularly computer technology, has created for many people an additional exposure to light at night.",
+			"-lp_exposure.jpg",
+			"!Source: Bedrosian and Nelson [light_exposure]. Smartphone exposure is estimated at 40+ blux, which is a weighted measure of light intensity based on circadian-response frequencies."
+		]
+	},
+	{
+		"name":"Effects",
+		"content":[
+			"Excess light at night has been shown to disrupt the circadian rhythm, interfering with sleep, and harm a person's mood [lp_health1]. Additionally, evidence suggests that night light stimulates bodily hormone production, increasing the risk of breast and prostate cancer [lp_health2].",
+			"Light pollution has been implicated in a wide range of disruptions to ecosystems. To give a few examples, light pollution interferes with some insect behavior and may be a major factor in overall insect population declines [lp_insect]; light pollution interferes with zooplankton growth and causes algae blooms [lp_algae]; light from tall buildings attacts birds and contributes to bird deaths [lp_birds]; and light pollution contributes to the loss of sea turtles by disrupting their travel behavior [lp_turtle]."
+		]
+	},
+	{
+		"name":"Mitigation",
+		"content":[
+			"Street light are a major contributor to light pollution. Over half the light produced by a typical street light is wasted.",
+			"-streetlight.jpg",
+			"!Source: Chepesiuk [lp_streetlight].",
+			"Designs of streetlights that prevent light from traveling at or above the horizontal plane greatly reduce skyglow and glare [lp_streetlight].",
+			"Light emitting diodes (LEDs) are attractive for their long lives and energy efficiency, but LEDs, at high frequencies in particular, may perform worse than alternatives from a light pollution standpoint. For this reason, astronomers, who are particularly sensitive to light pollution, prefer low pressure sodium lights.",
+			"-light_type.jpg",
+			"!Numbers are how effective lights are on three metrics related to light pollution per lumen (unit of light) generated. Numbers are normalized so that the Sun is 1.0. Lower numbers mean lesser amounts of light pollution for a given amount of light. The filters refer to Ledtech's <i>Equilib</i> filter. The atmosphere is more effective at scattering high frequency light, so yellow and amber lights, such as low pressure sodium lamps, generally perform better than white and blue lights, especially blue LEDs. Source: [lp_lighttype]."
+		]
+	}
+]

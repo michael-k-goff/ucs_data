@@ -1,0 +1,382 @@
+[
+	{
+		"url": "society",
+		"intro": "In this section, we review major envionmental and social challenges. Production and use of energy are primary drivers of air pollution and climate change, while agriculture is the primary driver of human land use. We also present key data on the relationships between energy, human population, and human well-being.",
+		"name": "Society",
+		"icon": "society_icon.png",
+		"solutions": [
+			{
+				"url":"society_overview",
+				"name":"Overview of Energy, Society, and the Environment"
+			},
+			{
+				"url":"wellbeing",
+				"name":"Well-Being"
+			},
+			{
+				"url":"health",
+				"name":"Health and Safety"
+			},
+			{
+				"url": "land_use",
+				"name": "Land Use and Biodiversity"
+			},
+			{
+				"url":"air_pollution",
+				"name":"Air Pollution"
+			},
+			{
+				"url": "climate",
+				"name": "Climate Change"
+			},
+			{
+				"url":"ozone",
+				"name":"Ozone Layer"
+			},
+			{
+				"url":"geopolitics",
+				"name":"Geopolitics of Energy"
+			}
+		]
+	},
+	{
+		"url": "economy",
+		"intro": "The economy is becoming more efficient in generating wealth per unit of energy. However, improved energy efficiency and the development of new sources also tend to increase consumption.",
+		"name": "Economics",
+		"icon": "economics_icon.png",
+		"solutions": [
+			{
+				"url":"economics_overview",
+				"name":"Overview of Energy in the Economy"
+			},
+			{
+				"name":"Environmental Valuation",
+				"url":"valuation"
+			},
+			{
+				"url": "population",
+				"name": "Population and Energy"
+			},
+			{
+				"url": "energy_intensity",
+				"name": "Economic Energy Efficiency"
+			},
+			{
+				"url": "economics",
+				"name": "Macroeconomics of Energy"
+			},
+			{
+				"url": "rebound",
+				"name": "Rebound Effect"
+			},
+			{
+				"url":"policy",
+				"name":"Clean Energy Deployment"
+			}
+		]
+	},
+	{
+		"url": "energy_production",
+		"intro": "Today's energy system is dominated by fossil fuels: coal, natural gas, and oil. Among potential alternatives, hydropower and nuclear fission play important roles but are now relatively stagnant; solar and wind are small but rapidly growing options; and geothermal, ocean, and fusion power play niche roles or are still under development, but they may have great potential in the future.",
+		"name": "Energy Production",
+		"icon": "energy_production_icon.png",
+		"solutions": [
+			{
+				"url": "production",
+				"name": "Production Overview"
+			},
+			{
+				"url": "energy_env",
+				"name": "Environmental Impacts of Energy"
+			},
+			{
+				"url": "coal",
+				"name": "Coal"
+			},
+			{
+				"url": "gas",
+				"name": "Natural Gas"
+			},
+			{
+				"url": "petroleum",
+				"name": "Oil"
+			},
+			{
+				"url": "bio",
+				"name": "Biomass and Biofuels"
+			},
+			{
+				"url": "hydro",
+				"name": "Hydropower"
+			},
+			{
+				"url": "nuclear",
+				"name": "Nuclear Fission"
+			},
+			{
+				"url": "fusion",
+				"name": "Nuclear Fusion"
+			},
+			{
+				"url": "solar",
+				"name": "Solar Power"
+			},
+			{
+				"url": "wind",
+				"name": "Wind Power"
+			},
+			{
+				"url": "geothermal",
+				"name": "Geothermal"
+			},
+			{
+				"url": "mhk",
+				"name": "Ocean"
+			}
+		]
+	},
+	{
+		"url": "energy_distribution",
+		"intro": "In this section, we present key data on the forms in which energy can be transported and used. The main issues in the power grid are in overall design, reliability--particularly with the advent of variable energy power sources--and storge of electricity. We review the roles, possibilities, and limitations of hydrogen, ammonia, methanol, synfuels, and methane as fuels. We also review the distribution of fossil fuels, which may remain important as a distribution network of fuels of non-fossil origin.",
+		"name": "Energy Distribution",
+		"icon": "energy_distribution_icon.png",
+		"solutions": [
+			{
+				"url":"distribution_overview",
+				"name":"Distribution Overview"
+			},
+			{
+				"url":"transpo_fuels",
+				"name":"Transportation Fuels"
+			},
+			{
+				"url": "grid_overview",
+				"name": "Grid Overview"
+			},
+			{
+				"url": "load_balancing",
+				"name": "Load Balancing"
+			},
+			{
+				"url": "grid_design",
+				"name": "Grid Design"
+			},
+			{
+				"url": "grid_storage",
+				"name": "Electricity Storage"
+			},
+			{
+				"url": "hydrogen",
+				"name": "Hydrogen"
+			},
+			{
+				"url": "ammonia",
+				"name": "Ammonia"
+			},
+			{
+				"name":"Methanol",
+				"url":"methanol"
+			},
+			{
+				"url": "synfuels",
+				"name": "Synthetic Fuels"
+			},
+			{
+				"name":"Methane",
+				"url":"methane"
+			},
+			{
+				"url":"ff_transport",
+				"name":"Transportation of Fossil Fuels"
+			}
+		]
+	},
+	{
+		"url": "industry",
+		"intro": "Industry is the largest energy-consuming sector in the world economy. We compare major options for production of industrial heat--for which non-fossil fuel options are not yet readily available--and for major commodities such as iron and steel, chemicals and plastics, aluminum, paper and pulp, and cement. We review methods for capture, storage, and utilizing CO<sub>2</sub> and energy efficiency potential in design of industrial systems. Recycling, and to a lesser extent material reduction, are readily available tools to reduce the impacts of major commodities.",
+		"name": "Industry",
+		"icon": "industry_icon.png",
+		"solutions": [
+			{
+				"url":"industry_main",
+				"name":"Industry Overview"
+			},
+			{
+				"url": "industrial_heat",
+				"name": "Industrial Heat"
+			},
+			{
+				"name":"Chemicals",
+				"url":"chemicals"
+			},
+			{
+				"url": "major_commodities",
+				"name": "Steel, Cement, Aluminum, Paper"
+			},
+			{
+				"url": "ccs",
+				"name": "Carbon Capture and Sequestration"
+			},
+			{
+				"url": "recycling",
+				"name": "Recycling"
+			},
+			{
+				"url": "industrial_systems",
+				"name": "Industrial Systems"
+			},
+			{
+				"url": "material_reduction",
+				"name": "Material Reduction"
+			}
+		]
+	},
+	{
+		"url": "foodwater",
+		"intro": "Food and water are essential to human life, though agriculture is the leading human land use. We present key data on world dietary needs and options, and the land, energy, emissions, and water impacts of meeting those needs. We also consider the potential impacts of agricultural practices, such as organic farming, biotechnology, aquaculture, and intensive options such as greenhouses on overall impacts. We also show the main uses of water and options for providing and treating water.",
+		"name": "Food and Water",
+		"icon": "food_and_water_icon.png",
+		"solutions": [
+			{
+				"url":"ag_summary",
+				"name":"Food and Water Overview"
+			},
+			{
+				"url": "ag_overview",
+				"name": "Feeding the World"
+			},
+			{
+				"url": "ag_env",
+				"name": "Land Use, Energy, and Emissions in Agriculture"
+			},
+			{
+				"url":"nutrient",
+				"name":"Nutrient Cycles and Soil Health"
+			},
+			{
+				"url":"ag_diet",
+				"name":"Diets"
+			},
+			{
+				"url": "ag_practices",
+				"name": "Farming Practices"
+			},
+			{
+				"url":"ag_meat",
+				"name":"Meat and Animal Products"
+			},
+			{
+				"url": "ag_options",
+				"name": "Intensive Farming"
+			},
+			{
+				"url":"ag_dist",
+				"name":"Food Distribution"
+			},
+			{
+				"url": "water_consumption",
+				"name": "Water Usage"
+			},
+			{
+				"url": "water_treatment",
+				"name": "Water Provision"
+			}
+		]
+	},
+	{
+		"url": "cities",
+		"icon": "cities_icon.png",
+		"name": "Cities",
+		"intro":"In this section, we show how urban density is the most important determinant of the energy and land use impacts of cities, and we quantify how decisions in planning and zoning affect impacts. We also compare the impacts of residential heating options and demonstrate the building energy use savings potential from efficiency in lighting and appliances.",
+		"solutions": [
+			{
+				"url":"cities_overview",
+				"name":"Cities Overview"
+			},
+			{
+				"url": "density",
+				"name": "Urban Density"
+			},
+			{
+				"url": "urban_form",
+				"name": "Urban Form"
+			},
+			{
+				"url": "housing",
+				"name": "Housing"
+			},
+			{
+				"url": "heating",
+				"name": "Heating and Cooling"
+			},
+			{
+				"url": "building_energy",
+				"name": "Energy in Buildings"
+			},
+			{
+				"url": "zoning",
+				"name": "Zoning and Taxes"
+			},
+			{
+				"url":"new_cities",
+				"name":"Greenfield Cities"
+			}
+		]
+	},
+	{
+		"url": "transport",
+		"intro": "In this section, we review the advantages and impacts of different options for transportation. We consider transportation between and within cities, travel over short distances, movement of goods, processing and transfer of data, and travel in space. We emphasize that transportation systems exist in the context of cities, and urban design is a major determinant of transportation needs.",
+		"name": "Transportation",
+		"icon": "transportation_icon.png",
+		"solutions": [
+			{
+				"url":"transpo_overview",
+				"name":"Overview of Transportation"
+			},
+			{
+				"url": "transpo_systems",
+				"name": "Transportation and Land Use"
+			},
+			{
+				"url":"transpo_demand",
+				"name":"Induced Demand and Complementarity"
+			},
+			{
+				"url": "transpo_ghg",
+				"name": "Energy and Emissions in Transportation"
+			},
+			{
+				"url": "transpo_intercity",
+				"name": "Intercity Transportation"
+			},
+			{
+				"url": "transpo_commute",
+				"name": "Commuter Transportation"
+			},
+			{
+				"url": "transpo_cars",
+				"name": "Automobiles"
+			},
+			{
+				"url": "transpo_transit",
+				"name": "Mass Transit"
+			},
+			{
+				"url": "transpo_short",
+				"name": "Short Range Transportation"
+			},
+			{
+				"url": "transpo_freight",
+				"name": "Freight"
+			},
+			{
+				"url": "transpo_data",
+				"name": "Information Technology"
+			},
+			{
+				"url":"transpo_space",
+				"name":"Space"
+			}
+		]
+	}
+]

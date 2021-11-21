@@ -1,0 +1,52 @@
+[
+	{
+		"content":[
+			"In this section, we review several miscellaneous energy production proposals. None of the following have the potential to make a significant contribution to the world's energy mix for the foreseeable future."
+		]
+	},
+	{
+		"name":"Piezoelectric Generation",
+		"content":[
+			"Piezoelectricity is generated from pressure, such as under a floor or a roadway.",
+			"A study in Sydney, Australia, finds that, with improved technology, piezoelectric generators may be able to provide 0.5% of the electricity used by a central hub building at Macquarie University [piezo_building].",
+			"Studies have found that piezoelectricity from roadways [pizeo3][pizeo1][pizeo2] or airport runways [piezo_air] to be prohibitively expensive for general use, though research commissioned by the California Energy Commission claims a cost of $0.08-20/kWh, comparable to other distributed sources [pizeo4]. Not considered is the impact of the generators on vehicle fuel economy.",
+			"While not suitable for general electricity production, piezoelectric generators may be useful for low power sensors where battery replacements or grid hookups are expensive [piezo]."
+		]
+	},
+	{
+		"name":"Biomechanical Energy Harvesting",
+		"content":[
+			"The human body releases thermal and kinetic energy which can be harvested for personal electronics. We estimate a power potential of about 4 watts per person: 2 W of recoverable thermal energy [biomechanical2] and 2 W of recoverable kinetic energy [biomechanical]. The latter is based on 16 W of recoverable energy across four devices and assumes three hours of walking time per day. Applied to 7.6 billion people, biomechanical energy could yield about 1 exajoule of energy per year, or less than 0.2% of world primary energy. This figure does not account for additional exertion required of people wearing devices, the fact that it might not be feasible to wear many biomechanical devices simultaneously, or the energy required to produce the devices.",
+			"Biomechanical harvesting has military applications [biomechanical] and potential use for personal electronics, but could not make a meaningful contribution to overall energy supply."
+		]
+	},
+	{
+		"name":"Rainfall",
+		"content":[
+			"In theory, the kinetic energy of rainfall can be harvested for energy [rainfall]. However, the power density of a rainfall-powered generator has been estimated at 0.01 watts per square meter [rainfall2], or about 0.01% of power density of solar photovoltaics, far too low for practical power generation."
+		]
+	},
+	{
+		"name":"Zero-Point Energy",
+		"content":[
+			"Due the Heisenberg uncertainty principle, a quantum system even at zero temperature does not have zero energy. The residual motion that must remain is called zero-point energy. Zero-point energy is central to a number of major open questions in theoretical physics [zpe_overview], and it is hypothesized to be the dark energy that comprises 75% of the universe's mass-energy and drives the accelerating expansion of the universe [zpe_dark2][zpe_dark].",
+			"The Casimir effect is a force that arises from a quantized field, and it has been observed experimentally [casimir]. Exploitation of the Casimir effect for energy production has been attempted, without conclusive results [casimir2][casimir1].",
+			"Exploitation of negative entropy of quantum fluctuations could, in principle, allow a heat engine that transcends the Carnot limit, the maximum efficiency under thermodynamics [zpe_carnot]. Even more speculatively, under currently undeveloped theories of quantum gravity, zero-point energy could be used for gravitational shielding [zpe_grav1], anti-gravitational effects [zpe_grav2], traversable wormholes and time travel [zpe_wormhole], and warp drives [alcubierre]. NASA's Eagleworks Laboratories are conducting research into a quantum vacuum thruster, which in principle could allow spacecraft without onboard propellant [quantum_thruster].",
+			"Despite claims, no extraction of zero-point energy has been independently verified, and most researchers do not believe it will be possible, for the foreseeable future and perhaps not in principle, to extract usable zero-point energy [zpe_assessment1][zpe_overview][zpe_assessment2]. Due to a history of scams, claims of zero-point energy devices should be met with great skepticism [zpe_scam]."
+		]
+	},
+	{
+		"name":"Other Speculative Physics",
+		"content":[
+			"There are several proposed energy production systems based on speculative or pathological physical principles. As our understanding of physics remains incomplete, we cannot definitively rule out energy production based on unknown physics. However, the following should be regarded as highly implausible for the foreseeable future.",
+			"<b>Hydrinos</b>",
+			"Hydrinos are hypothetical hydrogen atoms in which the electron has fallen to an energy level below the ground state. Supposedly, energy can be extracted from the falling electron state [hydrino1]. Claims of energy production from hydrinos have not been indepedently verified and most physicists reject the hydrino model [hydrino4][hydrino3][hydrino5][hydrino2].",
+			"<b>Neutrinos</b>",
+			"Several companies claim to be able to capture usuable quantities of energy from neutrinos, but based on current understanding of physics, this is impossible. Since ordinary matter is mostly transparent to neutrinos, 1000 kilograms of matter would only be able to capture about 0.0001 neutrinos per second from the Sun, the main source of Earth's neutron flux [neutrino]. With energies up to 0.42 million electron-volts per neutrino, a 1000 kilogram apparatus would generate no more than about 7*10<sup>-18</sup> watts of power [neutrino]. An apparatus the mass of the Earth could generate up to about 40 kW, not enough to power a typical car.",
+			"<b>Quark Fusion</b>",
+			"It was recently discovered that it is possible for two heavy baryons to undergo fusion and produce a doubly charmed baryon, consisting of two charmed quarks and one up quark, a neutron, and 12 MeV of excess energy. The reaction generates about 10 times the energy per unit mass of fuel compared to conventional <a href=\"/solution/energy/fusion\">deuterium-tritium fusion</a>. However, the short lifetimes of the heavy baryons make the reaction unusable for energy production [quark_fusion].",
+			"<b>Perpetual Motion</b>",
+			"A perpetual motion machine is a device which supposely produces work without energy input, or which spontaneously converts thermal energy into mechanical work, violating the first or second laws of thermodynamics respectively, or operates entirely without friction [perpetual_motion]. As the principles of thermodynamics are firmly established, claims of perpetual motion or overunity devices should be met with extreme skepticism [ppm]. Common forms of perpetual motion include endless bands, energy towers, overbalanced wheels, and wheels with mercury [perpetual_motion2][perpetual_motion3]."
+		]
+	}
+]

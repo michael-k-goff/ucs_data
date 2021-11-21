@@ -1,0 +1,71 @@
+[
+	{
+		"content": [
+			"There is great abundance of water at the Earth's surfance, but most of it is difficult for humans to use.",
+			"-water_budget.jpg-60",
+			"!Source: Mohajan [mohajan].",
+			"On a global level, there is sufficient water available that can be harvested sustainably.",
+			"-water_resource.jpg-60",
+			"!Source: AQUASTAT [aquastat].",
+			"However, water is distributed unevenly and is not generally traded internationally due to its low value-to-bulk ratio [un_water2014]. Several countries, especially in the Middle East and North Africa, have water demands in excess of the renewable resource [aquastat] and must make up the difference through trade or <a href=\"/solution/foodwater/water_provision\">desalination</a>."
+		],
+		"name": "Earth's Water Budget"
+	},
+	{
+		"content": [
+			"Water usage is measured in three ways: withdrawal, consumption, and pollution. Withdrawn water may be returned to a river or lake in a usable form, while consumed water cannot because it is evaporated or polluted in a way that it cannot be used again.",
+			"-water_by_sector1.jpg-60",
+			"-water_by_sector2.jpg-60",
+			"!Figures for agricultural, municipal, and industrial water withdrawals are calculated from AQUASTAT data [aquastat]. Within industrial water, figures by energy sources are given by the IEA [iea_water]. As a share of agricultural water withdrawal, values for non-animal and animal products are given by Mekonnen and Hoekstra, [water_crops1] and [water_crops2] respectively.",
+			"Following are estimates of water consumption and pollution by major source.",
+			"-blue_grey_water.jpg-60",
+			"!Estimates of world water consumption (blue water) and pollution (grey water) by agricultural, industrial, and municipal sources. Source: Hoekstra and Mekonnen [blue_grey_water].",
+			"As countries industrialize, the proportions shift toward industrial and municipal usage, and away from agriculture [aquastat]. The United States withdraws water as follows.",
+			"-us_water2.jpg",
+			"!Withdrawals of water in the United States as of 2015 by usage. Source: U.S. Geological Survey [us_water2]."
+		],
+		"name": "Usage Trends"
+	},
+	{
+		"name":"Water in Agriculture",
+		"content": [
+			"Major families of crops require water as follows.",
+			"-water_crops.jpg-60",
+			"!Figures on plant-based crops are reported by [water_crops1], and figures on animal products are reported by [water_crops2]. The FAO's nutritive factors database [nutritive] is used to convert mass to calories for maize, wheat, almonds, and lettuce.",
+			"Drip irrigation reduces a farmer's water needs by about 30-50%, but this effect may be negated by reduced percolation into the soil [drip_irr]. Drip irrigation also helps reduce nitrogen requirements, soil erosion, and plant disease, but has a higher capital cost [drip_pm].",
+			"Highly <a href=\"/topic/foodwater/practices\">intensive</a> forms of farming, such as greenhouses and hydroponics, can also drastically cut water usage."
+		]
+	},
+	{
+		"name":"Water in Energy",
+		"content":[
+			"Power production consumes water as follows.",
+			"-img2019_06_11_elec_water.jpg-60",
+			"!With the exception of hydropower, most water is used for thermal cooling, and thus non-thermal plants generally have low water needs. Hydropower figures are not necessarily directly comparable to other power sources, due to the secondary uses of dams for such purposes as irrigation and flood control; with these effects accounted for, the net evaporation impact of hydropower could be zero [evap]. Estimates on water intensity of thermal generation and hydropower are taken from Tidwell and Moreland [tidwell], while estimates of the water intensity of wind and solar, and of fuel preparation, are from Spang et al. [spang].",
+			"More energy-efficient power plants generally require less water as well, and the water intensity of thermal power generation has been generally decreasing [us_nexus]. However, drilling unconventional oil and gas generally require more water than conventional oil and gas [un_water2014].",
+			"The method of cooling is a major determining factor in a thermal plant's water needs. Most commonly, there is a tradeoff between once-through plants, which withdraw large amounts of water, and closed loop systems, which withdraw less but consume more water through evaporation.",
+			"-power_cooling.jpg-65",
+			"!Source: Pan et al. [cooling].",
+			"Dry-cooling and hybrid systems are not yet widely used. They reduce both water withdrawal and consumption, but generally with lower energy efficiency and higher capital cost [us_nexus].",
+			"Cooling with lower-quality water, such as saline water [us_water] and municipal wastewater [ind_per], can reduce environmental impacts and save money."
+		]
+	},
+	{
+		"content": [
+			"Municipal water usage in particular trends to grow with urbanization and wealth, creating an infrastructure challenge for large cities in developing countries [un_water2014]. However, water demand shows signs of declining when high levels of wealth allow for efficiency.",
+			"-muni_water.jpg-60",
+			"!Source: UN [un_water2014].",
+			"There is significant potential for water savings for municipal and non-energy industrial usage.",
+			"-water_savings.jpg-60",
+			"!Sources: Chini et al. [water_appliances], Dieter et al. [us_water2], Rao et al. [industry_water], RECS [recs], WaterSense [epa_landscaping]."
+		],
+		"name": "Water in Cities and Industry"
+	},
+	{
+		"content": [
+			"Water is often subsidized or otherwise not priced in a manner to reflect its true costs, thereby encouraging overuse [un_water2014]. Most economists argue that water pricing is needed, and the efficient way to do this is set the price of water in a region equal to the marginal cost of provision [price_survey]. In practice, the complexities of water markets can make this challenging. Furthermore, water pricing is politically and socially difficult since this is often seen as hurting small farmers [water_pricing].",
+			"Water metering and submetering (such as meters for individual units in an apartment building) lead to more efficient water usage at the consumer level.  Metering can help identify leaks, and for individual consumers, metering has been found to reduce water usage by 20-40% [epa_conservation]."
+		],
+		"name": "Water Pricing"
+	}
+]

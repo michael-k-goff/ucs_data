@@ -1,0 +1,22 @@
+[
+	{
+		"content":[
+			"In this section, we compare several commonly-used and proposed transportation fuels."
+		]
+	},
+	{
+		"content": [
+			"Particularly for transportation fuels, high energy density is important, as a vehicle's fuel should take as little space and weight as possible. No commonly explored option is superior to petroleum-derived fuels--gasoline and diesel--in both gravimetric (by weight) and volumetric (by volume) density, which poses a major challenge in developing alternative fuel vehicles.",
+			"The following are estimates of the gravimetric and volumetric density of common and proposed transportation fuels. We consider both the energy content of the fuel itself (pre-combustion) and the useful work which the fuel can provide (post-combustion).",
+			"-fuel_density.jpg-60",
+			"!Gravimetric (by weight) and volumetric (by volume) density for common and proposed transportation fuels. Sources: Dana et al. [dana], Elert [hypertextbook], fueleconomy.gov ([carfuel] and [fueleconomy_ev]), Gibson et al. [propane_efficiency], Hydrogenics [hydrogenics], Iclodean et al. [iclodean], Lutsey [icct_diesel], Schlachter [battery_density], The Engineering Toolbox [toolbox], Energy Information Administration [eia_density], Valera-Medina et al. [ammonia_density]."
+		],
+		"name": "Energy Density"
+	},
+	{
+		"name":"Additional Considerations",
+		"content":[
+			"Several other factors need to be considered in assessing the merits of transportation fuels. Such factors include health and safety risks, ease of transporting and handling fuels, compatibility with existing infrastructure, costs of engines or fuels cells, and pollutants released upon combustion."
+		]
+	}
+]

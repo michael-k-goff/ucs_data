@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Uses of Wood",
+		"content": [
+			"The largest share of wood products are used for fuel.",
+			"-wood_products2.jpg-60",
+			"!Source: Food and Agriculture Organization of the United Nations [fao_wood2016], with detail on the paper categories from FAO [forest_yearbook].",
+			"World paper and paperboard demand is projected to grow to over 750 million tons per year by 2050 [cepi2050]."
+		]
+	},
+	{
+		"name":"Wood Impacts",
+		"content":[
+			"The United States paper industry has the following current and potential energy needs.",
+			"-paper_energy.jpg-60",
+			"!Sources: The EPA's WAste Reduction Model (WARM) [warm15] for paper from virgin pulp and recycling, and Miller et al. [paper_bandwidth] for best and potential new technology.",
+			"Paper can be recycled five to seven times before the fibers become too degraded [paper57].",
+			"Several alternatives to trees are under consideration as a source of fiber. The land use implications are as follows.",
+			"-fiber_land_use.jpg",
+			"!Fiber yields from several sources. Sources: Favero et al. al [paper_yield2] and Hart [paper_yield].",
+			"The advancement of information and communication technology has not necessarily reduced paper demand as one might expect. Access to the Internet appears to have decreased the demand for newsprint, but it may have increased the demand for office paper [hujala][latta]."
+		]
+	}
+]

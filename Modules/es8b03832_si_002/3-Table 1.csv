@@ -1,0 +1,8 @@
+,Direction,Ref,C0,Flow,Comment
+0,Input,,    43.2,"[MJ] Electricity, AC, consumption mix, at consumer [Intermediate flows]",
+1,Input,,     130,[kg] Wheat grains dried (14% H2O content) [Intermediate flows],
+2,Input,,    8.16,[kg] freshwater (CAS 007732-18-5) [Renewable material resources from water],
+3,Output,,    1.27,[kg] Organic waste [Intermediate flows],
+4,Output,,    11.7,"[kg] Water (waste water, untreated), industrial waste water according to the Directive 91/271/EEC concerning urban waste water treatment, at waste water treatment plant, organic contaminated (CAS 007732-18-5) [Intermediate flows]",
+5,Output,X,     100,[kg] Wheat White Flour [Intermediate flows],
+6,Output,X,    28.5,[kg] wheat bran [Intermediate flows],

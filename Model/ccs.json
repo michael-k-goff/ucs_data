@@ -1,0 +1,39 @@
+[
+	{
+		"content": [
+			"A carbon capture and sequestration/storage (CCS) system is designed to remove CO<sub>2</sub> at the source of emission, such as a coal or natural gas plant, or from the environment. The CO<sub>2</sub> can be stored in a sealed underground chamber or used for another purpose. Currently about 40 million tons of CO<sub>2</sub> are captured each year, about 0.1% of total emissions [ccs_institute].",
+			"For <a href=\"/solution/energy/industrial_heat\">industrial heat</a> and process emissions from <a href=\"/solution/energy/major_commodities\">major commodities</a>, CCS may be the only economically viable tool to reduce emissions by more than 30% [ccs2014]."
+		]
+	},
+	{
+		"name":"Cost",
+		"content":[
+			"We estimate the following costs of carbon capture from various industrial sources.",
+			"-ccs_abatement_cost.jpg-60",
+			"!Costs from industrial sources are given by Folger [folger] and the IEA ([ccs_roadmap] and [industry_ccus]). Costs from coal power are estimated by Gillingham and Stock [gillingham], Hardisty et al. [hardisty], Hu and Zhai [hu], and Rubin et al. [rubin]. Costs from natural gas are estimated by Budinis et al. [budinis] and Rubin et al. [rubin]. Fasihi et al. [dac] estimate the cost from direct air capture. The IPCC [ipcc_emissions] estimates the cost from bioenergy and carbon capture and sequestration (BECCS).",
+			"Seawater may also be a promising venue for extracting carbon dioxide [willauer], though reliable potential costs estimates are limited. Recent analysis suggests that the CO<sub>2</sub> abatement cost of synthetic diesel from seawater may range from $373 to $717 per ton [eisaman].",
+			"A major determinant in the monetary and energy costs of CO<sub>2</sub> capture is concentration, with lower costs from higher concentrations. The following are estimates of primary energy requires to capture a ton of CO<sub>2</sub> from various sources.",
+			"-ccs_energy_cost.jpg-60",
+			"!Sources: Malins [electrofuel_overview] and von der Assen et al. [vonderassen], with primary energy conversion given by the Building Energy Codes Program [energycode]."
+		]
+	},
+	{
+		"name":"Sources of carbon",
+		"content":[
+			"While industrial sources of carbon tend to be cheaper than diffuse sources such as direct air capture, only limited amounts of them are available, and fossil fuel-based sources in particular will hopefully be phased out eventually. Following are estimates of how much carbon will be available at midcentury from non-fossil sources.",
+			"-c_sources.jpg",
+			"!Source: [irena_methanol]."
+		]
+	},
+	{
+		"name":"Usage and Storage",
+		"content":[
+			"Most captured CO<sub>2</sub> today is used for enhanced oil recovery, with most of the remainder stored geologically.",
+			"-ccs_usage.jpg",
+			"!Source: Global CCS Institute [ccs_institute].",
+			"A barrel of oil releases about 500 kg of CO<sub>2</sub>, and if CO<sub>2</sub> enhanced oil recovery is used, about 300-600 kg CO<sub>2</sub> are injected into the well [co2eor].",
+			"Potential future uses of captured CO<sub>2</sub> include <a href=\"/solution/energy/methanol\">methanol</a>, <a href=\"/solution/energy/synfuels\">hydrocarbons</a>, <a href=\"/solution/energy/methane\">methane</a>, mineralization into building materials, working fluids for <a href=\"/solution/energy/coal\">coal</a> and <a href=\"/solution/energy/geothermal\">geothermal</a> power plants, fertilizing plant growth in <a href=\"/solution/energy/ag_options\">greenhouses</a> [co2_greenhouse], feedstock for the <a href=\"/solution/energy/chemicals_energy\">chemical industry</a>, and several niche industrial uses [iea_ccs][ccs_survey].",
+			"If CO<sub>2</sub> is captured from fossil fuels or cement, and then used to produce synthetic fuels, the overall process may have lower emissions than the conventional alternative, but it is not a true low-carbon process. Rather, in this scenario, each molecule of CO<sub>2</sub> is emitted over two processes rather than one."
+		]
+	}
+]

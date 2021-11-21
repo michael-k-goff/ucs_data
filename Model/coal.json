@@ -1,0 +1,47 @@
+[
+	{
+		"content": [
+			"Coal remains dominant in the electricity sector, providing 38% of the world's electricity production [iea_electricity]. The absolute growth rate of coal exceeds all other energy sources, with almost all of the growth occurring in developing countries [wec_survey]."
+		]
+	},
+	{
+		"content": [
+			"Most mainstream estimates for the cost of coal power range from 6 to 12 &cent;/kWh.",
+			"-Cost of Coal Power.jpg-65",
+			"!Sources for cost estimates: Electric Power Research Institute [epri_lcoe], IEA, NEA, and OECD [lcoe2015], Kost et al. [fraunhofer], Lazard [lazard], Logan et al. [nrel_lcoe], OpenEI [openei], EIA [eia_lcoe]. For more about carbon capture and sequestration, see [epri_lcoe][nrel_lcoe][eia_lcoe]."
+		],
+		"name": "Cost"
+	},
+	{
+		"content": [
+			"The following estimates the damages from coal power from mercury, other air pollution, mining, climate change, and other damages.",
+			"-coal_externality.jpg-60",
+			"!Climate damages assume 820 grams CO<sub>2</sub>-equivalent per kilowatt-hour at a social cost of carbon of $50/ton [social_cost_carbon], air pollution figures are from Samadi [samadi], and other figures are from Grausz [grausz]. Major pollutants from coal power are sulfur dioxide (SO<sub>2</sub>), nitrous oxide (NO<sub>x</sub>), particulate matter, and heavy metals, particularly mercury, each of which causes serious health damage to humans and economic damages. The damages are estimated at 1.27-1.84 &cent;/kWh [samadi], though vary widely due to differences in pollution controls [nrc_external]. Enhanced pollution controls should lower damages in the future. Epstein's mean estimate of 18.8 &cent;/kWh [coal_externality] of all coal damages is higher than most others. Coal transportation damages are given by Hein and Howard [coal_external]. Coal mining, particularly mountaintop removal, cause significant additional ecological impact. Unquantified are external costs associated with coal ash disposal."
+		],
+		"name": "Pollution"
+	},
+	{
+		"content": [
+			"Plant efficiency, achieved by running the boilers at higher pressures and temperatures, reduce the per-kWh impact of coal power. The most efficient plants would save 25% CO<sub>2</sub> relative to today's norm, but they require advanced materials and are more expensive. Estimates of the efficiency of current and future coal plants are as follows.",
+			"-coal_efficiency.jpg-60",
+			"!Efficiency of the current world coal plant fleet and different state-of-the-art models. Sources: Beér [beer], Cebrucean et al. [cebrucean], General Electric [ge_coal], Industrial Efficiency Technology Database [ietd].",
+			"Over time, the impact of pollution has been lessened by pollution controls. Since the Clean Air Act of 1970, coal plants have installed flue gas desulphurization (scrubbers) and selective catalytic reduction (SCR). These technologies have produced a cost to efficiency of 2% and 1% respectively [npc_efficiency].  The expansion of these technologies over time will nevertheless reduce the health and air pollution impact of coal on a per-kWh basis.  However, scrubbers and SCR will not address global warming since these technologies do not capture CO<sub>2</sub>."
+		],
+		"name": "Efficiency"
+	},
+	{
+		"content": [
+			"Due to the energy required to capture CO<sub>2</sub> emissions, installation of carbon capture and sequestration (CCS) reduces the efficiency of a coal plant by about 10% [cebrucean]. The costs of capturing CO<sub>2</sub> are estimated from $35 to $95 per ton [gillingham][hardisty][hu][rubin]. Moreover, the reduction in efficiency means that more coal is required to produce each kilowatt-hour for the broader economy, raising the non-greenhouse gas costs of coal combustion. This efficiency penalty has been estimated at 12-23 percentage-points [supekar]."
+		],
+		"name": "Carbon Capture and Sequestration"
+	},
+	{
+		"content": [
+			"Peat is partially decayed organic matter harvested primarily from bogs; it can be classified as either a fossil fuel or as bioenergy. Historically, peat was a critical resource in the Dutch Golden Age and served as a basis for a transition between an agrarian economy and an industrial economy [peats_cradle]. Today, peat consumption for energy is about 156 PJ per year, or 0.1% of coal consumption and 0.03% total energy consumption [wec_peat]. Peat has slightly greater greenhouse emissions than coal [peat_ghg][eia_ghg].",
+			"-peat_ghg.jpg-60",
+			"!Greenhouse gas emissions of peat [wec_peat] and subbituminous coal [eia_ghg].",
+			"Peat mining also imposes significant ecological impacts [peat_env]."
+		],
+		"name": "Peat"
+	}
+]

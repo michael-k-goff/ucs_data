@@ -1,0 +1,33 @@
+[
+	{
+		"content":[
+			"Urban heat islands are regions around cities that experience higher temperatures as a result of energy use, lack of convention or evaporation due to loss of vegetation, and features such as roofs and pavement that absorb more heat than natural land."
+		]
+	},
+	{
+		"name":"Extent",
+		"content":[
+			"On average, heat islands add several degrees Celsius to large cities.",
+			"-heat_island.jpg",
+			"!Sources: heat island effect in world cities by Estrada et al. [heat_island2], US cities estimated by Imhoff et al. [heat_island1], and humid and dry cities by Zhao et al. [heat_island3].",
+			"The urban heat island effect tends to be greater in larger, more compact, and more circular (as opposed to elongated) cities [uhi_cause].",
+			"The urban heat island effect is responsible for 2-4% of observed global warming, with the rest caused by greenhouse gases and black carbon (79% and 18% respectively) [uhi_agw]."
+		]
+	},
+	{
+		"name":"Impact",
+		"content":[
+			"About 166,000 people die every year from heat waves [who_heatwave], which cause health problems including respitory issues, heat stroke, and others [epa_heatwave]. Estimates for how many of these deaths can be attributed to urban heat islands varies considerably.",
+			"-uhi_deaths.jpg",
+			"!Sources: [uhi_hcmc][uhi_midlands].",
+			"The urban heat island effect has been estimated to cause about $270 million (2020 US dollars) of net present value damage in Melbourne, Australia [uhi_melbourne]. Worldwide, it may cost about 3.4% of GDP in 2100 [heat_island2]. The effect costs 14 large cities an estimated 0.068% of GDP in extra air conditioning costs alone [uhi_ac].",
+			"Urban heat islands have been linked with fish deaths [epa_heatwave], among other ecological impacts."
+		]
+	},
+	{
+		"name":"Mitigation",
+		"content":[
+			"The urban heat island effect can be mitigated by increasing a city's reflectivity, such as through white roofs, and by planting more vegetation. Both strategies were found to have benefit-cost ratios greater than 1 in Austria [uhi_austria]. Such strategies were also found to save lives through reducing the severity of heat waves in Washington, D. C. [uhi_dc]."
+		]
+	}
+]

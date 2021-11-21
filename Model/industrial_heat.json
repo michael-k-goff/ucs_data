@@ -1,0 +1,68 @@
+[
+	{
+		"content": [
+			"While largely invisible to the public, industrial heat is a major consumer of world energy.",
+			"-industrial_heat_context.jpg-60",
+			"!Industrial heat as a share of total industrial and total world energy consumption. Source: IEA [iea_sankey].",
+			"Industry requires heat in a variety of temperature ranges, in some cases over 1500 &deg;C. Most industrial heat is supplied from fossil sources. Of the renewable heat, most is biomass for low temperature processes.",
+			"-industrial_heat5.jpg-65",
+			"!Source: IEA [iea_heat]."
+		],
+		"name": "Demand for Industrial Heat"
+	},
+	{
+		"content": [
+			"For low temperature processes, solar and geothermal heating are options. High temperature heat can in principle be supplied by biomass, but generally requires either fossil fuels, nuclear options that have not yet been developed, or electricity or hydrogen that is currently prohibitively expensive for most cases. Following are the temperature ranges and theoretical market shares for several heating sources.",
+			"-industrial_heat3.jpg-65",
+			"!Potential market shares for most heating options are estimated by what portion of the United States industrial heat demand, as estimated by McMillan et al. [osti_heat], is at a temperature at or below what the heat source can generate. Hydrogen is estimated to potentially provide 75% of industrial heat demand in the United Kingdom [ccc_hydrogen]. Maximum temperatures for nuclear heat sources are taken from the World Nuclear Association [wna_heat], solar sources from the International Renewable Energy Association [irena_solar_heat], geothermal from the EPA [epa_heat], and biomass and fossil from the maximum temperature for which they are applied in McMillan et al."
+		],
+		"name": "Heating Options"
+	},
+	{
+		"content": [
+			"The following portrays estimated costs of providing industrial heat from various sources.",
+			"-industrial_heat1.jpg-60",
+			"!Sources: Beckers et al. [beckers], Bruckner et al. [ipcc_heat], Deason et al. [deason], International Renewable Energy Agency ([irena_solar_heat] and [irena_hydrogen]), EIA [coal_price], Department of Energy [qtr].",
+			"Advanced geothermal and solar heat have the potential to be competitive for low temperature heat demand. For temperatures up to 950 &degC, nuclear heat may be a good option, but the necessary reactors have not been developed yet. For higher temperatures, there are no options on the horizon that might be competitive with fossil fuels."
+		],
+		"name": "Cost"
+	},
+	{
+		"content": [
+			"Following are estimates of the lifecycle greenhouse gas emissions associated with industrial heat.",
+			"-industrial_heat2.jpg-65",
+			"!We lack data specific to heat, and so the following are estimated as the <a href=\"/solution/energy/energy_env\">emissions</a> from producing electricity from equivalent amounts of primary energy. Emissions from electricity assume the average U.S. mix.",
+			"Following are estimates of non-greenhouse gas external impacts of industrial heat.",
+			"-industrial_heat4.jpg",
+			"!As with greenhouse gas impacts above, absent data specific to heat, the following are estimated as the <a href=\"/solution/energy/energy_env\">impacts</a> of producing electricity from an equivalent amount of primary energy. Impacts of heat from electricity again assume the average U.S. mix."
+		],
+		"name": "Environmental Impacts"
+	},
+	{
+		"content": [
+			"Per unit of onsite energy, producing heat from electricity tends to be more expensive, both in terms of money and environmental impact, than burning fossil fuels directly if the electricity is produced from fossil fuels. However, this higher cost may be partially or completely offset by the fact that an electric heating option may require less onsite energy for the same job as a direct combustion option.",
+			"-electric_heat.jpg-60",
+			"!Estimated onsite energy savings for electric heat relative to the leading fossil-based option for select industrial products. Source: Lord et al. [bze].",
+			"The efficiency advantage of electric heat is greatest for temperatures below 160 &deg;C, for which heat pumps can be used [bze]."
+		],
+		"name": "Electrification of Heat"
+	},
+	{
+		"content": [
+			"Costs of solar heat can be reduced by improving the solar collection technology and by designing industrial processes to be integrated with solar heat. Barriers to expansion of solar heating in industry are lack of industry experience and the need to customize installations to particular enterprises [irena_solar_heat]. The solar thermal economic potential in 2030 is estimated at 15 exajoules [irena_solar_heat]. Promising industrial sectors for solar heat include textiles, food, metals, chemicals, and rubber [brunner]."
+		],
+		"name": "Solar Heat"
+	},
+	{
+		"content": [
+			"<a href=\"/solution/energy/nuclear\">High temperature gas reactors</a> (HTGR) are a potential source for high-grade process heat [htgr_heat]. With an outlet temperature as high as 950 &deg;C, HTGR would be suitable for thermochemical production of hydrogen, and this process is estimated to be competitive with conventional technologies, even without taking into account the emissions reductions of using HTGR.  Desalinated water produced from HTGR heat should be economically feasible at a water price about $1 /m<sup>3</sup>, which is exceeded in some regions.  Other promising applications include district heating, enhanced oil recovery, and high-temperature process heat in the chemical industry [htgr_heat]."
+		],
+		"name": "Nuclear Heat"
+	},
+	{
+		"content": [
+			"<a href=\"/solution/energy/geothermal\">Geothermal heat</a> may also be used for industrial purposes. Enhanced geothermal systems (EGS), which tap into deep sources that are not naturally permeable, have the potential to provide large quantities of baseload electricity and overcome the geographical limitations of conventional geothermal energy. However, EGS requires advanced drilling technology and is <a href=\"/solution/energy/geothermal\">still under development</a>. EGS is more likely to be valuable as a source of direct heat. A study of the Habanero EGS project at Cooper Basin in Australia found that it could produce heat that would be competitive with natural gas at $6.50 to $8.20 per GJ. Thus direct heat production should be economically competitive, even though electricity production is not, from the Habanero site [egs_heat]."
+		],
+		"name": "Geothermal Heat"
+	}
+]

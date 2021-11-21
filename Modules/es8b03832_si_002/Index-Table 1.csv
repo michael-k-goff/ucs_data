@@ -1,0 +1,21 @@
+,origin,external_id,Name,Multi-Output,Unit,Comment,Locale,Begin,End
+0,local.salmon-feed.2018.12.03,processes/1c65e9c6-0088-4753-b550-b7ce17438452,Maize gluten,X,n/a,Cederberg 1998,GLO,2016,0
+1,local.salmon-feed.2018.12.03,processes/1f163a68-1183-4765-b1bc-325046ee5fee,Sunflower meal,X,n/a,Nilsson el al. 2000,GLO,2016,0
+2,local.salmon-feed.2018.12.03,processes/33e21a25-db00-4d6a-b10d-0d3c196cd33e,Salmon feed at mill,,n/a,"The inventory refers to 1 kg processed feedstuff (fresh weight).
+Adapted from EcoInvent feed at mill process",NO,1996,1999
+3,local.salmon-feed.2018.12.03,processes/502dc4ec-8136-42a0-a46b-3cb449ab670c,Wheat flour,X,n/a,Narayanaswamy et al. 2000,GLO,2016,0
+4,local.salmon-feed.2018.12.03,processes/578da6df-0495-43d6-aa57-921c61753b77,bacteria pre-mill mix,,n/a,"Overland lab, NMBU",NO,2016,0
+5,local.salmon-feed.2018.12.03,processes/7016425f-92c9-4048-b6b0-c06e73fd8aeb,pre-mill mix,,n/a,"Overland lab, NMBU",NO,2016,0
+6,local.salmon-feed.2018.12.03,processes/7f4629fc-23b1-4b91-9df4-fa7722c6e879,Soy protein concentrate,,n/a,"Lusas & Riaz 1995, Samuel Fitwi et al. 2013",GLO,2016,0
+7,local.salmon-feed.2018.12.03,processes/96d33ada-593a-473f-941d-e0f97cedc02b,Yeast pre-mill mix (YPC),,n/a,"Overland lab, NMBU",NO,2016,0
+8,local.salmon-feed.2018.12.03,processes/9d936bc6-b835-4128-90d3-3ffe2bdfc7b1,Bacteria meal,,n/a,Source: Calysta Incorporated,US,2017,0
+9,local.salmon-feed.2018.12.03,processes/c77c0a9e-99e2-4ddb-b8c8-c6538dd1fec7,Yeast protein concentrate,X,n/a,Tallentire et al. 2018,GLO,2018,0
+10,local.salmon-feed.2018.12.03,processes/c7fd7cdf-45ac-45b0-a73f-e720eb79b9b0,Wheat starch and gluten,X,n/a,Deng et al. 2013,DE,2016,0
+11,local.salmon-feed.2018.12.03,processes/e2282665-c95a-413a-827d-b1e72a498e40,Peroxitan,,n/a,German Federal Office of the Environment,GLO,2017,0
+12,local.salmon-feed.2018.12.03,processes/e4671eb0-a34f-4ac2-be66-36f9ac1daf21,Salmon feed at mill_yeast,,n/a,"The inventory refers to 1 kg processed feedstuff (fresh weight).
+Adapted from EcoInvent feed at mill process",NO,1996,1999
+13,local.salmon-feed.2018.12.03,processes/f4c2c1e5-2cb8-4418-bda8-703f5d8d552e,Salmon feed at mill_bacteria,,n/a,"The inventory refers to 1 kg processed feedstuff (fresh weight).
+Adapted from EcoInvent feed at mill process",NO,1996,1999
+Processes,,,,,,data for all other processes used in LCI models,,,
+fig2_data,,,,,,LCIA results used in figure 2,,,
+fig3_data,,,,,,LCIA results used in figure 3,,,

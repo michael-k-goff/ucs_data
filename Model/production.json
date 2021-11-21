@@ -1,0 +1,60 @@
+[
+	{
+		"content": [
+			"Most of the world's energy comes from fossil fuels--coal, oil, and natural gas--and most non-fossil energy comes from nuclear power and hydroelectricity, with a growing share from renewable energy. The world energy mix has remained relatively stable.",
+			"-energy_by_source2021.jpg",
+			"!Source: BP [bp2021].",
+			"-bp2019.jpg-65",
+			"!Sources of world primary energy. \"Renewable\" sources include wind, solar, geothermal, biofuels, wave, and tidal, but not hydropower. Source: BP [bp]. Note that BP's figures differ slightly from the primary energy statistics reported by the International Energy Agency [iea_stats]."
+		],
+		"name": "Major Sources"
+	},
+	{
+		"content": [
+			"Following are estimates of the cost of producing electricity from major sources.",
+			"-lcoe.jpg-50",
+			"!For source information, see our analyses on <a href=\"/solution/energy/coal\">coal</a>, <a href=\"/solution/energy/gas\">natural gas</a>, <a href=\"/solution/energy/petroleum\">oil</a>, <a href=\"/solution/energy/hydro\">hydropower</a>, <a href=\"/solution/energy/nuclear\">nuclear</a>, <a href=\"/solution/energy/solar\">solar</a>, <a href=\"/solution/energy/wind\">wind</a>, <a href=\"/solution/energy/geothermal\">geothermal</a>, and <a href=\"/solution/energy/mhk\">ocean energy</a>.",
+			"Distributed energy sources are necessary for locations not served by centralized grids, such as remote communities and military installations, but tends to be more expensive.",
+			"-distributed_lcoe.jpg",
+			"!A sampling of estimates of levelized costs of distributed energy sources. Costs are highly variable and depend on local conditions. Sources are as follows for diesel generators [diesel_lcoe], solar [fraunhofer][lazard][mayor][indonesia_lcoe], wind [mayor], biomass [mayor], micro-hydro [indonesia_lcoe], nuclear micro-reactors [microreactor], and fuel cells [lcoe2015]."
+		],
+		"name": "Economics"
+	},
+	{
+		"content": [
+			"The three classes of fossil fuels are used in different ways.",
+			"-Usage of Fossil Fuels.jpg-65",
+			"!Use of coal, oil, and natural gas in major sectors of the economy. Consumption figures for transportation and agriculture, industry, and buildings exclude electricity. Source: IEA [iea_sankey].",
+			"Any successful effort to decarbonize the economy must address industry, particularly the heavy direct fossil fuel usage in industrial processes.  In addressing oil dependence, alternatives for liquid fuels in transportation are essential."
+		],
+		"name": "Usage of Fossil Fuels"
+	},
+	{
+		"content": [
+			"The world should have sufficient nonrenewable energy resources for the foreseeable future.",
+			"-img2019_06_11_rp.jpg-60",
+			"!Proven, economical reserves of major energy sources. As exploration continues and extraction technology improves, reserves should continue to expand. Source: World Energy Council [wec2016].",
+			"The resources of geothermal, nuclear fission, and fusion energy are far vaster.",
+			"-energy_reserves.jpg",
+			"!World primary energy production is about 600 exajoules, or 0.6 zetajoules, per year. Sources: [stanford_flux].",
+			"Among renewable energy sources, solar and possibly offshore wind should be available and economically feasible in sufficient quantities to meet world energy needs.",
+			"-img2019_06_11_potential.jpg-60",
+			"!World production potential from various renewable energy sources. Most estimates are given by the World Energy Council [wec2016], with additional estimates on wind and solar potential from Deng et al. [deng], wave from Gunn and Stock-Williams [gunn], Ocean Thermal from the National Research Council [nrc_otec], osmotic power from Stenzel and Wagner [stenzel], and biomethane from the IEA [iea_biomethane]. Figures are all conservative estimates of the limits of economically practical production with near-term technology; technical production potential, or the potential with more advanced technology, may be much greater. The practical short term limits on nuclear and fossil fuel production are unclear, though long term limits may be imposed by the resource base, as shown above."
+		],
+		"name": "Production Potential"
+	},
+	{
+		"content": [
+			"The energy return on energy invested (EROEI), based on the return on investment concept in finance, is the ratio of the energy producted by a given technology to the energy consumed by the production system. Low EROEI values may indicate that a technology is inherently unviable.",
+			"-img2019_06_11_eroei.jpg-55",
+			"!Estimates of EROEI for different energy sources. Values should be regarded as highly uncertain. Sources: Arodudu et al. [arodudu] on biomass and biofuels, Bhandari et al. [bhandari] on solar, Kampa [kampa] on geothermal, most energy sources from Hall et al. [hall], and additional estimates for most electricity sources from Weißbach et al. [weissbach]. Values are reported as ranges, as for most energy sources there are multiple estimates available."
+		],
+		"name": "Energy Return on Energy Invested"
+	},
+	{
+		"content": [
+			"Vaclav Smil's <a href='http://www.vaclavsmil.com/wp-content/uploads/docs/smil-article-2004world-history-energy.pdf'>long term perspective</a> on energy in the human economy."
+		],
+		"name": "For Further Reading"
+	}
+]

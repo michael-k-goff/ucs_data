@@ -1,0 +1,33 @@
+[
+	{
+		"content":[
+			"The way in which we produce and consume energy is central to several key aspects of human health."
+		]
+	},
+	{
+		"name":"Cause of Death",
+		"content": [
+			"In 2017, about 56 million people died in the following ways.",
+			"-cause_of_death.jpg",
+			"!Worldwide cause of death in 2017. Source: Global Burden of Disease Collaborative Network [disease_burden], via Our World in Data [owid_causeofdeath].",
+			"Following are estimated deaths by risk factors.",
+			"-death_risk_factors.jpg",
+			"!World death by risk factor, 2017. Not all deaths can be attributed to one of these risk factors, and multiple risk factors may contribute to a particular death. Source: Global Burden of Disease Collaborative Network [disease_burden], via Our World in Data [owid_causeofdeath], with climate change deaths in 2030 estimated by the World Health Organization [who_cc].",
+			"The leading cause of indoor air pollution is cooking fuel [who_indoor]."
+		]
+	},
+	{
+		"name":"Costs of Addressing Risk Factors",
+		"content":[
+			"The World Bank estimates a cost of $88 to $213 billion per year to provide universal access to safe and affordable drinking water, sanitation, safe human waste disposal, and hygiene [wbwater], or $54,000 to $132,000 per death to which unclean water contributes."
+		]
+	},
+	{
+		"name":"Existential Risk",
+		"content":[
+			"In addition to risks that affect individual human lives, there are risks that threaten civilization or humanity as a whole and may be much more serious, especially over the long term, than currently observed damages. The worst case outcome of <a href=\"/solution/climate\">climate change</a> is one such risk.",
+			"-existential_risk.jpg",
+			"!Partial list of risks that threaten civilization or humanity as a whole, or could cause a global catastrophe that kills a substantial fraction of the human population. Risks are chosen on the basis of estimated severity or high level of public concern, and not all plausible hazards to civilization are considered. Sources: Burke et al. [burke], EM-DAT [emdat], Dar ab et al. [strangelet], Ellis et al. [lhc_safety], Global Burden of Disease Collaborative Network [disease_burden], Herjavec Group [herjavec], Millett and Snyder-Beattie [bio_xrisk], NASA [asteroid], Scouras [scouras], SIPRI [sipri], Talbert [talbert], Turchin and Denkenberger [turchin], Wilcox et al. [supervolcano], World Health Organization [who_cc][who_pandemic]."
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"content":[
+			"In this section, we review options for reducing energy consumption and environmental impacts for four major industries: steel, cement, aluminum, and paper. See also our analysis of the <a href=\"/solution/energy/chemicals_energy\">chemical industry</a>.",
+			"-commodity_summary.jpg-60",
+			"!Energy for cement is taken from the IEA's Cement analysis [iea_cement2], aluminum from the IEA's Future of Petrochemicals analysis [futureofpetrochemicals], and the others from the IEA Sankey diagram [iea_sankey]. For primary energy conversions, data from Building Energy Codes Program [energycode] are used. Emissions figures are from the IEA's Industry overview [iea_ind]."
+		]
+	},
+	{
+		"content": [
+			"The iron and steel industries use about 29 exajoules of primary energy worldwide [energycode][iea_sankey]. World production of steel is growing rapidly, driven by industrialization in the developing world [iea_industry][steel_yearbook2018].",
+			"Following are estimates of the average energy required to make primary steel from virgin material, primary steel using state of the art technology, steel from recycled scrap, and several potential techniques--carbon capture and sequestration, hydrogen direct reduction, and electrowinnowing--that are not yet widely used.",
+			"-steel_energy.jpg-60",
+			"!Sources: World Steel Association [steel_production2018] for steel from virgin material, Worrell et al. [best_practices] for state-of-the-art steelmaking, the EIA [steel_energy_recycling] for steel from scrap, and Fischedick [fisch] for other techniques, which are not yet widely used. Calculations assume that hydrogen is produced by electrolysis from low carbon electricity. While the electrowinnowing route, which uses electricity directly to reduce iron ore, may save energy in the long run, hydrogen direct reduction is closer to commercialization and likely to be less expensive [fisch].",
+			"@Green Steel Plant@Green steel can have several meanings, but often refers to steel that is produced with hydrogen, produced by clean energy electrolysis, rather than coal as most steel is produced today. Green steel is generally too expensive to produce widely today, except where electricity is cheap and low-carbon. The price of green steel is likely to fall in coming years relative to alternatives [green_steel].@-green_steel.jpg@!Sources: price data from [whalen], emissions data as above.",
+			"Bringing all world steel production to the level of the most efficient plants could save 5 EJ [iea_industry] or 6 EJ [industry_benchmarking] of primary energy."
+		],
+		"name": "Iron and Steel"
+	},
+	{
+		"content": [
+			"World cement production has grown from 2.55 billion tons in 2006 [cement_roadmap] to 4.17 billion tons in 2014 [iea_cement], with more growth projected in the coming decades due to urbanization and industrialization.",
+			"From a greenhouse gas standpoint, cement is of particular concern due to emissions from calcinating limestone to produce clinker, the key binding material. Modern cement production is responsible for the equivalent of 0.54 tons of carbon dioxide per ton of cement as direct emissions [iea_cement], or 0.9 tons total, as follows.",
+			"-cement_breakdown.jpg-60",
+			"!About half of greenhouse gas emissions from cement making come from calcination, and the other half are from energy consumption. Source: Maddalena et al. [altcement].",
+			"The following portrays current emissions from the full cement production process and possible improvements.",
+			"-cement_ghg.jpg-60",
+			"!Current emissions are from Maddalena et al. [altcement], potential reduction from improved energy efficiency and clinker production processes are estimated by the IEA [iea_cement], and Maddalena et al. [altcement] estimate the potential from alternatives to clinker for binding.",
+			"Cement made with alternative binding material, such as geopolymer cement, may have lower costs [geopolymer2] and emissions than cement made from clinker due to avoidance of emissions from limestone calcination [geopolymer2][geopolymer1]. However, alternatives are not widely used today due to logistical challenges [geopolymer3] and a lack of industry standards [altcement][geopolymer1]."
+		],
+		"name": "Cement"
+	},
+	{
+		"content": [
+			"The world produced about 56 million tons of aluminum in the year through June 2015 [world_aluminum_prod], almost all through the Hall-H&eacute;roult process, which uses mostly electricity. Current and potential aluminum production has the following electricity needs.",
+			"-aluminum_energy.jpg-60",
+			"!Sources: world average electricity from the IEA [iea_aluminum], state of the art from Kvande and Drabløs [kvande], secondary (recycled) aluminum from the Energy Technology Systems Analysis Programme [etsap_alum], and estimates from new technology from the IEA [iea_aluminum].",
+			"Additionally, development of an inert anode, to replace the carbon-based anodes typically used today, would prevent the release of CO<sub>2</sub> from dissolution of the anode [kvande]."
+		],
+		"name": "Aluminum"
+	},
+	{
+		"content": [
+			"The largest share of wood products are used for fuel.",
+			"-wood_products.jpg-60",
+			"!Source: Food and Agriculture Organization of the United Nations [fao_wood2016].",
+			"World paper and paperboard demand is projected to grow to over 750 million tons per year by 2050 [cepi2050].",
+			"The United States paper industry has the following current and potential energy needs.",
+			"-paper_energy.jpg-60",
+			"!Sources: The EPA's WAste Reduction Model (WARM) [warm15] for paper from virgin pulp and recycling, and Miller et al. [paper_bandwidth] for best and potential new technology.",
+			"Paper can be recycled five to seven times before the fibers become too degraded [paper57].",
+			"The advancement of information and communication technology has not necessarily reduced paper demand as one might expect. Access to the Internet appears to have decreased the demand for newsprint, but it may have increased the demand for office paper [hujala][latta]."
+		],
+		"name": "Forestry, Pulp, and Paper"
+	}
+]

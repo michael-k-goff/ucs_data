@@ -1,0 +1,56 @@
+[
+	{
+		"content":[
+			"In this section, we examine several aspects of animal welfare."
+		]
+	},
+	{
+		"name":"Neuron Count and Moral Standing",
+		"content":[
+			"Under theories of sentiocentrism, it is the capacity to think and feel pain, observed through the presence of a central nervous system, that confers moral standing on an organism. Under models of gradual sentriocentrism, some sentient organisms are given more weight than others. The weighting can be crudely estimated by the number of neurons an organism has in its central nervous system.",
+			"-neuron.jpg",
+			"!Sources: [neuron_cat][neuron_cockroach][neuron_human][neuron_jellyfish][neuron_seaslug][neuron_elephant][neuron_monkey][neuron_mouse][neuron_bat][neuron_zebrafish][neuron_shrew1][neuron_raccoon][neuron_pig][neuron_tardigrade][neuron_frog][neuron_junglefowl][neuron_dog1][neuron_sponge][neuron_ant][neuron_lobster][neuron_octopus][neuron_roundworm]. See also <a href=\"https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons\">Wikipedia</a> for more information.",
+			"Brain size, body size, and observed intelligence are roughly correlated, but there are significant outliers; for example, birds tend to have highly packed brains and are intelligent for their size [brain_size]. Some species of whale and dolphin also show larger brains than humans [neuron_octopus]."
+		]
+	},
+	{
+		"name":"Animals in Captivity",
+		"content":[
+			"Ethics of animal welfare have typically focused on three captive groups: animals in food production, laboratory animals, and tamed animals in zoos and similar locations. By sheer numbers, food production marks the largest figures.",
+			"-captive.jpg",
+			"!Source: [four_activities].",
+			"Possibly much larger numbers of wild animals are affected by agriculture, pollution, and other human activities, but the figures are very difficult to quantify [four_activities]."
+		]
+	},
+	{
+		"name":"Predation",
+		"content":[
+			"Predation presents a dilemma between animal welfare and some versions of environmental ethics. On the one hand, predation causes substantial suffering and distress to prey creatures, and on the other, predation is an integral aspect of the functioning of ecosystems. Several views have been advanced on the Predation Problem.",
+			"-predation.jpg",
+			"!Sources: [wild_things][policing_nature][fraser][hargrove][kapembwa][mcmahan][pearce_pred][regan][rolston][sapontzis][singer].",
+			"Predation can be seen as a special case of wild animal suffering, which occurs also due to hunger, thirst, disease, and other factors. Due to evolutionary factors, which do not value the well-being of particular organisms, this suffering is extensive [river_eden]. Although it is difficult to measure precisely, evidence is that suffering dominates enjoyment in nature [welfare_biology2][welfare_biology]. There are practical measures that have been taken to reduce wildlife suffering, such as wildlife vaccination [wildlife_vaccination]."
+		]
+	},
+	{
+		"name":"Animals for Food",
+		"content":[
+			"The ethics of raising and eating animals for food are complicated. Though there are many viewpoints on the subject, the following are most common.",
+			"-meat_ethics.jpg",
+			"!Source: Saja [meat_facts].",
+			"Following are estimates of the number of farm animals that are killed for dietary needs.",
+			"-meat_ethics2.jpg",
+			"!Number of animals killed to meet the average Pole's meat or animal product intake from a single food source. These figures include male chicks that are killed at birth for egg laying and the loss of calves from artificial insemination in milk production. Source: Saja [meat_facts].",
+			"Also see our analysis of <a href=\"/solution/foodwater/meat\">meat and animal products</a> for more information on this topic."
+		]
+	},
+	{
+		"name":"Ethics of Zoos",
+		"content":[
+			"Zoos and aquariums are controversial institutions, seeking justification for their (alleged) cost in animal welfare. Zoos and aquariums are often justified for their value to conservation. These institutions can educate the public, inspire greater interest in conservation, raise money, and serve conservation directly as breeding grounds for endangered animals. On the latter point, the performances of zoos is questionable.",
+			"-zoo_conservation.jpg",
+			"!Source: [zoo_ethics].",
+			"Zoos have been criticized as vioating the freedom of animals to live a natural lifestyle and for diminishing their quality of life. Among people who have made this criticism, some conservationists and other experts argue that zoos may be justified on conservation grounds [zoo_ethics3][zoo_ethics2][sentiocentrism], while others that it is not [malamud][regan]. Animal advocates who approach the subject from more of a welfare view, rather than a rights view, are more likely to be open to zoos [zoo_ethics4].",
+			"Some zoos are ethically run, and some are not. Factors in an ethically run zoo include sufficient space for animals that mimics natural habitat, meeting of animals' physical needs, avoidance of animal tricks and limited animal exposure to the public, and the conduct of research or conservation activities [schuttler]. In a well-run zoo, animals tend to have longer lives and better satisfaction of physical needs than their wild counterparts, but other aspects of their well-being are hard to assess [zoo_welfare]."
+		]
+	}
+]

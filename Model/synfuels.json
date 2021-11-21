@@ -1,0 +1,42 @@
+[
+	{
+		"content": [
+			"In this section, we examine and compare several pathways for producing hydrocarbon fuels. We find that electrofuels, or synthetic fuels from electricity, are cost prohibitive at this time."
+		]
+	},
+	{
+		"content": [
+			"The following compares greenhouse gas emissions from several methods of producing complex hydrocarbons.",
+			"-synfuel_ghg.jpg-60",
+			"!Sources: Lattanzio [crs_oil], Steele et al. [lca_pyrolysis], Tu et al. [algae_lca], EPA [epa_biofuel]. Electrofuels, also known as power-to-fuel, are hydrocarbons that are produced from electrolyzed hydrogen. For these, the emissions intensity of electricity is taken from Schlömer et al. [techco2] and a conversion efficiency of 40-50% is applied, as estimated by Malins [electrofuel_overview]. No emissions other than those from electricity are assumed, though additional emissions should be attributed if the CO<sub>2</sub> source is from a flue gas and would otherwise be sequestered [electrofuel_overview]. Carbon capture and sequestration might also reduce emissions from coal- and gas-to-liquids [jara].",
+			"Despite the low efficiency of electrofuel production, corn ethanol requires far more land per unit energy.",
+			"-synfuel_landuse.jpg",
+			"!The land use estimate of algal biodiesel is estimated from Atabani et al. [biodiesel_review]. Yeh et al. [yeh] report land use from oil production. Data from Building Energy Codes Program [energycode] is used to estimate the primary energy behind electricity, Malins [electrofuel_overview] gives the conversion efficiency, and Ong et al. [nrel_solar_land] give the land use of solar power. Efficiency on gas-to-liquids is from Steynberg and Dry [gtl_efficiency], and for coal-to-liquids from Höök and Aleklett [ctl_efficiency]. Additional land use estimates are taken from General Electric [ge_coal], Stevens et al. [strata_landuse], World Energy Council [wec_ee]."
+		],
+		"name": "Environmental Impacts"
+	},
+	{
+		"name":"Energy Requirements",
+		"content": [
+			"As an energy carrier, liquid fuels require more primary energy input to produce than energy they contain. The conversion efficiency of primary energy into usable fuel varies by production method.",
+			"-synfuel_primary.jpg-60",
+			"!Sources: Höök and Aleklett [ctl_efficiency] for coal-to-liquids and Steynberg and Dry [gtl_efficiency] for gas-to-liquids. The low efficiency of electrofuels stem from two conversion processes: from a primary energy source into electricity, with efficiency about 32% (Building Energy Codes Program [energycode]); and then from electricity into hydrocarbons, with efficiency 40-50% (Malins [electrofuel_overview]).",
+			"In cars, electrofuels are a much less efficient use of electricity than direct use in an electric vehicle, and also less efficient than hydrogen.",
+			"-electricity_fuel_eff.jpg",
+			"!Source: Malins [electrofuel_overview]. The low efficiency of electrofuels stems from additional losses from the internal combustion engine, which has an efficiency of about 30% in modern cars (fueleconomy.gov [carfuel])."
+		]
+	},
+	{
+		"name":"Economics of Synthetic Fuels",
+		"content": [
+			"With the exception of sugarcane ethanol, most alternatives to petroleum-based gasoline are more expensive and not widely used without policy support.",
+			"-synfuel_price.jpg-60",
+			"!Sources: Biofuels and Emerging Technologies Team [gtl_cost] for gas-to-liquids, Brynolf et al. [electrofuel_cost] for electrofuels, Mantripragada and Rubin [ctl_cost] for coal-to-liquids, Moyo et al. [moyo] for biofuels, and the EIA [wholesale_gasoline] for wholesale gasoline as of June 2019. Electrofuels are especially expensive due to energy losses in the production processes. Prices are highly dependent on the price of feedstock.",
+			"The conversion of coal and natural gas into liquid fuels carry heavy greenhouse gas and other environmental costs, and they are not likely to ever be economically attractive options [ctl_viability][gtl_viability]. Aside from sugarcane, <a href=\"/solution/energy/bio\">biofuels</a> are also unlikely to be economically sound, and they carry major land use impacts. Electrofuels can be an acceptable option only with a low-cost and low-impact electricity source, and even then their use is likely to be confined to sectors that are difficult to electrify directly, such as aviation and long-distance trucking [electrofuel_overview].",
+			"Carbon abatement costs of electrofuels are as follows.",
+			"-synfuel_cost.jpg",
+			"!Cost of synthetic fuels, with a carbon cost of $50/ton, and estimated carbon abatement cost. A plant size of 50,000 barrels per day is assumed, as per [synfuel_size].",
+			"With such high carbon abatement costs, it does not make sense for a private developer to build a synfuel plant."
+		]
+	}
+]

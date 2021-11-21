@@ -1,0 +1,56 @@
+[
+	{
+		"content":[
+			"Worldwide, pollution is a leading <a href=\"/solution/habitat/health_socio\">cause of death</a> and causes substantial economic damage.",
+			"-pollution_damages.jpg-60",
+			"!Source: Landrigan et al. [lancet_pollution]."
+		]
+	},
+	{
+		"content": [
+			"Worldwide, particulate pollution is generated across the economy, especially from home combustion of biomass and coal. Forest and savannah fires are the major natural source of particulates.",
+			"-pm_source.jpg",
+			"!Sources of world particulate emissions as of 2010. Source: Klimont et al. [iiasa_pollution].",
+			"As of 2011, particulate air pollution in the United States caused nearly $900 billion in damages.",
+			"-by_pollutant.jpg-60",
+			"!Source: Goodkind et al. [air_pollution_damages].",
+			"Damages from air pollution depend both on the nature of the pollutant and where it is released; generally, pollutants released in high population density areas do more damage. Following are estimated monetized damage from particulate pollution by source.",
+			"-air_pollution_sources.jpg-60",
+			"!Source: Goodkind et al. [air_pollution_damages]."
+		],
+		"name": "Particulates"
+	},
+	{
+		"name":"Indoor Air Pollution",
+		"content":[
+			"Indoor air pollution contributes to 1.6 million [disease_burden] to 2.9 million [lancet_pollution] deaths per year. The main source of indoor air pollution is cooking, particularly with traditional biofuels in poor countries, and the death toll is trending down with development [owid_indoor].",
+			"-cook_pm.jpg-60",
+			"!Source: Edwards et al. [ef_cook]."
+		]
+	},
+	{
+		"name":"Acidification",
+		"content":[
+			"Freshwater and soil acidification are the reduction of pH in water and the soil, a process that harms ecosystems and soil fertility. Acid rain, a form of acidification, further harms ecosystems and buildings. Three main gases--sulfur dioxide (SO<sub>2</sub>), nitrogen oxides (NOx), and ammonia--are artificial causes of acidification, though some other gases play smaller roles [lindley].",
+			"-acidification.jpg-60",
+			"!Data on ammonia and NOx emissions may be unreliable due to age and difficulty of data collection. Sources: NOx from the UN [nox_source], SO<sub>2</sub> from Dahiya and Myllyvirta [greenpeace_sox], NH<sub>3</sub> from Sutton et al. [ammonia_source], and acidification potentials from Lindley et al. [lindley].",
+			"Following are estimates of major sources of sulfur dioxide and ammonia emissions worldwide and nitrogen oxide emissions in the United States.",
+			"-so2_source.jpg-60",
+			"!World sources of SO<sub>2</sub> emissions as of 2018. Source: Dahiya and Myllyvirta [greenpeace_sox]",
+			"-ammonia_source.jpg-60",
+			"!Figures are as of 2008, except for emissions from application of fertilizer, which are as of 2000. Source: Sutton et al. [ammonia_source].",
+			"-us_nox.jpg-60",
+			"!Source: U.S. EPA [nei2014].",
+			"Due to pollution controls, NOx emissions in the United States [nei2014], and SO<sub>2</sub> emissions in the United States and China [greenpeace_sox] are trending down."
+		]
+	},
+	{
+		"name":"Aerosol Loading",
+		"content":[
+			"Aside from direct impacts on human health, atmospheric aerosols have effects on the climate that are not yet fully understood. Current natural and human-caused aerosol emissions are estimated as follows.",
+			"-aerosol_source.jpg-60",
+			"!Source: Tomasi and Lupi [aerosol_source].",
+			"Most major classes of aerosols should cause short-term global cooling, by reflecting more sunlight than they absorb. The exception is black carbon, which causes warming [ipcc_aerosol]. A major source of uncertainty in the impact of aerosols is in their interaction with cloud formation [ipcc_aerosol]. If all aerosols from human activity were to cease, the result would be an estimated 0.5&#8451; to 1.1&#8451; global warming and a 2-4.6% increase in precipitation [samset], in contrast to the nearly 1&#8451; observed since the start of industrialization and 2&#8451; target set by the Paris Agreement. The cooling effect motivates interest in intentionally releasing aerosols into the upper atmosphere to offset <a href=\"/solution/habitat/climate_socio\">global warming</a>."
+		]
+	}
+]

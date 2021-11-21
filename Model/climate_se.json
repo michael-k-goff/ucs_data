@@ -1,0 +1,41 @@
+[
+	{
+		"content":[
+			"In this section we review the main causes of and responses to climate change. Key solutions are reductions in greenhouse gas emissions from <a href=\"/topic/energy/energy_production\">energy</a> and <a href=\"/topic/energy/foodwater\">agriculture</a>, as well as <a href=\"/solution/energy/ccs\">capture or removal</a> of carbon dioxide from industrial sources or the atmosphere, all of which may be spurred forward by <a href=\"/solution/energy/policy_se\">carbon pricing</a>. In this section we discuss adaptation and potential geoengineering solutions. For information on the ecological impacts of climate change, see <a href=\"/solution/habitat/climate_socio\">our discussion</a> under Habitat."
+		]
+	},
+	{
+		"content": [
+			"By sector, world greenhouse gas emissions are as follows as of 2016.",
+			"-emissions_by_sector.jpg-60",
+			"!Bunker fuels refer to emissions from international shipping or aviation. Source: World Resources Institute [cait].",
+			"Following are overall greenhouse gas emissions from human activity.",
+			"-Global Warming Potential.jpg-65",
+			"!Sources: overall: IPCC [ipcc_synthesis], carbon dioxide (CO<sub>2</sub>): Le Quéré et al. [carbon_budget], methane (CH<sub>4</sub>): Global Methane Initiative [methane], nitrous oxide (N<sub>2</sub>O): Davidson and Kanter [n2o1] and Winiwarter [n2o2], and fluorinated gases (F-gases): Purohit and Höglund-Isaksson [fgas].",
+			"Addressing the major sources of emissions requires replacing most of the world's current energy <a href=\"/topic/energy/energy_production\">production</a> with low carbon sources; reforming <a href=\"/topic/energy/foodwater\">agriculture</a> to reduce CO<sub>2</sub> emissions from land use, methane from enteric fermentation, and nitrous oxide emissions; preventing the release of methane from decomposing organic matter in <a href=\"/solution/energy/recycling\">landfills</a>, and phasing out the use of F-gases in refrigeration and <a href=\"/solution/energy/heating\">air conditioning</a> [epa_ghg]."
+		],
+		"name": "Source of Emissions"
+	},
+	{
+		"name":"Adaptation",
+		"content":[
+			"Climate adaptation refers to efforts intended to reduce harms from climate change, as opposed to mitigation, which is intended to reduce climate change itself. Worldwide, adaptation spending is a fraction of mitigation spending.",
+			"-climate_funding.jpg-60",
+			"!Major purposes of world business, government, and non-profit spending on climate change. Figures are averages of 2017 and 2018 totals and represent all spending the Climate Policy Initiative is able to track, which may not be all climate spending. Source: Buchner et al. [climate_fund].",
+			"The Global Commission on Adaptation has found $1.8 trillion of adaptation projects expected to have net benefits [adaptation14]."
+		]
+	},
+	{
+		"name":"Geoengineering",
+		"content":[
+			"Geoengineering can refer to any method of deliberately altering the Earth's climate or atmospheric composition. While direct air capture of CO<sub>2</sub> from the atmosphere and bioenergy and carbon capture and sequestration (BECCS) are often considered froms of geoengineering, we consider them in our analysis of <a href=\"/solution/energy/ccs\">carbon capture and sequestration</a>. Following is a summary of commonly considered geoengineering methods, their estimated costs, carbon removal or mitigation potential, limitations, and risks and drawbacks.",
+			"-geoengineering.jpg-70",
+			"!Sources: Bastin et al. [bastin], Boyd [boyd], Busch et al. [busch], Halstead [halstead], Lewis et al. [lewis], National Research Council [srm], N‘Yeurt et al. [ocean_afforestation], Robock et al. [sai_risk], Royal Society [ras_ghg_removal], Smith and Irvine [sai2], Smith and Wagner [sai], Strong et al. [oif], NOAA [congress_oif], Veldman et al. [veldman].",
+			"All proposed methods of geoengineering come with severe risk, limitations, and/or cost, though there is no reason to rule them out <i>a priori</i>.",
+			"<b>Solar Geoengineering</b>",
+			"Solar geoengineering refers to a method to reduce the sunlight that reaches Earth's surface, such as stratospheric aerosol injection, marine cloud brightening, and cirrus cloud thinning, and thus inducing cooling [sg2021]. While these are potentially useful and inexpensive tools, they carry possible unknown risks and do not address the problems of atmospheric CO<sub>2</sub> concentration or ocean acidification. Modeling and limited field trials are appropriate at this time, but not full scale deployment [sg2021].",
+			"<b>Other Types of Geoengineering</b>",
+			"There are several other methods sometimes discussed but not included above. The use of mirrors in orbit to reflect sunlight is at present impractical [srm], as is irrigation of the Sahara Desert [desert_flooding]. Efforts to increase Earth's surface albedo, such as by painting roofs white, would make insignificant contribution [desert_flooding]. There are several methods under development that could directly remove greenhouse gases other than CO<sub>2</sub>, but data on their prospects is limited [ras_ghg_removal]."
+		]
+	}
+]

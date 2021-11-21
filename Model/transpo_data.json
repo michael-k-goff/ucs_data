@@ -1,0 +1,61 @@
+[
+	{
+		"content": [
+			"As information technology becomes more central to the world economy and society, its energy demands will grow rapidly."
+		]
+	},
+	{
+		"content": [
+			"From 2010 to 2014, U.S. data center energy consumption grew only 4%, with demand growth only slightly outpacing energy efficiency. In the coming years, data centers energy consumption is expected to grow rapidly. Total IT energy demand is predicted to rise to from 1817 to 5860 TWh of electricity, or 20 to 63 exajoules of primary energy, from 2012 to 2025.",
+			"-it_energy.jpg-60",
+			"!IT energy consumption in 2012, reported by Cook et al. [greenpeace_data], and projected in 2015, estimated by Andrae [forecast2025]. The 2025 projection is over 20% world electricity consumption.",
+			"This growth will continue despite rapid ongoing improvement in energy efficiency.",
+			"-energy_it.jpg-60",
+			"!Energy efficiency in IT has been, and is expected to, improve rapidly. Source: Andrae [forecast2025].",
+			"The energy efficiency of data transmissions have been observed to roughly double every two years per gigabyte [koomeys_law]."
+		],
+		"name": "Growth in IT Energy Demand"
+	},
+	{
+		"content": [
+			"There are several options available to reduce the energy needs of data centers. European data centers have an average Power Usage Effectiveness--the ratio between total energy consumption and that used directly by the processors--of 1.8 [europe_pue]. The state of the art is at worst <a href=\"https://www.google.co.uk/about/datacenters/efficiency/internal/\">1.12</a>, indicating a potential savings of 38%. Data centers are typically more energy efficient when they can use the air of a cooler climate for cooling [cool_climate]. Eventually, <a href=\"https://engineering.leeds.ac.uk/news/article/20134/school-of-mechanical-engineering/152/'wet'-computer-server-wins-green-enterprise-it-award\">liquid cooling</a> of processors could save 80% of the data center's energy consumption.",
+			"However, the <a href=\"/solution/energy/rebound_se\">rebound effect</a>--the tendency for energy efficiency gains to be partially or entirely offset by increased consumption--is especially likely to apply to computation and data transfer [mills_series]. Energy efficiency is a key enabler of emerging information technologies such as deep learning, virtual and augmented reality, blockchain, and autonomous vehicles."
+		],
+		"name": "Energy Savings Potential"
+	},
+	{
+		"name":"Video Streaming",
+		"content":[
+			"The energy requirements of video streaming are estimated as follows.",
+			"-streaming_emissions.jpg",
+			"!Streaming emissions, as estimated by George Kamiya ([cb_streaming] via [iea_streaming]). Emissions are direct emissions, not accounting for embodied energy within devices or equipment. For streaming and the kettle scenario, the world average electricity mix is assumed, and for driving, the world average internal combustion car is assumed. For the smartphone, tablet, laptop, and TV scenarios, streaming is assumed to be done over a high-powered WiFi connection, whereas for the average scenario, steaming occurs over the average network connection. Because 4G connections are typically less energy-intensive than WiFi, the average data trasmission energy requirement is less than for any individual device. Figures are averages as of 2019, and due to rapid changes in the IT industry, figures may now differ significantly [dck_streaming].",
+			"Significantly higher steaming energy figures, often reported in the press, generally derive from an analysis done by The Shift Project in 2019 [tsp_streaming]. We believe Kamiya's figures are more reliable, as The Shift Project's figures for energy and carbon intensity of streaming are outdated and unrealistically high.",
+			"The growing popularity of virtual reality gaming [vr_games]; the commercialization of 8K [market8k] and higher resolution [resolution16k] displays, which contain four or more times as many pixels as UHDTV displays noted above; cloud gaming [cloud_gaming]; the rollout of 5G networks [streaming5g]; and the recent surge in demand for video conferencing [videoconferencing_demand] are among the factors that are likely to drive high demand growth for video streaming in the near future."
+		]
+	},
+	{
+		"name":"Cryptocurrency",
+		"content":[
+			"A cryptocurrency is a digital asset for which ownership and transactions are represented in a ledger using strong cryptography, typically a blockchain. Of many cryptocurrencies now in circulation, Bitcoin is the first and by far the largest by market capitalization [nakamoto]. A main goal of Bitcoin is to develop a system of transaction that is free of centralized control from governments and corporations [bitcoin_social]. Bitcoin has come under criticism for the heavy energy consumption of its proof-of-work mining system.",
+			"-bitcoin_energy.jpg",
+			"!Estimated annualized energy consumption for Bitcoin and Ethereum was accessed on March 9, 2021. At this time, the prices of Bitcoin (about $54,000) and Ethereum (about $1800) were near record highs, and thus energy consumption is higher than normal. It should be noted that, while assessed aspects of traditional banks have energy consumption comparable to Bitcoin, banks serve far more customers worldwide. Sources: [bitcoin_energy2][bitcoin_energy1][etherium_energy][bank_energy2][bank_energy1]. By way of comparison, the world uses <a href=\"/solution/energy/grid_overview\">about 27,000 TWh</a> of electricity per year.",
+			"As of 2020, 39% of proof-of-work mining was powered by renewable energy [cryptoasset], as miners take advantage of low prices resulting from excess capacity.",
+			"It is possible to save energy within Bitcoin and other cryptocurrencies by moving some transactions off the main chain, such as through the Lightning Network [lightning_energy]. Proof-of-stake blockchains typically require less energy than proof-of-work blockchains [proof_of_stake]."
+		]
+	},
+	{
+		"name":"Machine Learning",
+		"content":[
+			"Machine learning, a subfield of artificial intelligence, is a technique to develop algorithms through data. Deep learning, a type of machine learning that is based in neural networks, has in particular advanced considerably over the past decade [alexnet]. Advances in machine learning have underpinned areas such as natural language processing; gesture, audio, and video recognition; and robot locomotion, and its importance could grow greatly in the coming years. However, the energy needs of machine learning today and possible energy needs in the future are growing concerns.",
+			"-ml_energy.jpg",
+			"!Source: Biewald [ml_energy]. By way of comparison, the world uses <a href=\"/solution/energy/grid_overview\">about 27,000 TWh</a> of electricity per year.",
+			"Training a state-of-the-art deep learning model is expensive in terms of energy and CO<sub>2</sub> emissions, and the cost makes it prohibitive for any but large institutions to do cutting-edge machine learning research.",
+			"-ml_energy2.jpg",
+			"!Most figures are from Strubell et al. [strubell], with ELMo and BERT described by Peters et al [elmo] and Devlin et al. [bert] respectively. Strubell et al. examine GPT-2, OpenAI's state-of-the-art NLP model at the time, and some other models based on tensor processing units, but energy and emissions figures are not available.",
+			"From 2012-18, the compute in training runs of AI models doubled every 3.4 months [openai], much faster than the 2 year doubling time of transister density that defined Moore's Law (a trend that itself may be faltering), with the expectation that models will continue to grow rapidly.",
+			"-model_size.jpg",
+			"!The number of parameters of a model is a reasonably good proxy for the computer required to train it. Sources: most figures reported by the Allen Institute [greenai], with ELMo developed by Peters et al. [elmo2] and GPT-3 by OpenAI [gpt3].",
+			"The rapidly growing size of deep learning models, together with diminishing returns with model size, have inspired a Green AI methodology, which would make energy and cost efficiency a metric by which models are evaluated, along with accuracy on a test set [greenai]."
+		]
+	}
+]

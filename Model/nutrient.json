@@ -1,0 +1,42 @@
+[
+		{
+			"content": [
+				"Biogeochemical cycles refer to several important biochemical cycles on the global scale; the water cycle, the carbon cycle, the nitrogen cycle, and the phosphorous cycle are examples. Nitrogen may be of particular concern.",
+				"Since the advent of the Haber Bosch process, the flow of reactive nitrogen (N<sub>r</sub>, as opposed to unreactive N<sub>2</sub> that constitutes most of the atmosphere) has greatly increased beyond natural levels.",
+				"-nr_sources.jpg",
+				"!Sources of reactive nitrogen have greatly increased with artificial sources. Source: Fowler et al. [fowler]. As observed by Galloway et al. [galloway], natural sources of N<sub>r</sub> have decreased since the Industrial Revolution, but this should offset only a small portion of artificial production.",
+				"Much of the excess nitrogen is \"denitrified\", or converted back to N<sub>2</sub> and returned to the atmosphere. The excess flow through the terrestrial environment has an effect on species composition. Excess reactive nitrogen in the ocean can be sequestered and released as the greenhouse gas N<sub>2</sub>O, the long-term consequences of which are unclear [fowler].",
+				"Locally, nitrogen pollution causes eutrophication, the process whereby nitrogen fertilizers algae growth in a body of water, depleting oxygen and causing death of other organisms, as well as other harmful impacts. Monetized damages from nitrogen pollution in the European Union have been estimated as follows.",
+				"-nitrogen_damages.jpg",
+				"!Estimated monetized damages of nitrogen pollution, translated to 2020 US Dollars. Source: Sutton et al. [nr_damages]. As observed by Keeler et al. [minn_n], damages depend greatly on the site a pollutant is released.",
+				"If world damages from nitrogen pollution, per unit nitrogen fertilizer applied [faostat], are the same as for the EU [nr_damages], then world damages are $1 to $5 trillion per year. Most eutrophication damage comes from the food system.",
+				"-eutrophication.jpg",
+				"!Major sources of eutrophication. Source: Poore and Nemecek [poore].",
+				"Major sources of non-food eutrophication include inadequately treated wastewater, urban stormwater, and the atmosphere [oecd_nutrient]."
+			],
+			"name": "Nitrogen"
+		},
+		{
+			"content": [
+				"Agriculture is the main source of nitrogen and phosphorous runoff, which leads to eutrophication. Generally, meat and animal products lead to much greater eutrophication over their lifetime than plant-based foods.",
+				"-eutrophication_by_food.jpg",
+				"!Eutrophication by food item. Damages are measured in terms of \"nutritional units\", as defined by Poore and Nemecek [poore], which are 100 grams of protein for protein-dense foods and 1000 kcal for other foods. The measurements are roughly equivalent on a per-calorie basis, but for protein-dense foods, particularly meat and common meat substitites, are slightly fewer calories and more protein [nutritive].",
+				"In addition to adopting <a href=\"/solution/ag_diet\">plant-based diets</a>, fertilizer runoff and eutrophication can be reduced through <a href=\"/solution/ag_practices\">farming practices</a> such as no-till and precision farming, and <a href=\"/solution/ag_options\">intensive farming methods</a> such as greenhouses.",
+				"World economical reserves of phosphate rock, the main source of the critical element phosphorous in fertilizers, are between 60 [ifdc] and 69 billion [usgs2016] tons, or about 270-310 years of production at 2014 levels [usgs2016]. However, most known reserves are in Morocco [usgs2016], posing a risk to security of supply, and reserve estimates are in doubt [phosphate_critique]. There is not a clear reason to worry, but a thorough audit of reserves from an organization such as the Food and Agriculture Organization of the United Nations would be of value.",
+				"The following phosphorous conservation opportunities have been estimated.",
+				"-phosphorous_conservation.jpg",
+				"!Phosphorous conservation from cropping patterns estimated by [pasture_p] and from wastewater estimated from [muni_p_recovery]. The feasibility of the latter is uncertain [muni_p]."
+			],
+			"name": "Nutrient Pollution and Availability"
+		},
+		{
+			"content": [
+				"There are several key issues in soil health: erosion, organic carbon content, contamination with metals and other pollutants, acidification, salinization, biodiversity, sealing with impermeable material, nutrient balance, compaction, and waterlogging [fao_soil]. Following we consider erosion. Worldwide, 20-30 billion tons of soil are lost to water erosion, and an additional uncertain amount to wind erosion [fao_soil]. With water erosion causing an estimated $25/ton of damages (2020 dollars) [fao_food_waste], erosion may cause at least $500-750 billion of damages worldwide every year.",
+				"Agriculture is the main cause of erosion [erosion2].",
+				"-erosion.jpg",
+				"!Conventional agriculture causes significantly more erosion than natural biological and geological processes, while <a href=\"/solution/ag_practices\">conservation agriculture</a> is comparable. Conservation agriculture is a farming methodology that, among other things, seeks to minimize soil disturbance by avoiding tilling. Erosion rates are global averages, and values can vary widely by location, though are generally higher in hillier terrain. Source: Montgomery [erosion].",
+				"Agroforestry to create windbreaks [windbreak] and terracing on hilly terrains [terracing] also help reduce erosion."
+			],
+			"name": "Soil Health"
+		}
+	]
